@@ -1,0 +1,12 @@
+# Bưởi Luận VănGiới thiệu về giống bưởi Luận Văn có nguồn gốc từ thôn Luận Văn, xã Thọ Xương, huyện Thọ Xuân, tỉnh Thanh Hóa, Việt Nam.
+
+Giới thiệu
+Giống bưởi Luận Văn, còn được gọi là bưởi đỏ, là một sản vật quý của tỉnh Thanh Hóa, với lịch sử lâu đời và nét văn hóa đặc trưng. Đây là loại bưởi có màu đỏ tươi từ trong ra ngoài, mùi thơm dịu, và được ưa chuộng vào dịp Tết. Bưởi Luận Văn được trồng chủ yếu tại làng Luận Văn, xã Thọ Xương, và các xã Xuân Bái, Xuân Lam, Xuân Trường thuộc huyện Thọ Xuân, tỉnh Thanh Hóa. Với đặc điểm hình dạng bầu dục, đỉnh quả lồi, đường kính quả trung bình từ 15-15,6 cm, chiều cao quả trung bình từ 15-15,8 cm, trọng lượng từ 800-1000g/quả, và vỏ quả chuyển từ xanh sang vàng rồi sang màu đỏ tươi khi chín, bưởi Luận Văn đã trở thành một sản phẩm đặc trưng của địa phương.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://nld.com.vn/news-20210209081156765.htm ({'source_id': 4, 'source_type': 'web', 'chunk_index': 0, 'doc_name': 'article_jwlk_15'})
+[2] source/data7.pdf ({'source_type': 'pdf', 'doc_name': 'article_jwlk_15', 'chunk_index': 3, 'source_id': 3, 'page_number': 2})
+[3] https://nld.com.vn/news-20210209081156765.htm ({'chunk_index': 3, 'source_id': 4, 'source_type': 'web', 'doc_name': 'article_jwlk_15'})
+[4] https://nld.com.vn/news-20210209081156765.htm ({'chunk_index': 1, 'source_type': 'web', 'doc_name': 'article_jwlk_15', 'source_id': 4})
+[5] source/data6.txt ({'source_id': 1, 'doc_name': 'article_jwlk_15', 'source_type': 'txt', 'chunk_index': 10})

@@ -1,0 +1,23 @@
+# Bánh Phu ThêBánh phu thê là một loại bánh ngọt cổ truyền của Việt Nam, được làm từ gạo nếp cái hoa vàng và đỗ xanh, với màu vàng ươm và nhân mềm mại.
+
+Giới thiệu
+Lỗi API OpenAI: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org01k0f0faq6fqqvp1dvz9enm7wm` service tier `ondemand` on tokens per day (TPD): Limit 100000, Used 99044, Requested 1333. Please try again in 5m25.728s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'ratelimitexceeded'}}
+
+Nguyên liệu và quy trình thực hiện
+Lỗi API OpenAI: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org01k0f0faq6fqqvp1dvz9enm7wm` service tier `ondemand` on tokens per day (TPD): Limit 100000, Used 99746, Requested 1313. Please try again in 15m14.976s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'ratelimitexceeded'}}
+
+Sử dụng
+Lỗi API OpenAI: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org01k0f0faq6fqqvp1dvz9enm7wm` service tier `ondemand` on tokens per day (TPD): Limit 100000, Used 99837, Requested 1243. Please try again in 15m33.12s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'ratelimitexceeded'}}
+
+Món tương tự
+Lỗi API OpenAI: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org01k0f0faq6fqqvp1dvz9enm7wm` service tier `ondemand` on tokens per day (TPD): Limit 100000, Used 99928, Requested 1275. Please try again in 17m19.392s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'ratelimitexceeded'}}
+
+
+## TÀI LIỆU THAM KHẢO
+[1] source/data8.txt ({'source_type': 'txt', 'chunk_index': 0, 'source_id': 2, 'doc_name': 'article_jwlk_16'})
+[2] http://giadinh.net.vn/du-lich/ghe-dinh-bang-nem-banh-phu-the-20120408103046357.htm ({'chunk_index': 0, 'source_type': 'web', 'doc_name': 'article_jwlk_16', 'source_id': 1})
+[3] http://giadinh.net.vn/du-lich/ghe-dinh-bang-nem-banh-phu-the-20120408103046357.htm ({'chunk_index': 2, 'source_id': 1, 'source_type': 'web', 'doc_name': 'article_jwlk_16'})
+[4] http://giadinh.net.vn/du-lich/ghe-dinh-bang-nem-banh-phu-the-20120408103046357.htm ({'source_id': 1, 'doc_name': 'article_jwlk_16', 'chunk_index': 4, 'source_type': 'web'})
+[5] http://giadinh.net.vn/du-lich/ghe-dinh-bang-nem-banh-phu-the-20120408103046357.htm ({'source_type': 'web', 'doc_name': 'article_jwlk_16', 'source_id': 1, 'chunk_index': 3})
+[6] source/data8.txt ({'source_type': 'txt', 'chunk_index': 2, 'source_id': 2, 'doc_name': 'article_jwlk_16'})
+[7] http://giadinh.net.vn/du-lich/ghe-dinh-bang-nem-banh-phu-the-20120408103046357.htm ({'doc_name': 'article_jwlk_16', 'source_id': 1, 'source_type': 'web', 'chunk_index': 1})

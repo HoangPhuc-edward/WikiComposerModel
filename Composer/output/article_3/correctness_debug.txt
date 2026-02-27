@@ -1,0 +1,70 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Bánh gật gù là một loại bánh truyền thống của người dân huyện Tiên Yên, Quảng Ninh.
+3. * Bánh gật gù nổi tiếng nhất là ở Tiên Yên.
+4. * Bánh gật gù có thể tìm được trên khắp các vùng của Quảng Ninh.
+5. * Bánh gật gù được làm từ bột gạo.
+6. * Bánh gật gù được làm tương tự bánh cuốn và bánh phở.
+7. * Gạo được ngâm và đem nghiền thành bột để làm bánh gật gù.
+8. * Người dân thường cho thêm cơm nguội vào bột khi nghiền để bánh có độ phồng, xốp, dẻo mịn.
+9. * Bánh gật gù được tráng, hấp chín và đổ bột bánh lên khuôn một lớp dày.
+10. * Bánh gật gù được cuộn tròn không nhân và cắt thành từng khúc dài khoảng 15–20 cm.
+11. * Người xưa truyền lại rằng người dân Tiên Yên thường ăn sáng bằng bánh phở nhưng không thích có nhân.
+12. * Người dân Tiên Yên thích vị đậm đà từ gạo xứ Tiên Yên.
+13. * Bánh gật gù có tên từ việc miếng bánh cuộn tròn, dẻo quẹo, gật lên gật xuống khi cầm tay quẹt một chút nước mắm chấm.
+14. * Bánh gật gù rất kén nước chấm và các loại thức ăn đi kèm.
+15. * Nước chấm chuẩn của bánh gật gù được làm khá cầu kì.
+16. * Nước chấm của bánh gật gù được làm bằng cách chưng nước mắm với mỡ gà, hành phi và thịt băm.
+17. * Thức ăn đi kèm với bánh gật gù là khâu nhục hay còn gọi là thịt kho tàu.
+18. * Bánh gật gù có thể ăn kèm với nước chấm và khâu nhục.
+19. * Bánh gật gù có thể bảo quản trong tủ lạnh và ăn lại vào hôm sau.
+20. * Bánh gật gù có thể cắt thành từng miếng nhỏ và xào với thịt bò.
+21. * Bánh gật gù có thể ăn kèm với nước ninh xương như bún và phở.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: FAIL (Label: 2)
+Claim 2: * Bánh gật gù là một loại bánh truyền thống của người dân huyện Tiên Yên, Quảng Ninh.
+Result: PASS (Label: 1)
+Claim 3: * Bánh gật gù nổi tiếng nhất là ở Tiên Yên.
+Result: FAIL (Label: 2)
+Claim 4: * Bánh gật gù có thể tìm được trên khắp các vùng của Quảng Ninh.
+Result: FAIL (Label: 2)
+Claim 5: * Bánh gật gù được làm từ bột gạo.
+Result: PASS (Label: 1)
+Claim 6: * Bánh gật gù được làm tương tự bánh cuốn và bánh phở.
+Result: PASS (Label: 1)
+Claim 7: * Gạo được ngâm và đem nghiền thành bột để làm bánh gật gù.
+Result: FAIL (Label: 2)
+Claim 8: * Người dân thường cho thêm cơm nguội vào bột khi nghiền để bánh có độ phồng, xốp, dẻo mịn.
+Result: FAIL (Label: 2)
+Claim 9: * Bánh gật gù được tráng, hấp chín và đổ bột bánh lên khuôn một lớp dày.
+Result: FAIL (Label: 2)
+Claim 10: * Bánh gật gù được cuộn tròn không nhân và cắt thành từng khúc dài khoảng 15–20 cm.
+Result: FAIL (Label: 2)
+Claim 11: * Người xưa truyền lại rằng người dân Tiên Yên thường ăn sáng bằng bánh phở nhưng không thích có nhân.
+Result: FAIL (Label: 2)
+Claim 12: * Người dân Tiên Yên thích vị đậm đà từ gạo xứ Tiên Yên.
+Result: PASS (Label: 1)
+Claim 13: * Bánh gật gù có tên từ việc miếng bánh cuộn tròn, dẻo quẹo, gật lên gật xuống khi cầm tay quẹt một chút nước mắm chấm.
+Result: FAIL (Label: 2)
+Claim 14: * Bánh gật gù rất kén nước chấm và các loại thức ăn đi kèm.
+Result: FAIL (Label: 2)
+Claim 15: * Nước chấm chuẩn của bánh gật gù được làm khá cầu kì.
+Result: FAIL (Label: 2)
+Claim 16: * Nước chấm của bánh gật gù được làm bằng cách chưng nước mắm với mỡ gà, hành phi và thịt băm.
+Result: FAIL (Label: 2)
+Claim 17: * Thức ăn đi kèm với bánh gật gù là khâu nhục hay còn gọi là thịt kho tàu.
+Result: FAIL (Label: 2)
+Claim 18: * Bánh gật gù có thể ăn kèm với nước chấm và khâu nhục.
+Result: FAIL (Label: 2)
+Claim 19: * Bánh gật gù có thể bảo quản trong tủ lạnh và ăn lại vào hôm sau.
+Result: FAIL (Label: 2)
+Claim 20: * Bánh gật gù có thể cắt thành từng miếng nhỏ và xào với thịt bò.
+Result: FAIL (Label: 2)
+Claim 21: * Bánh gật gù có thể ăn kèm với nước ninh xương như bún và phở.
+Result: FAIL (Label: 2)
+
+FINAL CLAIM RECALL SCORE: 0.1905 (4/21)

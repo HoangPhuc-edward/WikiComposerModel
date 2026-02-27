@@ -1,0 +1,64 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+1. Dưới đây là danh sách các "Atomic Claims" (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+2. * Bánh trứng kiến là một món ăn của đồng bào dân tộc vùng núi đông bắc.
+3. * Bánh được làm từ trứng của con kiến và bột nếp, bột tẻ.
+4. * Nguyên liệu chính để làm bánh trứng kiến là trứng non của kiến.
+5. * Bột nếp nương được sử dụng làm bánh.
+6. * Lá non của cây vả được sử dụng để bọc bánh.
+7. * Người ta phải lên rừng tìm ổ những loại kiến lành để lấy trứng.
+8. * Trứng kiến thường to bằng hạt gạo và có màu trắng sữa.
+9. * Trứng kiến được rửa sạch và phi với hành khô.
+10. * Thịt lợn băm và lạc rang được thêm vào nhân bánh.
+11. * Lá kiệu được thái nhỏ và phi chảo thơm.
+12. * Củ kiệu được thái nhỏ và phi chảo thơm.
+13. * Bột nếp được ngâm với nước lạnh qua đêm.
+14. * Bột nếp được xay thành bột và nhào nặn với nước.
+15. * Bột nếp được cán mỏng và ốp vào lá vả.
+16. * Nhân bánh được rắc lên mặt bột bánh.
+17. * Lá vả được ốp lên bề mặt nhân bánh.
+18. * Bánh được hấp cách thủy khoảng 45 đến 50 phút.
+19. * Bánh được gói lá sao cho phần bánh và nhân được bọc trọn vẹn.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các "Atomic Claims" (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Bánh trứng kiến là một món ăn của đồng bào dân tộc vùng núi đông bắc.
+Result: PASS (Label: 1)
+Claim 3: * Bánh được làm từ trứng của con kiến và bột nếp, bột tẻ.
+Result: PASS (Label: 1)
+Claim 4: * Nguyên liệu chính để làm bánh trứng kiến là trứng non của kiến.
+Result: PASS (Label: 1)
+Claim 5: * Bột nếp nương được sử dụng làm bánh.
+Result: PASS (Label: 1)
+Claim 6: * Lá non của cây vả được sử dụng để bọc bánh.
+Result: PASS (Label: 1)
+Claim 7: * Người ta phải lên rừng tìm ổ những loại kiến lành để lấy trứng.
+Result: PASS (Label: 1)
+Claim 8: * Trứng kiến thường to bằng hạt gạo và có màu trắng sữa.
+Result: PASS (Label: 1)
+Claim 9: * Trứng kiến được rửa sạch và phi với hành khô.
+Result: PASS (Label: 1)
+Claim 10: * Thịt lợn băm và lạc rang được thêm vào nhân bánh.
+Result: PASS (Label: 1)
+Claim 11: * Lá kiệu được thái nhỏ và phi chảo thơm.
+Result: PASS (Label: 1)
+Claim 12: * Củ kiệu được thái nhỏ và phi chảo thơm.
+Result: PASS (Label: 1)
+Claim 13: * Bột nếp được ngâm với nước lạnh qua đêm.
+Result: PASS (Label: 1)
+Claim 14: * Bột nếp được xay thành bột và nhào nặn với nước.
+Result: PASS (Label: 1)
+Claim 15: * Bột nếp được cán mỏng và ốp vào lá vả.
+Result: PASS (Label: 1)
+Claim 16: * Nhân bánh được rắc lên mặt bột bánh.
+Result: PASS (Label: 1)
+Claim 17: * Lá vả được ốp lên bề mặt nhân bánh.
+Result: PASS (Label: 1)
+Claim 18: * Bánh được hấp cách thủy khoảng 45 đến 50 phút.
+Result: FAIL (Label: 2)
+Claim 19: * Bánh được gói lá sao cho phần bánh và nhân được bọc trọn vẹn.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 0.9474 (18/19)

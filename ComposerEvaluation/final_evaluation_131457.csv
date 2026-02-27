@@ -1,0 +1,16 @@
+﻿url,citation_recall,citation_precision,correctness
+https://vi.wikipedia.org/wiki/B%C3%A1nh_c%C3%A1y,100,100,91.3
+https://vi.wikipedia.org/wiki/B%C3%A1nh_%C4%91a_cua,50,30,97.3
+https://vi.wikipedia.org/wiki/B%C3%A1nh_h%E1%BB%8Fi,14.29,14.29,50
+https://vi.wikipedia.org/wiki/Tr%C3%A0_sen,100,100,25.81
+https://vi.wikipedia.org/wiki/Ch%E1%BA%A3_ch%C3%ACa,40,36,97.37
+https://vi.wikipedia.org/wiki/B%C3%A1nh_%C4%91%E1%BA%ADu_xanh_tr%C3%A1i_c%C3%A2y,100,66.67,40
+https://vi.wikipedia.org/wiki/Ch%C3%A8_kho,75,75,90
+https://vi.wikipedia.org/wiki/B%C3%A1nh_gi%C3%B2,100,100,35.71
+https://vi.wikipedia.org/wiki/B%C3%A1nh_n%E1%BA%BFp,100,65,93.75
+https://vi.wikipedia.org/wiki/B%C3%A1nh_m%E1%BA%ADt,66.67,66.67,83.33
+https://vi.wikipedia.org/wiki/B%C3%A1nh_%C3%ADt_tr%E1%BA%A7n,100,100,63.64
+https://vi.wikipedia.org/wiki/B%C3%A1nh_ph%E1%BB%93ng,33.33,33.33,84.62
+https://vi.wikipedia.org/wiki/B%C3%A1nh_tr%E1%BB%A9ng_ki%E1%BA%BFn,100,100,94.74
+https://vi.wikipedia.org/wiki/B%C6%B0%E1%BB%9Fi_Lu%E1%BA%ADn_V%C4%83n,100,80,57.14
+,77.09,69.07,71.77

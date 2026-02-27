@@ -1,0 +1,75 @@
+{
+  "name": "Standard Crop Wiki (Tree Structure)",
+  "description": "Mẫu cây trồng chuẩn dạng cây phân cấp.",
+  "system_instruction": "Bạn là chuyên gia nông nghiệp và biên tập viên Wiki. Hãy viết bài khách quan, khoa học, sử dụng ngôn ngữ chuyên ngành chính xác.",
+  "structure": [
+    {
+      "title": "Giới thiệu chung",
+      "description": "Viết đoạn mở đầu giới thiệu tên gọi (tên thường gọi, tên khoa học), nguồn gốc xuất xứ và tầm quan trọng kinh tế/xã hội của loại cây này."
+    },
+    {
+      "title": "Đặc điểm thực vật",
+      "subsections": [
+        {
+          "title": "Rễ",
+          "description": "Mô tả hệ rễ (rễ cọc/rễ chùm), độ sâu ăn đất và đặc điểm hình thái."
+        },
+        {
+          "title": "Thân và Lá",
+          "description": "Mô tả chiều cao cây, màu sắc, hình dạng lá, cách mọc lá (đối/cách)."
+        },
+        {
+          "title": "Hoa và Quả",
+          "description": "Mô tả đặc điểm sinh sản: màu sắc hoa, cấu tạo quả/hạt, thời gian ra hoa kết quả."
+        }
+      ]
+    },
+    {
+      "title": "Yêu cầu sinh thái",
+      "subsections": [
+        {
+          "title": "Khí hậu",
+          "description": "Nhiệt độ tối ưu, lượng mưa, ánh sáng và độ ẩm cần thiết."
+        },
+        {
+          "title": "Đất đai",
+          "description": "Loại đất thích hợp (pH, thành phần cơ giới) và yêu cầu về địa hình."
+        }
+      ]
+    },
+    {
+      "title": "Kỹ thuật canh tác",
+      "subsections": [
+        {
+          "title": "Thời vụ và Giống",
+          "description": "Các vụ trồng chính trong năm và các giống phổ biến năng suất cao."
+        },
+        {
+          "title": "Quy trình gieo trồng",
+          "description": "Mật độ trồng, cách làm đất và phương pháp gieo hạt/trồng cây con."
+        },
+        {
+          "title": "Chăm sóc và Phân bón",
+          "description": "Nhu cầu dinh dưỡng, chế độ tưới tiêu và cách bón phân theo giai đoạn."
+        }
+      ]
+    },
+    {
+      "title": "Sâu bệnh hại chính",
+      "subsections": [
+        {
+          "title": "Sâu hại",
+          "description": "Liệt kê các loại sâu chính, triệu chứng và biện pháp phòng trừ sinh học/hóa học."
+        },
+        {
+          "title": "Bệnh hại",
+          "description": "Các bệnh thường gặp do nấm/virus/vi khuẩn và cách xử lý."
+        }
+      ]
+    },
+    {
+      "title": "Thu hoạch và Bảo quản",
+      "description": "Dấu hiệu nhận biết thời điểm thu hoạch, phương pháp thu hái và quy trình sơ chế, bảo quản nông sản."
+    }
+  ]
+}

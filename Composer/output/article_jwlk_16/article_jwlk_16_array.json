@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Giới thiệu",
+        "type": "leaf",
+        "content": "Lỗi API OpenAI: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org01k0f0faq6fqqvp1dvz9enm7wm` service tier `ondemand` on tokens per day (TPD): Limit 100000, Used 99044, Requested 1333. Please try again in 5m25.728s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'ratelimitexceeded'}}",
+        "source": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "children": []
+    },
+    {
+        "title": "Nguyên liệu và quy trình thực hiện",
+        "type": "leaf",
+        "content": "Lỗi API OpenAI: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org01k0f0faq6fqqvp1dvz9enm7wm` service tier `ondemand` on tokens per day (TPD): Limit 100000, Used 99746, Requested 1313. Please try again in 15m14.976s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'ratelimitexceeded'}}",
+        "source": [
+            1,
+            2,
+            6,
+            4,
+            3
+        ],
+        "children": []
+    },
+    {
+        "title": "Sử dụng",
+        "type": "leaf",
+        "content": "Lỗi API OpenAI: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org01k0f0faq6fqqvp1dvz9enm7wm` service tier `ondemand` on tokens per day (TPD): Limit 100000, Used 99837, Requested 1243. Please try again in 15m33.12s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'ratelimitexceeded'}}",
+        "source": [
+            3,
+            7,
+            1,
+            5,
+            4
+        ],
+        "children": []
+    },
+    {
+        "title": "Món tương tự",
+        "type": "leaf",
+        "content": "Lỗi API OpenAI: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org01k0f0faq6fqqvp1dvz9enm7wm` service tier `ondemand` on tokens per day (TPD): Limit 100000, Used 99928, Requested 1275. Please try again in 17m19.392s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'ratelimitexceeded'}}",
+        "source": [
+            3,
+            7,
+            1,
+            5,
+            2
+        ],
+        "children": []
+    }
+]

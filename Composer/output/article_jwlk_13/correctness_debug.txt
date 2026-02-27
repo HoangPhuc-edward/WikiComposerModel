@@ -1,0 +1,46 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+2. * Bánh phồng được làm từ bột ngũ cốc kết hợp gia vị, phụ gia.
+3. * Bánh phồng được chiên phồng trong mỡ nước hay dầu ăn.
+4. * Bánh phồng phổ biến tại nhiều vùng trong cả nước.
+5. * Bánh phồng nổi tiếng tại Bến Tre và các tỉnh miền Tây Nam Bộ Việt Nam.
+6. * Bánh phồng có nhiều loại.
+7. * Loại bánh phồng phổ biến là bánh phồng mì, bánh phồng nếp, bánh phồng tôm, bánh phồng vẽ.
+8. * Nguyên liệu làm bánh phồng mì gồm mì, nước cốt dừa, đường cát.
+9. * Nguyên liệu của bánh phồng nếp là gạo nếp, nước cốt dừa và đường.
+10. * Bánh phồng tôm được làm từ bột và tôm.
+11. * Bánh phồng vẽ dùng xôi trắng cán nát và trộn với một số hương liệu.
+12. * Các loại bánh phồng thường được chiên phồng to lên, giòn và xốp.
+13. * Các loại bánh phồng được sử dụng như một món ăn khai vị hay món nhắm rượu.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Bánh phồng được làm từ bột ngũ cốc kết hợp gia vị, phụ gia.
+Result: PASS (Label: 1)
+Claim 3: * Bánh phồng được chiên phồng trong mỡ nước hay dầu ăn.
+Result: PASS (Label: 1)
+Claim 4: * Bánh phồng phổ biến tại nhiều vùng trong cả nước.
+Result: PASS (Label: 1)
+Claim 5: * Bánh phồng nổi tiếng tại Bến Tre và các tỉnh miền Tây Nam Bộ Việt Nam.
+Result: PASS (Label: 1)
+Claim 6: * Bánh phồng có nhiều loại.
+Result: PASS (Label: 1)
+Claim 7: * Loại bánh phồng phổ biến là bánh phồng mì, bánh phồng nếp, bánh phồng tôm, bánh phồng vẽ.
+Result: PASS (Label: 1)
+Claim 8: * Nguyên liệu làm bánh phồng mì gồm mì, nước cốt dừa, đường cát.
+Result: PASS (Label: 1)
+Claim 9: * Nguyên liệu của bánh phồng nếp là gạo nếp, nước cốt dừa và đường.
+Result: FAIL (Label: 2)
+Claim 10: * Bánh phồng tôm được làm từ bột và tôm.
+Result: PASS (Label: 1)
+Claim 11: * Bánh phồng vẽ dùng xôi trắng cán nát và trộn với một số hương liệu.
+Result: PASS (Label: 1)
+Claim 12: * Các loại bánh phồng thường được chiên phồng to lên, giòn và xốp.
+Result: FAIL (Label: 2)
+Claim 13: * Các loại bánh phồng được sử dụng như một món ăn khai vị hay món nhắm rượu.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 0.8462 (11/13)

@@ -1,0 +1,20 @@
+--- BÀI VIẾT CỦA AI (SESSION: article_jwlk_2) ---
+# Bánh đa cuaBánh đa cua là một món ăn phổ biến và đặc trưng trong ẩm thực Hải Phòng, được chế biến từ cua đồng, bánh đa đỏ và các nguyên liệu khác.
+
+Giới thiệu
+Bánh đa cua là một món ăn đặc sản của người Hải Phòng, được làm khá cầu kỳ từ khâu chọn nguyên liệu đến chế biến. Bánh đa nhúng thường là loại có một nắng, một sương, và để tạo ra bánh đa tươi, người làm phải có bí quyết từ chọn gạo, xay gạo, điều chỉnh lửa lò khi tráng bánh đến cách phơi bánh đượm nắng, ngấm sương. Món bánh đa cua này rất phổ biến và được người dân Hải Phòng lựa chọn cho bữa sáng quen thuộc, với nước dùng được nấu từ nước lọc cua, tạo nên vị ngọt thanh và thoang thoảng mùi thơm nhẹ rất đặc trưng của cua đồng. Khi thưởng thức, bát bánh đa cua không chỉ là sự kết hợp của các nguyên liệu như chả lá lốt, chả cá, tôm sắt xào và chả mọc, ăn kèm rau muống hay rau rút, mà còn là sự tổng hòa của màu sắc, với màu nâu đỏ của bánh đa, màu vàng sóng sánh của nước dùng, màu vàng nhạt của chả thịt, màu xanh mướt của rau muống, và màu vàng hơi cháy của hành phi, tạo nên một bức tranh ẩm thực đa sắc màu và hấp dẫn.
+
+Thành phần
+Thành phần của bánh đa cua bao gồm các nguyên liệu cơ bản như bánh đa, cua đồng, rau muống, rau nhút, chả lá lốt, chả cá, tôm sắt xào và chả mọc. Bánh đa được làm từ gạo và phải trải qua quá trình chọn nguyên liệu, xay gạo, điều chỉnh lửa lò khi tráng bánh và phơi bánh đượm nắng, ngấm sương để tạo thành bánh đa tươi. Cua đồng được sử dụng để tạo nên nước dùng cua đồng thanh ngọt và mát lành. Rau muống và rau nhút được thêm vào để tăng thêm hương vị và độ tươi mát cho món ăn. Các loại chả như chả lá lốt, chả cá, tôm sắt xào và chả mọc được thêm vào để tạo nên sự phong phú về nhân ăn kèm trong bát nước dùng cua đồng. Tất cả các thành phần này được kết hợp hài hòa để tạo nên món bánh đa cua đặc trưng và hấp dẫn của Hải Phòng.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://startup.vnexpress.net/tin-tuc/y-tuong-moi/bo-luong-nghin-usd-de-mo-quan-banh-da-hai-phong-3416162.html ({'chunk_index': 2, 'source_id': 4, 'doc_name': 'article_jwlk_2', 'source_type': 'web'})
+[2] http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/bo-luong-nghin-usd-de-mo-quan-banh-da-hai-phong-3416162.html ({'chunk_index': 2, 'doc_name': 'article_jwlk_2', 'source_id': 5, 'source_type': 'web'})
+[3] https://vnexpress.net/du-lich/hai-mon-ngon-tu-cua-o-hai-phong-3363141.html ({'doc_name': 'article_jwlk_2', 'chunk_index': 0, 'source_id': 2, 'source_type': 'web'})
+[4] https://vnexpress.net/du-lich/hai-mon-ngon-tu-cua-o-hai-phong-3363141.html ({'source_id': 2, 'doc_name': 'article_jwlk_2', 'source_type': 'web', 'chunk_index': 4})
+[5] http://suckhoe.vnexpress.net/tin-tuc/cac-benh/thuoc-va-thuc-pham/dam-da-banh-da-cua-hai-phong-2307154.html ({'chunk_index': 1, 'source_type': 'web', 'source_id': 3, 'doc_name': 'article_jwlk_2'})
+[6] http://suckhoe.vnexpress.net/tin-tuc/cac-benh/thuoc-va-thuc-pham/dam-da-banh-da-cua-hai-phong-2307154.html ({'source_type': 'web', 'chunk_index': 0, 'source_id': 3, 'doc_name': 'article_jwlk_2'})
+
+--- KẾT QUẢ ĐÁNH GIÁ SẼ ĐƯỢC CẬP NHẬT DƯỚI ĐÂY ---
+Recall: 50.0 | Precision: 30.0 | Correctness: 0.972972972972973

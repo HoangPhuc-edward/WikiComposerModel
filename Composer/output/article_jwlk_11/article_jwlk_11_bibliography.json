@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "https://baoquangninh.vn/dam-da-banh-mat-2401938.html",
+        "locator": {
+            "chunk_index": 1,
+            "source_id": 1,
+            "doc_name": "article_jwlk_11",
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 2,
+        "name": "https://baoquangninh.vn/dam-da-banh-mat-2401938.html",
+        "locator": {
+            "chunk_index": 0,
+            "doc_name": "article_jwlk_11",
+            "source_type": "web",
+            "source_id": 1
+        }
+    },
+    {
+        "id": 3,
+        "name": "https://baoquangninh.vn/dam-da-banh-mat-2401938.html",
+        "locator": {
+            "source_type": "web",
+            "source_id": 1,
+            "chunk_index": 6,
+            "doc_name": "article_jwlk_11"
+        }
+    },
+    {
+        "id": 4,
+        "name": "https://baoquangninh.vn/dam-da-banh-mat-2401938.html",
+        "locator": {
+            "chunk_index": 7,
+            "doc_name": "article_jwlk_11",
+            "source_id": 1,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 5,
+        "name": "https://baoquangninh.vn/dam-da-banh-mat-2401938.html",
+        "locator": {
+            "source_type": "web",
+            "doc_name": "article_jwlk_11",
+            "chunk_index": 3,
+            "source_id": 1
+        }
+    },
+    {
+        "id": 6,
+        "name": "https://baoquangninh.vn/dam-da-banh-mat-2401938.html",
+        "locator": {
+            "source_id": 1,
+            "doc_name": "article_jwlk_11",
+            "chunk_index": 2,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 7,
+        "name": "https://baoquangninh.vn/dam-da-banh-mat-2401938.html",
+        "locator": {
+            "source_id": 1,
+            "source_type": "web",
+            "chunk_index": 4,
+            "doc_name": "article_jwlk_11"
+        }
+    },
+    {
+        "id": 8,
+        "name": "https://baoquangninh.vn/dam-da-banh-mat-2401938.html",
+        "locator": {
+            "doc_name": "article_jwlk_11",
+            "chunk_index": 5,
+            "source_type": "web",
+            "source_id": 1
+        }
+    }
+]

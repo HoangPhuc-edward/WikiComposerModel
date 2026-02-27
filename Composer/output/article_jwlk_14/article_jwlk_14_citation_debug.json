@@ -1,0 +1,95 @@
+{
+    "session_id": "article_jwlk_14",
+    "full_content_parsed": [
+        {
+            "content": "Bánh trứng kiến là một trong những món bánh độc đáo của người Tày vùng núi Đông Bắc nước ta, mạn Bắc Kạn, Cao Bằng. Nguyên liệu chính để làm nên món bánh này chính là trứng kiến, một loại nguyên liệu đặc biệt chỉ có thể thu thập vào khoảng thời gian nhất định cuối tháng 4 và tháng 5 hằng năm, khi loài kiến đen rừng sinh trưởng mạnh nhất. Để có được trứng kiến non, người ta phải lên rừng tìm ổ những loại kiến lành như kiến đen thân nhỏ, đuôi nhọn, thường làm tổ trên các loại cây như vầu, nứa hay găng. Trứng kiến thường to bằng hạt gạo, có màu trắng sữa, thân mẩy và tròn. Bánh trứng kiến có thể ăn nóng hay nguội tùy ý, với loại bánh này thì ăn bất cứ lúc nào cũng có vị ngon riêng, người ăn luôn cảm nhận được độ dẻo của gạo nếp, vị mềm của lá vả, và đặc biệt là vị béo béo ngậy ngậy của nhân bánh được làm từ trứng kiến.",
+            "source_ids": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "content": "Cách làm bánh trứng kiến bao gồm các công đoạn sau: đầu tiên, cần phải có được trứng kiến non, người ta phải lên rừng tìm ổ những loại kiến lành như kiến đen thân nhỏ, đuôi nhọn, thường làm tổ trên các loại cây như vầu, nứa hay găng, trứng kiến thường to bằng hạt gạo, có màu trắng sữa, thân mẩy và tròn. Sau khi thu thập được trứng kiến, người ta sẽ rửa sạch và bắc lên chảo phi với hành khô để tạo nhân bánh. Để làm phần bánh, cần sử dụng gạo nếp nương, hạt to và dẻo, đãi sạch rồi ngâm với nước lạnh qua đêm, sau đó để ráo nước, xay thành bột và nhào nặn với nước. Sau khi nhào nặn cho bột thật dẻo và mịn, bột nếp sẽ được cán mỏng cỡ nửa phân, to hình vuông cỡ bằng bàn tay, rồi ốp miếng bột nếp đó vào một chiếc lá vả, rắc nhân lên mặt bột bánh, cuối cùng là ốp miếng lá vả tiếp theo lên bề mặt nhân bánh đó, gói lá sao cho phần bánh và nhân được bọc trọn vẹn không bị hở ra bên ngoài. Cuối cùng, bánh sẽ được hấp cách thủy khoảng 45 đến 50 phút là chín.",
+            "source_ids": [
+                4,
+                2,
+                5,
+                1,
+                6
+            ]
+        }
+    ],
+    "source_map_loaded": {
+        "1": "Bánh trứng kiến - đặc sản đầu hè đất Cao Bằng",
+        "2": "Bánh trứng kiến - đặc sản đầu hè đất Cao Bằng",
+        "3": "Bánh trứng kiến - đặc sản đầu hè đất Cao Bằng",
+        "4": "Bánh trứng kiến - đặc sản đầu hè đất Cao Bằng",
+        "5": "Bánh trứng kiến - đặc sản đầu hè đất Cao Bằng",
+        "6": "Bánh trứng kiến - đặc sản đầu hè đất Cao Bằng"
+    },
+    "bibliography_reference": [
+        {
+            "id": 1,
+            "name": "source/data5.txt",
+            "locator": {
+                "source_id": 1,
+                "chunk_index": 2,
+                "source_type": "txt",
+                "doc_name": "article_jwlk_14"
+            }
+        },
+        {
+            "id": 2,
+            "name": "source/data5.txt",
+            "locator": {
+                "doc_name": "article_jwlk_14",
+                "chunk_index": 8,
+                "source_id": 1,
+                "source_type": "txt"
+            }
+        },
+        {
+            "id": 3,
+            "name": "source/data5.txt",
+            "locator": {
+                "source_type": "txt",
+                "doc_name": "article_jwlk_14",
+                "chunk_index": 0,
+                "source_id": 1
+            }
+        },
+        {
+            "id": 4,
+            "name": "source/data5.txt",
+            "locator": {
+                "source_id": 1,
+                "doc_name": "article_jwlk_14",
+                "source_type": "txt",
+                "chunk_index": 3
+            }
+        },
+        {
+            "id": 5,
+            "name": "source/data5.txt",
+            "locator": {
+                "chunk_index": 4,
+                "source_id": 1,
+                "source_type": "txt",
+                "doc_name": "article_jwlk_14"
+            }
+        },
+        {
+            "id": 6,
+            "name": "source/data5.txt",
+            "locator": {
+                "doc_name": "article_jwlk_14",
+                "source_type": "txt",
+                "chunk_index": 6,
+                "source_id": 1
+            }
+        }
+    ]
+}

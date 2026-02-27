@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "http://eva.vn/bep-eva/banh-chuoi-hap-an-choi-de-lam-c162a142916.html",
+        "locator": {
+            "source_id": 1,
+            "source_type": "web",
+            "doc_name": "article_jwlk_7",
+            "chunk_index": 0
+        }
+    },
+    {
+        "id": 2,
+        "name": "http://eva.vn/bep-eva/banh-chuoi-hap-an-choi-de-lam-c162a142916.html",
+        "locator": {
+            "source_id": 1,
+            "chunk_index": 4,
+            "source_type": "web",
+            "doc_name": "article_jwlk_7"
+        }
+    },
+    {
+        "id": 3,
+        "name": "http://eva.vn/bep-eva/banh-chuoi-hap-an-choi-de-lam-c162a142916.html",
+        "locator": {
+            "source_type": "web",
+            "chunk_index": 3,
+            "doc_name": "article_jwlk_7",
+            "source_id": 1
+        }
+    },
+    {
+        "id": 4,
+        "name": "http://eva.vn/bep-eva/banh-chuoi-hap-an-choi-de-lam-c162a142916.html",
+        "locator": {
+            "chunk_index": 1,
+            "source_type": "web",
+            "source_id": 1,
+            "doc_name": "article_jwlk_7"
+        }
+    },
+    {
+        "id": 5,
+        "name": "http://eva.vn/bep-eva/banh-chuoi-hap-an-choi-de-lam-c162a142916.html",
+        "locator": {
+            "source_type": "web",
+            "source_id": 1,
+            "chunk_index": 2,
+            "doc_name": "article_jwlk_7"
+        }
+    }
+]

@@ -1,0 +1,133 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Vải thiều là loại trái cây phổ biến ở một số quốc gia nhiệt đới.
+3. * Vải thiều được trồng ở tỉnh Hải Dương và tỉnh Bắc Giang.
+4. * Cụ Hoàng Văn Cơm sinh năm 1848 và mất năm 1923.
+5. * Cụ Hoàng Văn Cơm từng làm phu khuân vác ở cảng Hải Phòng.
+6. * Cụ Thành nhặt được 6 hạt vải từ người Trung Quốc và đem về quê ương giống.
+7. * Cụ Thành mọc được 3 cây vải từ 6 hạt.
+8. * Cụ bà sơ ý làm hỏng 2 cây vải.
+9. * Cây vải tổ đầu tiên ở nước ta được trồng bởi cụ Thành.
+10. * Cụ Hoàng Văn Thu là cháu nội của cụ Thành.
+11. * Cụ Thu sinh năm Canh ngọ, 1930 ở thôn Thuý Lâm, xã Thanh Sơn, huyện Thanh Hà, tỉnh Hải Dương.
+12. * Cây vải tổ hiện nay thuộc quyền sở hữu của cụ Hoàng Văn Thu.
+13. * Vải thiều được nhân giống sang một số nơi khác trên cả nước.
+14. * Vải thiều có kích thước quả bé nhất trong tất cả các giống vải hiện nay.
+15. * Quả vải thiều có dạng quả hơi tròn.
+16. * Chiều cao quả vải thiều là 3,3 – 3,4 cm.
+17. * Chiều rộng quả vải thiều là 3,4 – 3,5 cm.
+18. * Tỷ lệ cao quả/rộng quả của vải thiều là 0,94 – 0,98.
+19. * Quả vải thiều chín màu đỏ.
+20. * Hạt vải thiều rất nhỏ màu đen tuyền hoặc không hạt.
+21. * Cùi vải thiều trắng dày ăn rất ngọt.
+22. * Hương vị của vải thiều thơm đặc biệt.
+23. * Quả vải thiều nặng 18 - 20g.
+24. * Tỷ lệ cùi của vải thiều là 72 - 80%.
+25. * Thịt vải thiều hơi nhão.
+26. * Vải thiều cho vào miệng sẽ cho cảm giác như tự tan ra.
+27. * Vải thiều không có vị se, vị chua, chát.
+28. * Vải thiều ra hoa vào tháng 3 dương lịch.
+29. * Vải thiều chín vào tháng 6.
+30. * Thời gian thu hoạch vải thiều thường ngắn, khoảng 2 tuần.
+31. * Vải thiều được chế biến bằng cách sấy khô.
+32. * Sản phẩm vải khô được gọi là vải khô.
+33. * Vải thiều Thanh Hà được Bộ Khoa học và Công nghệ cấp Chứng nhận "Chỉ dẫn địa lý" năm 2007.
+34. * Vải thiều Thanh Hà được bảo hộ nhằm đảm bảo quyền lợi của người sản xuất, người tiêu dùng.
+35. * Vải thiều Lục Ngạn được ưa chuộng trên cả nước.
+36. * Vải thiều Lục Ngạn được xuất sang thị trường Trung Quốc và một số nước ASEAN.
+37. * Diện tích vải thiều sản xuất theo tiêu chuẩn VietGAP đạt 15,5 nghìn ha.
+38. * Tỉnh Bắc Giang có kế hoạch duy trì ổn định tổng diện tích trồng vải thiều toàn tỉnh vụ năm 2022 khoảng 28.100 ha.
+39. * Bắc Giang có hơn 28 nghìn ha vải thiều tập trung tại các huyện: Lục Ngạn, Lục Nam, Tân Yên, Sơn Động.
+40. * Giá thành của vải thiều xuất khẩu sang Nhật là 300 tới 400 nghìn đồng 1 kg.
+41. * Thị trường nội địa của vải thiều bao gồm Hà Nội, TP Hồ Chí Minh, Cần Thơ, Hải Phòng, Quảng Ninh, Đà Nẵng, Thừa Thiên Huế.
+42. * Thị trường xuất khẩu của vải thiều bao gồm Trung Quốc, Các Tiểu vương quốc Ả rập thống nhất, Pháp, Malaysia, Philippine, Thái Lan, Mỹ, Thụy Điển, Australia, Singapore, Canada, Liên bang Nga, Hàn Quốc và Anh, Úc, Nhật Bản.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: FAIL (Label: 2)
+Claim 2: * Vải thiều là loại trái cây phổ biến ở một số quốc gia nhiệt đới.
+Result: PASS (Label: 1)
+Claim 3: * Vải thiều được trồng ở tỉnh Hải Dương và tỉnh Bắc Giang.
+Result: FAIL (Label: 2)
+Claim 4: * Cụ Hoàng Văn Cơm sinh năm 1848 và mất năm 1923.
+Result: FAIL (Label: 2)
+Claim 5: * Cụ Hoàng Văn Cơm từng làm phu khuân vác ở cảng Hải Phòng.
+Result: FAIL (Label: 2)
+Claim 6: * Cụ Thành nhặt được 6 hạt vải từ người Trung Quốc và đem về quê ương giống.
+Result: FAIL (Label: 2)
+Claim 7: * Cụ Thành mọc được 3 cây vải từ 6 hạt.
+Result: FAIL (Label: 2)
+Claim 8: * Cụ bà sơ ý làm hỏng 2 cây vải.
+Result: FAIL (Label: 2)
+Claim 9: * Cây vải tổ đầu tiên ở nước ta được trồng bởi cụ Thành.
+Result: FAIL (Label: 2)
+Claim 10: * Cụ Hoàng Văn Thu là cháu nội của cụ Thành.
+Result: FAIL (Label: 2)
+Claim 11: * Cụ Thu sinh năm Canh ngọ, 1930 ở thôn Thuý Lâm, xã Thanh Sơn, huyện Thanh Hà, tỉnh Hải Dương.
+Result: PASS (Label: 1)
+Claim 12: * Cây vải tổ hiện nay thuộc quyền sở hữu của cụ Hoàng Văn Thu.
+Result: FAIL (Label: 2)
+Claim 13: * Vải thiều được nhân giống sang một số nơi khác trên cả nước.
+Result: PASS (Label: 1)
+Claim 14: * Vải thiều có kích thước quả bé nhất trong tất cả các giống vải hiện nay.
+Result: FAIL (Label: 2)
+Claim 15: * Quả vải thiều có dạng quả hơi tròn.
+Result: FAIL (Label: 2)
+Claim 16: * Chiều cao quả vải thiều là 3,3 – 3,4 cm.
+Result: FAIL (Label: 2)
+Claim 17: * Chiều rộng quả vải thiều là 3,4 – 3,5 cm.
+Result: FAIL (Label: 2)
+Claim 18: * Tỷ lệ cao quả/rộng quả của vải thiều là 0,94 – 0,98.
+Result: FAIL (Label: 2)
+Claim 19: * Quả vải thiều chín màu đỏ.
+Result: FAIL (Label: 2)
+Claim 20: * Hạt vải thiều rất nhỏ màu đen tuyền hoặc không hạt.
+Result: FAIL (Label: 2)
+Claim 21: * Cùi vải thiều trắng dày ăn rất ngọt.
+Result: FAIL (Label: 2)
+Claim 22: * Hương vị của vải thiều thơm đặc biệt.
+Result: FAIL (Label: 2)
+Claim 23: * Quả vải thiều nặng 18 - 20g.
+Result: FAIL (Label: 2)
+Claim 24: * Tỷ lệ cùi của vải thiều là 72 - 80%.
+Result: FAIL (Label: 2)
+Claim 25: * Thịt vải thiều hơi nhão.
+Result: FAIL (Label: 2)
+Claim 26: * Vải thiều cho vào miệng sẽ cho cảm giác như tự tan ra.
+Result: FAIL (Label: 2)
+Claim 27: * Vải thiều không có vị se, vị chua, chát.
+Result: FAIL (Label: 0)
+Claim 28: * Vải thiều ra hoa vào tháng 3 dương lịch.
+Result: FAIL (Label: 2)
+Claim 29: * Vải thiều chín vào tháng 6.
+Result: FAIL (Label: 2)
+Claim 30: * Thời gian thu hoạch vải thiều thường ngắn, khoảng 2 tuần.
+Result: FAIL (Label: 2)
+Claim 31: * Vải thiều được chế biến bằng cách sấy khô.
+Result: FAIL (Label: 2)
+Claim 32: * Sản phẩm vải khô được gọi là vải khô.
+Result: FAIL (Label: 2)
+Claim 33: * Vải thiều Thanh Hà được Bộ Khoa học và Công nghệ cấp Chứng nhận "Chỉ dẫn địa lý" năm 2007.
+Result: FAIL (Label: 2)
+Claim 34: * Vải thiều Thanh Hà được bảo hộ nhằm đảm bảo quyền lợi của người sản xuất, người tiêu dùng.
+Result: PASS (Label: 1)
+Claim 35: * Vải thiều Lục Ngạn được ưa chuộng trên cả nước.
+Result: FAIL (Label: 2)
+Claim 36: * Vải thiều Lục Ngạn được xuất sang thị trường Trung Quốc và một số nước ASEAN.
+Result: FAIL (Label: 2)
+Claim 37: * Diện tích vải thiều sản xuất theo tiêu chuẩn VietGAP đạt 15,5 nghìn ha.
+Result: FAIL (Label: 2)
+Claim 38: * Tỉnh Bắc Giang có kế hoạch duy trì ổn định tổng diện tích trồng vải thiều toàn tỉnh vụ năm 2022 khoảng 28.100 ha.
+Result: FAIL (Label: 2)
+Claim 39: * Bắc Giang có hơn 28 nghìn ha vải thiều tập trung tại các huyện: Lục Ngạn, Lục Nam, Tân Yên, Sơn Động.
+Result: FAIL (Label: 2)
+Claim 40: * Giá thành của vải thiều xuất khẩu sang Nhật là 300 tới 400 nghìn đồng 1 kg.
+Result: FAIL (Label: 2)
+Claim 41: * Thị trường nội địa của vải thiều bao gồm Hà Nội, TP Hồ Chí Minh, Cần Thơ, Hải Phòng, Quảng Ninh, Đà Nẵng, Thừa Thiên Huế.
+Result: FAIL (Label: 2)
+Claim 42: * Thị trường xuất khẩu của vải thiều bao gồm Trung Quốc, Các Tiểu vương quốc Ả rập thống nhất, Pháp, Malaysia, Philippine, Thái Lan, Mỹ, Thụy Điển, Australia, Singapore, Canada, Liên bang Nga, Hàn Quốc và Anh, Úc, Nhật Bản.
+Result: FAIL (Label: 2)
+
+FINAL CLAIM RECALL SCORE: 0.0952 (4/42)

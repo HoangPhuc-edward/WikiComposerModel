@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Giới thiệu chung",
+        "type": "leaf",
+        "content": "Bánh cáy là một món ăn đặc sản của làng Nguyễn, thuộc xã Nguyên Xá, huyện Đông Hưng, tỉnh Thái Bình. Tên gọi của bánh bắt nguồn từ hạt nếp cái hoa vàng đem ngâm, trộn gấc đỏ đồ xôi, rồi ép dẻo, xắt hạt lựu lại đem phơi khô, có màu vàng giống trứng con cáy. Để làm bánh cáy, người dân làng Nguyễn sử dụng loại nếp cái hoa vàng vừa thơm vừa dẻo, được chia làm 3 phần, trong đó 2 phần để nấu xôi và 1 phần để làm bỏng. Quá trình chế biến bánh cáy đòi hỏi sự tỉ mỉ và công phu, từ việc nấu xôi, trộn với gấc đỏ, ép dẻo, xắt hạt lựu, cho đến việc sấy khô và tạo hình. Hiện nay, toàn xã Nguyên Xá có khoảng 300 hộ làm bánh cáy, cho sản lượng 120-150 tấn mỗi tháng, và bánh cáy đã trở thành một món ăn đặc sản nổi tiếng của tỉnh Thái Bình.",
+        "source": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "children": []
+    },
+    {
+        "title": "Đặc điểm và chế biến",
+        "type": "leaf",
+        "content": "Đặc điểm và chế biến của bánh cáy là một quá trình phức tạp và đòi hỏi sự tỉ mỉ. Để tạo ra màu sắc tự nhiên cho bánh, người làm bánh sử dụng các nguyên liệu như gấc đỏ, dành dành, và vừng. Gấc đỏ được dùng để tạo màu đỏ, dành dành tạo màu vàng tươi, và vừng được rang chín để tạo màu vàng nhẹ. Quy trình chế biến bắt đầu bằng việc ngâm và trộn gấc đỏ với nếp cái hoa vàng, sau đó đồ xôi và ép dẻo. Hỗn hợp này được xắt hạt lựu và phơi khô để tạo ra màu vàng giống trứng con cáy. Để tạo ra bánh cáy, người làm bánh phải chuẩn bị nhiều nguyên liệu khác nhau, bao gồm mỡ lợn, lạc, vừng, cà rốt, gừng tươi, và vỏ quýt tươi. Mỡ lợn được thái nhỏ và ướp trộn với đường trước khi được xào cho đến khi đạt độ trong và giòn. Lạc và vừng được rang chín và xát nhẹ để bỏ vỏ. Cà rốt, gừng tươi, và vỏ quýt tươi được xào đường và để riêng. Sau khi đã sơ chế hoàn chỉnh, người làm bánh đem hỗn hợp trên trộn đều với mật mía và đổ vào chảo, đảo đều tay cho tới khi dậy mùi. Hỗn hợp này được múc vào khuôn gỗ đã lót sẵn vừng bên trong để tạo hình. Bánh khi cứng lại được lấy ra khỏi khuôn và khoác lớp áo vừng bóng bẩy bên ngoài. Để tạo ra bánh cáy thành phẩm, người làm bánh phải đảm bảo độ ngọt vừa phải, thơm mùi lạc, vừng rang, ngậy vị của mứt bí, độ béo của xôi, dừa và vị cay cay của gừng.",
+        "source": [
+            3,
+            2,
+            4,
+            1,
+            5
+        ],
+        "children": []
+    }
+]

@@ -1,0 +1,25 @@
+# Wiki 3
+
+Giới thiệu chung
+Bánh gật gù là một món ăn truyền thống và đặc sản nổi tiếng của huyện Tiên Yên, Quảng Ninh. Về cơ bản, cách làm bánh gật gù không khác nhiều so với bánh phở, chỉ khác ở chỗ bánh phở được pha bột loãng hơn một chút. Sau khi lấy bánh ra, bánh phở chỉ cần gấp 2 mép, tạo thành từng lá, trong khi bánh gật gù có thể được cuốn kèm với các nguyên liệu khác. Bánh gật gù thường được ăn kèm với nước lèo, một loại nước chấm đặc trưng, và có thể được phục vụ với các nguyên liệu như thịt bò xào tái, hành khô, và rau thơm. Món bánh này đã trở thành một phần quan trọng của văn hóa ẩm thực địa phương và được yêu thích bởi nhiều người.
+
+Nguyên liệu và chế biến
+Nguyên liệu và chế biến bánh gật gù và bánh phở khá tương đồng, chỉ khác nhau ở tỷ lệ pha bột. Để làm bánh, người ta sử dụng bột gạo tẻ, có thể pha thêm bột cơm nguội. Quy trình chế biến bắt đầu từ việc xay bột, sau đó tráng bột thành bánh. Đối với bánh phở, bột sẽ được pha loãng hơn một chút so với bánh gật gù. Sau khi tráng bánh, bánh phở sẽ được gấp 2 mép, tạo thành từng lá, trong khi bánh gật gù sẽ được cuốn lại thành hình tròn, to bằng ngón chân cái, và cắt khúc dài khoảng mười đến mười lăm xăng ti. Tên gọi "gật gù" có thể xuất phát từ việc ăn bánh này có thể giúp giảm cảm giác thèm ăn khác, giống như một sự "gật gù" đồng ý. Khi ăn, bánh gật gù thường được chấm với nước lèo, một loại nước chấm đặc biệt được pha chế với hành khô đập dập, băm qua, nhầy mỡ, và có vị mặn, dậy mùi nước mắm, cùng với một chút mùi địa liền.
+
+Dùng bánh
+Để thưởng thức bánh gật gù một cách trọn vẹn nhất, bạn cần biết cách pha chế nước chấm đặc trưng đi kèm và các món ăn kết hợp. Nước chấm góp phần rất lớn tạo nên sự hấp dẫn của món bánh gật gù. Thông thường, bánh gật gù được ăn kèm với khau nhục hay thịt chó mắm tôm, tạo nên hương vị đặc trưng và phong phú. Ngoài ra, nếu bạn không ăn hết bánh, có thể bảo quản nó trong ngăn mát tủ lạnh và sử dụng vào ngày hôm sau bằng cách cắt thành từng miếng nhỏ rồi xào với thịt bò hoặc ăn kèm với nước ninh xương như bún, phở. Việc kết hợp bánh gật gù với các món ăn khác sẽ giúp bạn cảm nhận được hết sự đa dạng và phong phú của món ăn này.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://nld.com.vn/dia-phuong/banh-gat-gu-20120923063338346.htm ({'doc_name': 'article_3', 'chunk_index': 3, 'source_id': 3, 'source_type': 'web'})
+[2] http://vovworld.vn/vi-VN/huong-vi-que-nha/gat-gu-voi-banh-gat-gu-tien-yen-550846.vov ({'doc_name': 'article_3', 'chunk_index': 2, 'source_type': 'web', 'source_id': 2})
+[3] https://nld.com.vn/dia-phuong/banh-gat-gu-20120923063338346.htm ({'doc_name': 'article_3', 'source_type': 'web', 'chunk_index': 2, 'source_id': 3})
+[4] https://vtv.vn/doi-song/den-tien-yen-thuong-thuc-dac-san-banh-gat-gu-20180920171132131.htm ({'source_id': 6, 'chunk_index': 1, 'source_type': 'web', 'doc_name': 'article_3'})
+[5] https://nld.com.vn/dia-phuong/banh-gat-gu-20120923063338346.htm ({'doc_name': 'article_3', 'source_id': 3, 'source_type': 'web', 'chunk_index': 4})
+[6] http://vovworld.vn/vi-VN/huong-vi-que-nha/gat-gu-voi-banh-gat-gu-tien-yen-550846.vov ({'source_id': 2, 'doc_name': 'article_3', 'source_type': 'web', 'chunk_index': 8})
+[7] https://nld.com.vn/dia-phuong/banh-gat-gu-20120923063338346.htm ({'chunk_index': 0, 'source_id': 3, 'doc_name': 'article_3', 'source_type': 'web'})
+[8] http://vovworld.vn/vi-VN/huong-vi-que-nha/gat-gu-voi-banh-gat-gu-tien-yen-550846.vov ({'chunk_index': 5, 'source_type': 'web', 'doc_name': 'article_3', 'source_id': 2})
+[9] http://vovworld.vn/vi-VN/huong-vi-que-nha/gat-gu-voi-banh-gat-gu-tien-yen-550846.vov ({'chunk_index': 6, 'source_type': 'web', 'doc_name': 'article_3', 'source_id': 2})
+[10] https://dulich.dantri.com.vn/du-lich/doc-dao-mon-banh-gat-gu-cua-vung-dat-mo-1395757665.htm ({'source_type': 'web', 'chunk_index': 4, 'source_id': 4, 'doc_name': 'article_3'})
+[11] https://dulich.dantri.com.vn/du-lich/doc-dao-mon-banh-gat-gu-cua-vung-dat-mo-1395757665.htm ({'source_id': 4, 'doc_name': 'article_3', 'chunk_index': 1, 'source_type': 'web'})
+[12] https://thanhnien.vn/doi-song/am-thuc/banh-gat-gu-vua-an-vua-gat-cua-tien-yen-798434.html ({'chunk_index': 3, 'doc_name': 'article_3', 'source_type': 'web', 'source_id': 5})

@@ -1,0 +1,44 @@
+METHOD,IDENTIFIER,RESULT,DURATION_SECONDS,SCORE,THRESHOLD
+AUDIO,full_1,ĐÚNG,177.347,97,85
+AUDIO,full_2,ĐÚNG,164.123,98,85
+AUDIO,full_3,ĐÚNG,233.252,98,85
+AUDIO,full_4,ĐÚNG,275.853,98,85
+AUDIO,full_5,ĐÚNG,288.177,98,85
+NEWSPAPER,https://nongnghiepmoitruong.vn/bon-phan-dung-la-chia-khoa-canh-tac-lua-chat-luong-cao-phat-thai-thap-d790187.html,ĐÚNG,0.533,99,85
+NEWSPAPER,https://nongnghiepmoitruong.vn/bien-khoai-mo-thanh-nguyen-lieu-da-ung-dung-d789231.html,ĐÚNG,0.131,96,85
+NEWSPAPER,https://nongnghiepmoitruong.vn/thanh-long-lam-dong-huong-toi-giam-phat-thai-d786522.html,ĐÚNG,0.112,98,85
+NEWSPAPER,https://nongnghiepmoitruong.vn/mien-dong-ngay-cang-noi-tieng-giup-binh-lieu-xoa-so-ho-ngheo-d789598.html,ĐÚNG,0.092,99,85
+NEWSPAPER,https://nongnghiepmoitruong.vn/san-xuat-trai-cay-vietgap-giam-tu-20--30-chi-phi-vat-tu-dau-vao-d788438.html,ĐÚNG,0.109,99,85
+NEWSPAPER,https://nongnghiepmoitruong.vn/dak-lak-danh-gia-mo-hinh-san-xuat-giong-khoai-lang-cay-mo-d788007.html,ĐÚNG,0.099,100,85
+NEWSPAPER,https://vnexpress.net/cam-17-5-cua-tap-doan-nongfu-spring-ra-mat-tai-viet-nam-4993820.html,ĐÚNG,1.292,100,85
+NEWSPAPER,https://vnexpress.net/nha-khoa-hoc-ban-giai-phap-cho-nong-nghiep-va-chan-nuoi-ben-vung-4986994.html,ĐÚNG,0.311,98,85
+NEWSPAPER,https://vnexpress.net/vi-sao-nguoi-tre-khong-muon-gan-bo-nong-nghiep-4935532.html,ĐÚNG,0.081,95,85
+NEWSPAPER,https://vnexpress.net/tong-bi-thu-can-khoi-day-khat-khao-cong-hien-cua-moi-tang-lop-nhan-dan-4995871.html,ĐÚNG,0.092,100,85
+NEWSPAPER,https://vnexpress.net/cay-lua-chiem-12-tong-phat-thai-khi-metan-toan-the-gioi-4989486.html,ĐÚNG,0.089,100,85
+NEWSPAPER,https://dantri.com.vn/noi-vu/lai-chau-uu-tien-phat-trien-nong-nghiep-cong-nghe-cao-20251209183744723.htm,ĐÚNG,0.383,100,85
+NEWSPAPER,https://dantri.com.vn/bat-dong-san/xay-nha-tren-dat-nong-nghiep-bi-thu-hoi-so-do-phai-lam-the-nao-20251212120454536.htm,ĐÚNG,0.267,100,85
+NEWSPAPER,https://dantri.com.vn/lao-dong-viec-lam/nong-dan-thu-loi-kep-tu-viec-bat-loai-oc-pha-hoai-mua-mang-20251215081853531.htm,ĐÚNG,0.153,100,85
+NEWSPAPER,https://dantri.com.vn/lao-dong-viec-lam/nguoi-dan-vung-kho-kiem-bon-tien-nho-thuc-an-cho-ca-sau-va-tom-hum-20220306002644781.htm,ĐÚNG,0.068,100,85
+NEWSPAPER,https://dantri.com.vn/kinh-doanh/nong-dan-do-xo-di-bat-oc-buou-vang-hai-lua-thu-loi-hang-trieu-dong-20191111095939532.htm,ĐÚNG,0.054,95,85
+NEWSPAPER,https://dantri.com.vn/lao-dong-viec-lam/dan-ngheo-khoc-meu-khi-bi-xanh-duoc-mua-lai-bi-dau-ra-20220916162103411.htm,ĐÚNG,0.056,100,85
+NEWSPAPER,https://baodongnai.com.vn/kinh-te/202512/cam-my-voi-muc-tieu-hinh-thanh-trung-tam-che-bien-nong-san-81272e0/,ĐÚNG,0.272,93,85
+NEWSPAPER,https://baodongnai.com.vn/kinh-te/202512/dong-nai-quyet-tam-giu-vung-top-dau-tang-truong-da671db/,ĐÚNG,0.099,93,85
+NEWSPAPER,https://vietnamnet.vn/dac-san-chi-co-mot-thang-o-ninh-binh-cho-thu-nhap-gap-3-4-lan-trong-lua-2463031.html,ĐÚNG,0.624,100,85
+NEWSPAPER,https://vietnamnet.vn/mot-ruong-hai-loi-xa-ngheo-doi-doi-nho-trong-lua-nuoi-tom-hum-2471243.html,ĐÚNG,0.874,100,85
+NEWSPAPER,https://vietnamnet.vn/bi-che-dai-khi-bo-lua-trong-oi-hong-lao-nong-can-tho-nay-thu-400-trieu-moi-nam-2458634.html,ĐÚNG,1.341,100,85
+TEXT FILES,Chôm chôm Dona,ĐÚNG,0.033,100,85
+TEXT FILES,Chôm chôm đường,ĐÚNG,0.004,100,85
+TEXT FILES,Chôm chôm Java,ĐÚNG,0.004,100,85
+TEXT FILES,Chôm chôm nhãn,ĐÚNG,0.004,100,85
+TEXT FILES,Bưởi da xanh,ĐÚNG,0.183,100,85
+TEXT FILES,Bưởi Lông Cổ cò,ĐÚNG,0.014,100,85
+VIDEO_LOCAL,full_1,ĐÚNG,1720.432,98,75
+VIDEO_LOCAL,full_2,ĐÚNG,971.414,97,75
+VIDEO_LOCAL,full_3,ĐÚNG,659.338,97,75
+VIDEO_LOCAL,full_4,ĐÚNG,470.184,95,75
+VIDEO_LOCAL,full_5,ĐÚNG,944.93,97,75
+YOUTUBE,full_1,ĐÚNG,1316.47,98,75
+YOUTUBE,full_2,ĐÚNG,1907.65,95,75
+YOUTUBE,full_3,ĐÚNG,777.423,96,75
+YOUTUBE,full_4,ĐÚNG,549.378,95,75
+YOUTUBE,full_5,ĐÚNG,934.091,97,75

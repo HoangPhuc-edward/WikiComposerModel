@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Giới thiệu",
+        "type": "leaf",
+        "content": "Bánh phồng là một loại bánh truyền thống của Việt Nam, đặc biệt phổ biến tại tỉnh Bến Tre. Loại bánh này đã được sản xuất và tiêu thụ trong nhiều năm, với lịch sử hình thành và phát triển gắn liền với làng nghề Sơn Đốc. Người dân tại đây đã sáng tạo và cải tiến ra nhiều loại bánh phồng khác nhau, bao gồm bánh phồng nếp, bánh phồng mì, bánh phồng nếp sữa, bánh phồng mì tráng chuối, tạo ra nhiều vị đặc trưng riêng cho bánh phồng tại Sơn Đốc. Với sự phát triển của công nghệ, quy trình sản xuất bánh phồng đã được hiện đại hóa, giúp tăng năng suất và chất lượng của bánh. Hiện nay, bánh phồng Sơn Đốc đã trở thành một trong những đặc sản nổi tiếng của tỉnh Bến Tre, được nhiều người biết đến và ưa chuộng.",
+        "source": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "children": []
+    },
+    {
+        "title": "Phân loại",
+        "type": "leaf",
+        "content": "Phân loại bánh phồng tại Việt Nam khá đa dạng, với nhiều loại bánh khác nhau được sản xuất và tiêu thụ rộng rãi. Một số loại bánh phồng phổ biến bao gồm bánh phồng mì và bánh phồng nếp, đây là những loại bánh truyền thống và được nhiều người ưa chuộng. Ngoài ra, người dân làng nghề Sơn Đốc cũng đã sáng tạo và cải tiến ra nhiều loại bánh mới như bánh phồng nếp sữa, bánh phồng mì tráng chuối, tạo ra nhiều vị đặc trưng riêng cho bánh phồng ở Sơn Đốc. Những loại bánh này không chỉ được tiêu thụ trong nước mà còn được nhiều du khách quốc tế biết đến và yêu thích.",
+        "source": [
+            1,
+            5,
+            6,
+            7,
+            8
+        ],
+        "children": []
+    },
+    {
+        "title": "Sử dụng",
+        "type": "leaf",
+        "content": "Bánh phồng là một món ăn đặc sản của làng nghề Sơn Đốc, được sử dụng như một món ăn khai vị hoặc món nhắm rượu. Để sử dụng bánh phồng, trước tiên cần chiên phồng bánh cho đến khi bánh giòn và phồng lên. Sau đó, bánh có thể được sử dụng như một món ăn kèm với các loại nước chấm hoặc món ăn khác. Bánh phồng cũng có thể được sử dụng như một món ăn chính, được kết hợp với các loại nhân như thịt, hải sản hoặc rau củ. Ngoài ra, bánh phồng cũng có thể được sử dụng như một món ăn vặt, được thưởng thức cùng với các loại đồ uống như bia hoặc rượu.",
+        "source": [
+            3,
+            1,
+            7,
+            9,
+            6
+        ],
+        "children": []
+    }
+]

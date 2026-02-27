@@ -1,0 +1,91 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+1. Dưới đây là danh sách các "Atomic Claims" (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+2. * Bưởi Luận Văn có nguồn gốc từ thôn Luận Văn, xã Thọ Xương, huyện Thọ Xuân, tỉnh Thanh Hóa, Việt Nam.
+3. * Giống bưởi Luận Văn gắn liền với khu di tích lịch sử Lam Kinh.
+4. * Lê Lợi đã đóng quân tại khu di tích lịch sử Lam Kinh vào đầu thế kỷ 15.
+5. * Lê Lợi đã lấy tên làng Luận Văn đặt cho sản phẩm bưởi của làng.
+6. * Bưởi Luận Văn là bưởi tiến vua của vùng đất này.
+7. * Bưởi Luận Văn có hình bầu dục.
+8. * Đỉnh quả bưởi Luận Văn lồi.
+9. * Đường kính quả bưởi Luận Văn từ 15 cm đến 15,6 cm.
+10. * Chiều cao quả bưởi Luận Văn từ 15 cm đến 15,8 cm.
+11. * Quả bưởi Luận Văn chín từ khoảng tháng 9, tháng 10 âm lịch.
+12. * Quả bưởi Luận Văn có thể giữ trái trên cây đến dịp Tết Nguyên Đán.
+13. * Hàm lượng chất khô (độ Brix) của bưởi Luận Văn từ 11,05% đến 15,40%.
+14. * Hàm lượng đường tổng số của bưởi Luận Văn từ 6,86% đến 9,63%.
+15. * Hàm lượng axit hữu cơ của bưởi Luận Văn từ 0,90% đến 1,34%.
+16. * Hàm lượng vitamin C của bưởi Luận Văn từ 43,52 đến 45,22 mg/100 g.
+17. * Hàm lượng caroten của bưởi Luận Văn khá cao, từ 2,532 đến 2,582 mg/100 g.
+18. * Vỏ và thịt quả bưởi Luận Văn có màu đỏ đặc trưng.
+19. * Cùi bưởi Luận Văn có màu phớt hồng.
+20. * Quả bưởi Luận Văn có vị ngọt nhẹ, chua dịu.
+21. * Bưởi Luận Văn thường được người dân trong vùng chọn để bày trên bàn thờ nhân dịp Tết.
+22. * Mục đích của việc bày bưởi Luận Văn trên bàn thờ là mong muốn mang lại sự may mắn và phát tài.
+23. * Điều kiện thổ nhưỡng tạo nên chất lượng đặc thù của bưởi Luận Văn.
+24. * Đất của vùng trồng bưởi Luận Văn chủ yếu là đất đỏ vàng trên đá sét và đá biến chất hoặc đất phù sa có tầng loang lổ đỏ vàng.
+25. * Tầng đất mặt của vùng trồng bưởi Luận Văn dày trên 30 cm, tơi xốp và ẩm.
+26. * Cục Sở hữu trí tuệ Việt Nam đã cấp Giấy chứng nhận đăng ký chỉ dẫn địa lý số 00039 cho sản phẩm bưởi "Luận Văn" vào tháng 12 năm 2013.
+27. * Khu vực địa lý được cấp Giấy chứng nhận đăng ký chỉ dẫn địa lý số 00039 bao gồm xã Thọ Xương và xã Xuân Bái, thuộc huyện Thọ Xuân, tỉnh Thanh Hóa.
+28. * Giống bưởi Luận Văn đã được nhân rộng ra một số xã cùng huyện Thọ Xuân như Xuân Lam, Xuân Phú vào năm 2014.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các "Atomic Claims" (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+Result: FAIL (Label: 2)
+Claim 2: * Bưởi Luận Văn có nguồn gốc từ thôn Luận Văn, xã Thọ Xương, huyện Thọ Xuân, tỉnh Thanh Hóa, Việt Nam.
+Result: PASS (Label: 1)
+Claim 3: * Giống bưởi Luận Văn gắn liền với khu di tích lịch sử Lam Kinh.
+Result: PASS (Label: 1)
+Claim 4: * Lê Lợi đã đóng quân tại khu di tích lịch sử Lam Kinh vào đầu thế kỷ 15.
+Result: PASS (Label: 1)
+Claim 5: * Lê Lợi đã lấy tên làng Luận Văn đặt cho sản phẩm bưởi của làng.
+Result: PASS (Label: 1)
+Claim 6: * Bưởi Luận Văn là bưởi tiến vua của vùng đất này.
+Result: PASS (Label: 1)
+Claim 7: * Bưởi Luận Văn có hình bầu dục.
+Result: PASS (Label: 1)
+Claim 8: * Đỉnh quả bưởi Luận Văn lồi.
+Result: PASS (Label: 1)
+Claim 9: * Đường kính quả bưởi Luận Văn từ 15 cm đến 15,6 cm.
+Result: PASS (Label: 1)
+Claim 10: * Chiều cao quả bưởi Luận Văn từ 15 cm đến 15,8 cm.
+Result: PASS (Label: 1)
+Claim 11: * Quả bưởi Luận Văn chín từ khoảng tháng 9, tháng 10 âm lịch.
+Result: FAIL (Label: 2)
+Claim 12: * Quả bưởi Luận Văn có thể giữ trái trên cây đến dịp Tết Nguyên Đán.
+Result: PASS (Label: 1)
+Claim 13: * Hàm lượng chất khô (độ Brix) của bưởi Luận Văn từ 11,05% đến 15,40%.
+Result: FAIL (Label: 2)
+Claim 14: * Hàm lượng đường tổng số của bưởi Luận Văn từ 6,86% đến 9,63%.
+Result: FAIL (Label: 2)
+Claim 15: * Hàm lượng axit hữu cơ của bưởi Luận Văn từ 0,90% đến 1,34%.
+Result: FAIL (Label: 2)
+Claim 16: * Hàm lượng vitamin C của bưởi Luận Văn từ 43,52 đến 45,22 mg/100 g.
+Result: FAIL (Label: 2)
+Claim 17: * Hàm lượng caroten của bưởi Luận Văn khá cao, từ 2,532 đến 2,582 mg/100 g.
+Result: FAIL (Label: 2)
+Claim 18: * Vỏ và thịt quả bưởi Luận Văn có màu đỏ đặc trưng.
+Result: PASS (Label: 1)
+Claim 19: * Cùi bưởi Luận Văn có màu phớt hồng.
+Result: PASS (Label: 1)
+Claim 20: * Quả bưởi Luận Văn có vị ngọt nhẹ, chua dịu.
+Result: PASS (Label: 1)
+Claim 21: * Bưởi Luận Văn thường được người dân trong vùng chọn để bày trên bàn thờ nhân dịp Tết.
+Result: PASS (Label: 1)
+Claim 22: * Mục đích của việc bày bưởi Luận Văn trên bàn thờ là mong muốn mang lại sự may mắn và phát tài.
+Result: FAIL (Label: 2)
+Claim 23: * Điều kiện thổ nhưỡng tạo nên chất lượng đặc thù của bưởi Luận Văn.
+Result: PASS (Label: 1)
+Claim 24: * Đất của vùng trồng bưởi Luận Văn chủ yếu là đất đỏ vàng trên đá sét và đá biến chất hoặc đất phù sa có tầng loang lổ đỏ vàng.
+Result: PASS (Label: 1)
+Claim 25: * Tầng đất mặt của vùng trồng bưởi Luận Văn dày trên 30 cm, tơi xốp và ẩm.
+Result: FAIL (Label: 2)
+Claim 26: * Cục Sở hữu trí tuệ Việt Nam đã cấp Giấy chứng nhận đăng ký chỉ dẫn địa lý số 00039 cho sản phẩm bưởi "Luận Văn" vào tháng 12 năm 2013.
+Result: FAIL (Label: 2)
+Claim 27: * Khu vực địa lý được cấp Giấy chứng nhận đăng ký chỉ dẫn địa lý số 00039 bao gồm xã Thọ Xương và xã Xuân Bái, thuộc huyện Thọ Xuân, tỉnh Thanh Hóa.
+Result: FAIL (Label: 2)
+Claim 28: * Giống bưởi Luận Văn đã được nhân rộng ra một số xã cùng huyện Thọ Xuân như Xuân Lam, Xuân Phú vào năm 2014.
+Result: FAIL (Label: 2)
+
+FINAL CLAIM RECALL SCORE: 0.5714 (16/28)

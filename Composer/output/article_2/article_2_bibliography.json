@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "https://vaas.vn/vi/khoa-hoc/xoai-cat-hoa-loc-lam-hoi-sinh-mot-vung-dat-chet",
+        "locator": {
+            "chunk_index": 11,
+            "source_type": "web",
+            "doc_name": "article_2",
+            "source_id": 4
+        }
+    },
+    {
+        "id": 2,
+        "name": "https://nhandan.vn/chuyen-lam-an/tim-huong-phat-trien-xoai-cat-hoa-loc-223374/",
+        "locator": {
+            "doc_name": "article_2",
+            "chunk_index": 8,
+            "source_type": "web",
+            "source_id": 6
+        }
+    },
+    {
+        "id": 3,
+        "name": "https://nhandan.vn/chuyen-lam-an/tim-huong-phat-trien-xoai-cat-hoa-loc-223374/",
+        "locator": {
+            "source_type": "web",
+            "source_id": 6,
+            "chunk_index": 3,
+            "doc_name": "article_2"
+        }
+    },
+    {
+        "id": 4,
+        "name": "https://nhandan.vn/chuyen-lam-an/tim-huong-phat-trien-xoai-cat-hoa-loc-223374/",
+        "locator": {
+            "chunk_index": 7,
+            "source_type": "web",
+            "doc_name": "article_2",
+            "source_id": 6
+        }
+    },
+    {
+        "id": 5,
+        "name": "https://nhandan.vn/chuyen-lam-an/tim-huong-phat-trien-xoai-cat-hoa-loc-223374/",
+        "locator": {
+            "source_type": "web",
+            "source_id": 6,
+            "doc_name": "article_2",
+            "chunk_index": 6
+        }
+    },
+    {
+        "id": 6,
+        "name": "http://vusta.vn/chitiet/tin-tuyen-sinh-dao-tao/Xoai-cat-Hoa-Loc-Cay-trong-co-gia-tri-kinh-te-cao-1011",
+        "locator": {
+            "source_id": 10,
+            "source_type": "web",
+            "doc_name": "article_2",
+            "chunk_index": 5
+        }
+    },
+    {
+        "id": 7,
+        "name": "http://tiengiang.gov.vn/chi-tiet-tin?/xoai-cat-hoa-loc/11236600",
+        "locator": {
+            "chunk_index": 4,
+            "source_type": "web",
+            "source_id": 7,
+            "doc_name": "article_2"
+        }
+    },
+    {
+        "id": 8,
+        "name": "https://nhandan.vn/chuyen-lam-an/tim-huong-phat-trien-xoai-cat-hoa-loc-223374/",
+        "locator": {
+            "chunk_index": 0,
+            "source_id": 6,
+            "source_type": "web",
+            "doc_name": "article_2"
+        }
+    },
+    {
+        "id": 9,
+        "name": "https://vaas.vn/vi/khoa-hoc/xoai-cat-hoa-loc-lam-hoi-sinh-mot-vung-dat-chet",
+        "locator": {
+            "doc_name": "article_2",
+            "source_id": 4,
+            "source_type": "web",
+            "chunk_index": 0
+        }
+    },
+    {
+        "id": 10,
+        "name": "https://khoahocphattrien.vn/Dia-phuong/chi-dan-dia-ly-hoa-loc-cho-san-pham-xoai-cat-tien-giang/2017051112444530p1c937.htm",
+        "locator": {
+            "source_type": "web",
+            "doc_name": "article_2",
+            "source_id": 3,
+            "chunk_index": 0
+        }
+    },
+    {
+        "id": 11,
+        "name": "https://cand.com.vn/Xa-hoi/Bo-KHCN---Tien-Giang-Trao-giay-chung-nhan-san-pham-cho-khom-Tan-Lap-va-xoai-cat-Hoa-Loc-i83430/",
+        "locator": {
+            "source_id": 9,
+            "doc_name": "article_2",
+            "chunk_index": 2,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 12,
+        "name": "https://thuonghieusanpham.vn/xoai-cat-hoa-loc-dac-san-noi-tieng-xu-tien-giang-6568.html",
+        "locator": {
+            "source_type": "web",
+            "doc_name": "article_2",
+            "chunk_index": 7,
+            "source_id": 8
+        }
+    },
+    {
+        "id": 13,
+        "name": "https://congthuong.vn/an-giang-xuat-khau-1-tan-xoai-cat-hoa-loc-sang-hoa-ky-119825.html",
+        "locator": {
+            "source_type": "web",
+            "chunk_index": 2,
+            "doc_name": "article_2",
+            "source_id": 1
+        }
+    },
+    {
+        "id": 14,
+        "name": "https://vnbusiness.vn/mo-hinh/ocop-tien-giang-ky-vong-cu-hich-moi-1063966.html",
+        "locator": {
+            "chunk_index": 6,
+            "source_id": 5,
+            "doc_name": "article_2",
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 15,
+        "name": "http://vusta.vn/chitiet/tin-tuyen-sinh-dao-tao/Xoai-cat-Hoa-Loc-Cay-trong-co-gia-tri-kinh-te-cao-1011",
+        "locator": {
+            "chunk_index": 11,
+            "doc_name": "article_2",
+            "source_id": 10,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 16,
+        "name": "http://tiengiang.gov.vn/chi-tiet-tin?/xoai-cat-hoa-loc/11236600",
+        "locator": {
+            "doc_name": "article_2",
+            "source_type": "web",
+            "chunk_index": 2,
+            "source_id": 7
+        }
+    },
+    {
+        "id": 17,
+        "name": "https://thuonghieusanpham.vn/xoai-cat-hoa-loc-dac-san-noi-tieng-xu-tien-giang-6568.html",
+        "locator": {
+            "doc_name": "article_2",
+            "source_type": "web",
+            "source_id": 8,
+            "chunk_index": 3
+        }
+    },
+    {
+        "id": 18,
+        "name": "https://nhandan.vn/chuyen-lam-an/tim-huong-phat-trien-xoai-cat-hoa-loc-223374/",
+        "locator": {
+            "chunk_index": 2,
+            "source_id": 6,
+            "source_type": "web",
+            "doc_name": "article_2"
+        }
+    },
+    {
+        "id": 19,
+        "name": "https://vnbusiness.vn/mo-hinh/ocop-tien-giang-ky-vong-cu-hich-moi-1063966.html",
+        "locator": {
+            "doc_name": "article_2",
+            "source_id": 5,
+            "chunk_index": 7,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 20,
+        "name": "http://vusta.vn/chitiet/tin-tuyen-sinh-dao-tao/Xoai-cat-Hoa-Loc-Cay-trong-co-gia-tri-kinh-te-cao-1011",
+        "locator": {
+            "doc_name": "article_2",
+            "source_type": "web",
+            "source_id": 10,
+            "chunk_index": 2
+        }
+    },
+    {
+        "id": 21,
+        "name": "https://vaas.vn/vi/khoa-hoc/xoai-cat-hoa-loc-lam-hoi-sinh-mot-vung-dat-chet",
+        "locator": {
+            "source_type": "web",
+            "source_id": 4,
+            "chunk_index": 2,
+            "doc_name": "article_2"
+        }
+    }
+]

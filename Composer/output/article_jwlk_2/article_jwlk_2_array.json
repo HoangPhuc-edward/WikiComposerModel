@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Giới thiệu",
+        "type": "leaf",
+        "content": "Bánh đa cua là một món ăn đặc sản của người Hải Phòng, được làm khá cầu kỳ từ khâu chọn nguyên liệu đến chế biến. Bánh đa nhúng thường là loại có một nắng, một sương, và để tạo ra bánh đa tươi, người làm phải có bí quyết từ chọn gạo, xay gạo, điều chỉnh lửa lò khi tráng bánh đến cách phơi bánh đượm nắng, ngấm sương. Món bánh đa cua này rất phổ biến và được người dân Hải Phòng lựa chọn cho bữa sáng quen thuộc, với nước dùng được nấu từ nước lọc cua, tạo nên vị ngọt thanh và thoang thoảng mùi thơm nhẹ rất đặc trưng của cua đồng. Khi thưởng thức, bát bánh đa cua không chỉ là sự kết hợp của các nguyên liệu như chả lá lốt, chả cá, tôm sắt xào và chả mọc, ăn kèm rau muống hay rau rút, mà còn là sự tổng hòa của màu sắc, với màu nâu đỏ của bánh đa, màu vàng sóng sánh của nước dùng, màu vàng nhạt của chả thịt, màu xanh mướt của rau muống, và màu vàng hơi cháy của hành phi, tạo nên một bức tranh ẩm thực đa sắc màu và hấp dẫn.",
+        "source": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "children": []
+    },
+    {
+        "title": "Thành phần",
+        "type": "leaf",
+        "content": "Thành phần của bánh đa cua bao gồm các nguyên liệu cơ bản như bánh đa, cua đồng, rau muống, rau nhút, chả lá lốt, chả cá, tôm sắt xào và chả mọc. Bánh đa được làm từ gạo và phải trải qua quá trình chọn nguyên liệu, xay gạo, điều chỉnh lửa lò khi tráng bánh và phơi bánh đượm nắng, ngấm sương để tạo thành bánh đa tươi. Cua đồng được sử dụng để tạo nên nước dùng cua đồng thanh ngọt và mát lành. Rau muống và rau nhút được thêm vào để tăng thêm hương vị và độ tươi mát cho món ăn. Các loại chả như chả lá lốt, chả cá, tôm sắt xào và chả mọc được thêm vào để tạo nên sự phong phú về nhân ăn kèm trong bát nước dùng cua đồng. Tất cả các thành phần này được kết hợp hài hòa để tạo nên món bánh đa cua đặc trưng và hấp dẫn của Hải Phòng.",
+        "source": [
+            3,
+            1,
+            2,
+            4,
+            6
+        ],
+        "children": []
+    }
+]

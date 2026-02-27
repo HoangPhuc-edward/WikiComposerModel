@@ -1,0 +1,61 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Lúa là một trong năm loại cây lương thực chính của thế giới.
+3. * Lúa cùng với bắp, lúa mì, sắn và khoai tây là năm loại cây lương thực chính.
+4. * Lúa cũng là một trong sáu loại lương thực chủ yếu trong Lục cốc.
+5. * Lúa có hai loài chính là Oryza sativa và Oryza glaberrima.
+6. * Lúa thuộc họ Poaceae.
+7. * Lúa có nguồn gốc ở vùng nhiệt đới và cận nhiệt đới khu vực đông nam châu Á và châu Phi.
+8. * Hai loài lúa cung cấp hơn 1/5 toàn bộ lượng calo tiêu thụ bởi con người.
+9. * Người ta có thể gieo thẳng các hạt lúa đã nảy mầm vào ruộng lúa.
+10. * Người ta cũng có thể gieo mạ trên ruộng riêng để cây lúa non có sức phát triển tốt.
+11. * Sản phẩm thu được từ cây lúa là hạt lúa hoặc thóc.
+12. * Gạo là sản phẩm chính thu được sau khi xát bỏ lớp vỏ ngoài của hạt lúa.
+13. * Cám và trấu là các phụ phẩm thu được từ cây lúa.
+14. * Gạo là nguồn lương thực chủ yếu của hơn một nửa dân số thế giới.
+15. * Gạo là loại lương thực được con người tiêu thụ nhiều nhất.
+16. * Từ "rice" trong tiếng Anh có nguồn gốc từ "arisi" trong tiếng Tamil.
+17. * Lúa là loài cây trồng ngắn ngày.
+18. * Lúa cũng có thể coi là cây trồng dài ngày.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Lúa là một trong năm loại cây lương thực chính của thế giới.
+Result: PASS (Label: 1)
+Claim 3: * Lúa cùng với bắp, lúa mì, sắn và khoai tây là năm loại cây lương thực chính.
+Result: PASS (Label: 1)
+Claim 4: * Lúa cũng là một trong sáu loại lương thực chủ yếu trong Lục cốc.
+Result: FAIL (Label: 2)
+Claim 5: * Lúa có hai loài chính là Oryza sativa và Oryza glaberrima.
+Result: FAIL (Label: 2)
+Claim 6: * Lúa thuộc họ Poaceae.
+Result: FAIL (Label: 2)
+Claim 7: * Lúa có nguồn gốc ở vùng nhiệt đới và cận nhiệt đới khu vực đông nam châu Á và châu Phi.
+Result: FAIL (Label: 2)
+Claim 8: * Hai loài lúa cung cấp hơn 1/5 toàn bộ lượng calo tiêu thụ bởi con người.
+Result: FAIL (Label: 2)
+Claim 9: * Người ta có thể gieo thẳng các hạt lúa đã nảy mầm vào ruộng lúa.
+Result: FAIL (Label: 2)
+Claim 10: * Người ta cũng có thể gieo mạ trên ruộng riêng để cây lúa non có sức phát triển tốt.
+Result: FAIL (Label: 2)
+Claim 11: * Sản phẩm thu được từ cây lúa là hạt lúa hoặc thóc.
+Result: FAIL (Label: 2)
+Claim 12: * Gạo là sản phẩm chính thu được sau khi xát bỏ lớp vỏ ngoài của hạt lúa.
+Result: FAIL (Label: 2)
+Claim 13: * Cám và trấu là các phụ phẩm thu được từ cây lúa.
+Result: FAIL (Label: 2)
+Claim 14: * Gạo là nguồn lương thực chủ yếu của hơn một nửa dân số thế giới.
+Result: FAIL (Label: 2)
+Claim 15: * Gạo là loại lương thực được con người tiêu thụ nhiều nhất.
+Result: FAIL (Label: 2)
+Claim 16: * Từ "rice" trong tiếng Anh có nguồn gốc từ "arisi" trong tiếng Tamil.
+Result: FAIL (Label: 2)
+Claim 17: * Lúa là loài cây trồng ngắn ngày.
+Result: FAIL (Label: 2)
+Claim 18: * Lúa cũng có thể coi là cây trồng dài ngày.
+Result: FAIL (Label: 2)
+
+FINAL CLAIM RECALL SCORE: 0.1667 (3/18)

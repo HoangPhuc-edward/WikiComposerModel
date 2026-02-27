@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html",
+        "locator": {
+            "source_id": 1,
+            "chunk_index": 3,
+            "doc_name": "article_6",
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 2,
+        "name": "https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html",
+        "locator": {
+            "source_type": "web",
+            "chunk_index": 1,
+            "doc_name": "article_6",
+            "source_id": 1
+        }
+    },
+    {
+        "id": 3,
+        "name": "https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html",
+        "locator": {
+            "source_type": "web",
+            "chunk_index": 2,
+            "doc_name": "article_6",
+            "source_id": 1
+        }
+    },
+    {
+        "id": 4,
+        "name": "https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html",
+        "locator": {
+            "source_id": 1,
+            "doc_name": "article_6",
+            "chunk_index": 4,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 5,
+        "name": "https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html",
+        "locator": {
+            "source_type": "web",
+            "source_id": 1,
+            "doc_name": "article_6",
+            "chunk_index": 0
+        }
+    }
+]

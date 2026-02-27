@@ -1,0 +1,67 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+1. Dưới đây là danh sách các "Atomic Claims" (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+2. * Bánh đậu xanh trái cây có nguồn gốc từ ẩm thực cung đình Huế.
+3. * Món bánh này chỉ được phục vụ tại các yến tiệc của vua chúa ở Hoàng cung.
+4. * Bánh xuất hiện trong mâm cỗ gia đình quan lại và quý tộc vào các dịp lễ đặc biệt.
+5. * Nguyên liệu chính để làm bánh đậu xanh là đậu xanh.
+6. * Bột rau câu được sử dụng để tạo độ bóng và bảo quản bánh.
+7. * Lớp vỏ ngoài được tráng bằng bột rau câu (agar).
+8. * Bánh được nặn thủ công thành hình các loại trái cây thu nhỏ.
+9. * Bánh có màu sắc rực rỡ và bắt mắt.
+10. * Bánh thường được dùng trong các mâm ngũ quả.
+11. * Bánh được dùng trong lễ cưới hỏi.
+12. * Bánh được dùng trong dịp Tết.
+13. * Bánh tượng trưng cho sự sung túc và tinh hoa nghệ thuật.
+14. * Đậu xanh cần được ngâm cho mềm.
+15. * Đậu xanh cần được nấu chín.
+16. * Đậu xanh cần được xay nhuyễn cùng nước cốt dừa và đường.
+17. * Hỗn hợp đậu xanh cần được nấu trên lửa nhỏ cho đến khi dẻo mịn.
+18. * Khối đậu cần được nặn thành hình các loại quả theo ý thích.
+19. * Bánh cần được tô màu bằng màu thực phẩm.
+20. * Bánh cần được nhúng vào nước rau câu đun nóng để tạo lớp vỏ bóng loáng.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các "Atomic Claims" (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+Result: FAIL (Label: 2)
+Claim 2: * Bánh đậu xanh trái cây có nguồn gốc từ ẩm thực cung đình Huế.
+Result: PASS (Label: 1)
+Claim 3: * Món bánh này chỉ được phục vụ tại các yến tiệc của vua chúa ở Hoàng cung.
+Result: FAIL (Label: 0)
+Claim 4: * Bánh xuất hiện trong mâm cỗ gia đình quan lại và quý tộc vào các dịp lễ đặc biệt.
+Result: PASS (Label: 1)
+Claim 5: * Nguyên liệu chính để làm bánh đậu xanh là đậu xanh.
+Result: FAIL (Label: 2)
+Claim 6: * Bột rau câu được sử dụng để tạo độ bóng và bảo quản bánh.
+Result: PASS (Label: 1)
+Claim 7: * Lớp vỏ ngoài được tráng bằng bột rau câu (agar).
+Result: FAIL (Label: 2)
+Claim 8: * Bánh được nặn thủ công thành hình các loại trái cây thu nhỏ.
+Result: PASS (Label: 1)
+Claim 9: * Bánh có màu sắc rực rỡ và bắt mắt.
+Result: FAIL (Label: 2)
+Claim 10: * Bánh thường được dùng trong các mâm ngũ quả.
+Result: PASS (Label: 1)
+Claim 11: * Bánh được dùng trong lễ cưới hỏi.
+Result: PASS (Label: 1)
+Claim 12: * Bánh được dùng trong dịp Tết.
+Result: FAIL (Label: 2)
+Claim 13: * Bánh tượng trưng cho sự sung túc và tinh hoa nghệ thuật.
+Result: PASS (Label: 1)
+Claim 14: * Đậu xanh cần được ngâm cho mềm.
+Result: FAIL (Label: 2)
+Claim 15: * Đậu xanh cần được nấu chín.
+Result: FAIL (Label: 2)
+Claim 16: * Đậu xanh cần được xay nhuyễn cùng nước cốt dừa và đường.
+Result: FAIL (Label: 2)
+Claim 17: * Hỗn hợp đậu xanh cần được nấu trên lửa nhỏ cho đến khi dẻo mịn.
+Result: FAIL (Label: 2)
+Claim 18: * Khối đậu cần được nặn thành hình các loại quả theo ý thích.
+Result: PASS (Label: 1)
+Claim 19: * Bánh cần được tô màu bằng màu thực phẩm.
+Result: FAIL (Label: 2)
+Claim 20: * Bánh cần được nhúng vào nước rau câu đun nóng để tạo lớp vỏ bóng loáng.
+Result: FAIL (Label: 2)
+
+FINAL CLAIM RECALL SCORE: 0.4000 (8/20)

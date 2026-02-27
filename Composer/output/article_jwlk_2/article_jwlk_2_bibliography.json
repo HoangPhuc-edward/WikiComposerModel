@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "https://startup.vnexpress.net/tin-tuc/y-tuong-moi/bo-luong-nghin-usd-de-mo-quan-banh-da-hai-phong-3416162.html",
+        "locator": {
+            "chunk_index": 2,
+            "source_id": 4,
+            "doc_name": "article_jwlk_2",
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 2,
+        "name": "http://kinhdoanh.vnexpress.net/tin-tuc/khoi-nghiep/bo-luong-nghin-usd-de-mo-quan-banh-da-hai-phong-3416162.html",
+        "locator": {
+            "chunk_index": 2,
+            "doc_name": "article_jwlk_2",
+            "source_id": 5,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 3,
+        "name": "https://vnexpress.net/du-lich/hai-mon-ngon-tu-cua-o-hai-phong-3363141.html",
+        "locator": {
+            "doc_name": "article_jwlk_2",
+            "chunk_index": 0,
+            "source_id": 2,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 4,
+        "name": "https://vnexpress.net/du-lich/hai-mon-ngon-tu-cua-o-hai-phong-3363141.html",
+        "locator": {
+            "source_id": 2,
+            "doc_name": "article_jwlk_2",
+            "source_type": "web",
+            "chunk_index": 4
+        }
+    },
+    {
+        "id": 5,
+        "name": "http://suckhoe.vnexpress.net/tin-tuc/cac-benh/thuoc-va-thuc-pham/dam-da-banh-da-cua-hai-phong-2307154.html",
+        "locator": {
+            "chunk_index": 1,
+            "source_type": "web",
+            "source_id": 3,
+            "doc_name": "article_jwlk_2"
+        }
+    },
+    {
+        "id": 6,
+        "name": "http://suckhoe.vnexpress.net/tin-tuc/cac-benh/thuoc-va-thuc-pham/dam-da-banh-da-cua-hai-phong-2307154.html",
+        "locator": {
+            "source_type": "web",
+            "chunk_index": 0,
+            "source_id": 3,
+            "doc_name": "article_jwlk_2"
+        }
+    }
+]

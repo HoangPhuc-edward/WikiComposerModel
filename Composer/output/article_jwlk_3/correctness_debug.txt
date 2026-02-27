@@ -1,0 +1,97 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+1. Dưới đây là danh sách các "Atomic Claims" (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+2. * Bánh hỏi là một món ăn đặc sản của Việt Nam.
+3. * Bánh hỏi được làm từ bột gạo.
+4. * Bánh hỏi có quy trình chế biến công phu.
+5. * Bánh hỏi thường ăn chung với mỡ hành, thịt quay, thịt nướng, lòng heo.
+6. * Bánh hỏi là món ăn không thể thiếu trong những dịp lễ, cúng giỗ, cưới hỏi, lễ cúng ở đình, chùa.
+7. * Bánh hỏi là một nét văn hóa ẩm thực của địa phương.
+8. * Để làm bánh hỏi, cần có gạo và nước lọc.
+9. * Dụng cụ cơ bản để chế biến bánh hỏi là khuôn.
+10. * Khuôn bánh hỏi là khối ống bằng đồng hay inox.
+11. * Bánh hỏi ngon hay không phụ thuộc vào khuôn bánh to hay nhỏ.
+12. * Lỗ nhỏ quá, bột không qua, lỗ lớn quá sợi bánh sẽ lớn ăn không ngon.
+13. * Gạo vo kỹ, ngâm nước một đêm.
+14. * Gạo được xay nhuyễn bằng cối đá hoặc máy xay bột.
+15. * Bột được rọng qua 1 đêm.
+16. * Pha bột với nước thành một hỗn hợp sền sệt.
+17. * Hỗn hợp bột được cho vào nồi, khấy đều bằng máy.
+18. * Bột đặc lại, được lấy ra tạo thành cây bột dài.
+19. * Cây bột dài được dùng khuôn ép thành bánh.
+20. * Bánh được hấp cách thủy một lần nữa.
+21. * Bánh hỏi được thưởng thức với dầu lạc và lá hẹ.
+22. * Lá hẹ được thái nhỏ và xào qua dầu ăn.
+23. * Hương vị chính của món bánh hỏi là do lá hẹ khử dầu tạo nên.
+24. * Bánh hỏi được bảo quản bằng cách xếp vào giỏ tre có lót lá chuối.
+25. * Bánh hỏi ăn kèm được với nhiều món.
+26. * Bánh hỏi có thể được ăn với nước mắm chanh ớt hoặc mắm cái.
+27. * Bánh hỏi thường được ăn kèm với thịt heo luộc cuốn bánh tráng với dưa leo.
+28. * Tại Bình Định, Nha Trang có các nhà hàng chuyên phục vụ món bánh hỏi.
+29. * Tại Bình Định, Nha Trang có các vùng làm bánh hỏi chuyên nghiệp.
+30. * Người Bình Định có câu:
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các "Atomic Claims" (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+Result: FAIL (Label: 2)
+Claim 2: * Bánh hỏi là một món ăn đặc sản của Việt Nam.
+Result: PASS (Label: 1)
+Claim 3: * Bánh hỏi được làm từ bột gạo.
+Result: PASS (Label: 1)
+Claim 4: * Bánh hỏi có quy trình chế biến công phu.
+Result: PASS (Label: 1)
+Claim 5: * Bánh hỏi thường ăn chung với mỡ hành, thịt quay, thịt nướng, lòng heo.
+Result: PASS (Label: 1)
+Claim 6: * Bánh hỏi là món ăn không thể thiếu trong những dịp lễ, cúng giỗ, cưới hỏi, lễ cúng ở đình, chùa.
+Result: FAIL (Label: 2)
+Claim 7: * Bánh hỏi là một nét văn hóa ẩm thực của địa phương.
+Result: PASS (Label: 1)
+Claim 8: * Để làm bánh hỏi, cần có gạo và nước lọc.
+Result: PASS (Label: 1)
+Claim 9: * Dụng cụ cơ bản để chế biến bánh hỏi là khuôn.
+Result: PASS (Label: 1)
+Claim 10: * Khuôn bánh hỏi là khối ống bằng đồng hay inox.
+Result: FAIL (Label: 2)
+Claim 11: * Bánh hỏi ngon hay không phụ thuộc vào khuôn bánh to hay nhỏ.
+Result: FAIL (Label: 2)
+Claim 12: * Lỗ nhỏ quá, bột không qua, lỗ lớn quá sợi bánh sẽ lớn ăn không ngon.
+Result: FAIL (Label: 2)
+Claim 13: * Gạo vo kỹ, ngâm nước một đêm.
+Result: FAIL (Label: 2)
+Claim 14: * Gạo được xay nhuyễn bằng cối đá hoặc máy xay bột.
+Result: PASS (Label: 1)
+Claim 15: * Bột được rọng qua 1 đêm.
+Result: FAIL (Label: 2)
+Claim 16: * Pha bột với nước thành một hỗn hợp sền sệt.
+Result: FAIL (Label: 2)
+Claim 17: * Hỗn hợp bột được cho vào nồi, khấy đều bằng máy.
+Result: FAIL (Label: 2)
+Claim 18: * Bột đặc lại, được lấy ra tạo thành cây bột dài.
+Result: PASS (Label: 1)
+Claim 19: * Cây bột dài được dùng khuôn ép thành bánh.
+Result: PASS (Label: 1)
+Claim 20: * Bánh được hấp cách thủy một lần nữa.
+Result: FAIL (Label: 2)
+Claim 21: * Bánh hỏi được thưởng thức với dầu lạc và lá hẹ.
+Result: PASS (Label: 1)
+Claim 22: * Lá hẹ được thái nhỏ và xào qua dầu ăn.
+Result: PASS (Label: 1)
+Claim 23: * Hương vị chính của món bánh hỏi là do lá hẹ khử dầu tạo nên.
+Result: FAIL (Label: 2)
+Claim 24: * Bánh hỏi được bảo quản bằng cách xếp vào giỏ tre có lót lá chuối.
+Result: PASS (Label: 1)
+Claim 25: * Bánh hỏi ăn kèm được với nhiều món.
+Result: FAIL (Label: 2)
+Claim 26: * Bánh hỏi có thể được ăn với nước mắm chanh ớt hoặc mắm cái.
+Result: PASS (Label: 1)
+Claim 27: * Bánh hỏi thường được ăn kèm với thịt heo luộc cuốn bánh tráng với dưa leo.
+Result: FAIL (Label: 2)
+Claim 28: * Tại Bình Định, Nha Trang có các nhà hàng chuyên phục vụ món bánh hỏi.
+Result: FAIL (Label: 2)
+Claim 29: * Tại Bình Định, Nha Trang có các vùng làm bánh hỏi chuyên nghiệp.
+Result: FAIL (Label: 2)
+Claim 30: * Người Bình Định có câu:
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 0.5000 (15/30)

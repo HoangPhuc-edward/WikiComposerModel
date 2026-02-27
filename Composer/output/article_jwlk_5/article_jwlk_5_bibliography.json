@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "https://dulich.tuoitre.vn/cha-chia-huong-pho-hoi-an-549535.htm",
+        "locator": {
+            "source_type": "web",
+            "chunk_index": 0,
+            "source_id": 3,
+            "doc_name": "article_jwlk_5"
+        }
+    },
+    {
+        "id": 2,
+        "name": "https://dulich.tuoitre.vn/news-549535.htm",
+        "locator": {
+            "source_id": 4,
+            "source_type": "web",
+            "doc_name": "article_jwlk_5",
+            "chunk_index": 0
+        }
+    },
+    {
+        "id": 3,
+        "name": "https://dulich.tuoitre.vn/cha-chia-huong-pho-hoi-an-549535.htm",
+        "locator": {
+            "source_id": 3,
+            "chunk_index": 1,
+            "doc_name": "article_jwlk_5",
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 4,
+        "name": "https://dulich.tuoitre.vn/news-549535.htm",
+        "locator": {
+            "source_id": 4,
+            "chunk_index": 1,
+            "doc_name": "article_jwlk_5",
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 5,
+        "name": "http://giadinh.vnexpress.net/tin-tuc/am-thuc/cha-chia-hai-phong-2362831.html",
+        "locator": {
+            "source_id": 2,
+            "source_type": "web",
+            "chunk_index": 1,
+            "doc_name": "article_jwlk_5"
+        }
+    },
+    {
+        "id": 6,
+        "name": "source/data1.txt",
+        "locator": {
+            "source_id": 1,
+            "chunk_index": 2,
+            "doc_name": "article_jwlk_5",
+            "source_type": "txt"
+        }
+    },
+    {
+        "id": 7,
+        "name": "https://dulich.tuoitre.vn/cha-chia-huong-pho-hoi-an-549535.htm",
+        "locator": {
+            "source_type": "web",
+            "chunk_index": 3,
+            "doc_name": "article_jwlk_5",
+            "source_id": 3
+        }
+    },
+    {
+        "id": 8,
+        "name": "https://dulich.tuoitre.vn/news-549535.htm",
+        "locator": {
+            "chunk_index": 3,
+            "doc_name": "article_jwlk_5",
+            "source_id": 4,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 9,
+        "name": "https://dulich.tuoitre.vn/cha-chia-huong-pho-hoi-an-549535.htm",
+        "locator": {
+            "doc_name": "article_jwlk_5",
+            "source_id": 3,
+            "source_type": "web",
+            "chunk_index": 5
+        }
+    },
+    {
+        "id": 10,
+        "name": "https://dulich.tuoitre.vn/news-549535.htm",
+        "locator": {
+            "source_type": "web",
+            "doc_name": "article_jwlk_5",
+            "chunk_index": 5,
+            "source_id": 4
+        }
+    }
+]

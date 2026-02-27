@@ -1,0 +1,118 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+2. Bánh đa cua là một trong những món ăn phổ biến và đặc trưng trong ẩm thực Hải Phòng.
+3. Món bánh đa cua kiểu Hải Phòng có thể xem là phiên bản phổ biến nhất của món canh bánh đa đỏ nói chung.
+4. Lẩu cua đồng là một biến thể hiện đại của món bánh đa cua đồng.
+5. Canh bánh đa đỏ tôm sườn là một phiên bản ít phổ biến hơn của món canh bánh đa đỏ.
+6. Món bánh đa cua và nem cua bể được nhiều người xem là hai món ăn có tính đại diện rõ nhất cho phong cách chế biến ẩm thực của Hải Phòng.
+7. Hai món ăn này chinh phục vị giác và thị giác của người thưởng thức.
+8. Một bát bánh đa cua được chế biến kết hợp cả yếu tố truyền thống lẫn hiện đại đúng phong cách Hải Phòng.
+9. Cả hai món ăn này đều có sự kết hợp hài hòa giữa tính truyền thống và hiện đại.
+10. Cua đồng là thành phần cơ bản và nguyên liệu làm bánh đa cua.
+11. Bánh đa đỏ tạo nên sự khác biệt cho món canh bánh đa cua.
+12. Xương ống lợn là một trong những nguyên liệu làm nước riêu cua.
+13. Tôm nõn là một trong những nguyên liệu làm nước riêu cua.
+14. Me là một trong những nguyên liệu làm nước riêu cua.
+15. Bột nêm là một trong những nguyên liệu làm nước riêu cua.
+16. Muối là một trong những nguyên liệu làm nước riêu cua.
+17. Dầu ăn là một trong những nguyên liệu làm nước riêu cua.
+18. Mắm tôm là một trong những nguyên liệu làm nước riêu cua.
+19. Tỏi khô là một trong những nguyên liệu làm nước riêu cua.
+20. Hành khô là một trong những nguyên liệu làm nước riêu cua.
+21. Cà chua là một trong những nguyên liệu làm nước riêu cua.
+22. Hành phi là một trong những nguyên liệu làm nước riêu cua.
+23. Nấm hương là một trong những nguyên liệu làm nước riêu cua (tùy theo nơi).
+24. Rau rút là một trong những loại rau nhúng, chần tái cho vào bát.
+25. Rau cần là một trong những loại rau nhúng, chần tái cho vào bát.
+26. Rau muống là một trong những loại rau nhúng, chần tái cho vào bát.
+27. Mắm tôm là một trong những loại rau, gia vị ăn kèm.
+28. Ớt chưng là một trong những loại rau, gia vị ăn kèm.
+29. Ớt ngâm dấm là một trong những loại rau, gia vị ăn kèm.
+30. Rau sống là một trong những loại rau, gia vị ăn kèm.
+31. Chanh là một trong những loại rau, gia vị ăn kèm.
+32. Quất là một trong những loại rau, gia vị ăn kèm.
+33. Tương ớt là một trong những thành phần không thể thiếu trong món bánh đa ngày nay.
+34. Chả lá lốt là một trong những đồ ăn kèm khác tùy theo nhu cầu của thực khách.
+35. Trứng là một trong những đồ ăn kèm khác tùy theo nhu cầu của thực khách.
+36. Thịt chân giò là một trong những đồ ăn kèm khác tùy theo nhu cầu của thực khách.
+37. Giò tai là một trong những đồ ăn kèm khác tùy theo nhu cầu của thực khách.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+Result: PASS (Label: 1)
+Claim 2: Bánh đa cua là một trong những món ăn phổ biến và đặc trưng trong ẩm thực Hải Phòng.
+Result: PASS (Label: 1)
+Claim 3: Món bánh đa cua kiểu Hải Phòng có thể xem là phiên bản phổ biến nhất của món canh bánh đa đỏ nói chung.
+Result: PASS (Label: 1)
+Claim 4: Lẩu cua đồng là một biến thể hiện đại của món bánh đa cua đồng.
+Result: PASS (Label: 1)
+Claim 5: Canh bánh đa đỏ tôm sườn là một phiên bản ít phổ biến hơn của món canh bánh đa đỏ.
+Result: PASS (Label: 1)
+Claim 6: Món bánh đa cua và nem cua bể được nhiều người xem là hai món ăn có tính đại diện rõ nhất cho phong cách chế biến ẩm thực của Hải Phòng.
+Result: FAIL (Label: 2)
+Claim 7: Hai món ăn này chinh phục vị giác và thị giác của người thưởng thức.
+Result: PASS (Label: 1)
+Claim 8: Một bát bánh đa cua được chế biến kết hợp cả yếu tố truyền thống lẫn hiện đại đúng phong cách Hải Phòng.
+Result: PASS (Label: 1)
+Claim 9: Cả hai món ăn này đều có sự kết hợp hài hòa giữa tính truyền thống và hiện đại.
+Result: PASS (Label: 1)
+Claim 10: Cua đồng là thành phần cơ bản và nguyên liệu làm bánh đa cua.
+Result: PASS (Label: 1)
+Claim 11: Bánh đa đỏ tạo nên sự khác biệt cho món canh bánh đa cua.
+Result: PASS (Label: 1)
+Claim 12: Xương ống lợn là một trong những nguyên liệu làm nước riêu cua.
+Result: PASS (Label: 1)
+Claim 13: Tôm nõn là một trong những nguyên liệu làm nước riêu cua.
+Result: PASS (Label: 1)
+Claim 14: Me là một trong những nguyên liệu làm nước riêu cua.
+Result: PASS (Label: 1)
+Claim 15: Bột nêm là một trong những nguyên liệu làm nước riêu cua.
+Result: PASS (Label: 1)
+Claim 16: Muối là một trong những nguyên liệu làm nước riêu cua.
+Result: PASS (Label: 1)
+Claim 17: Dầu ăn là một trong những nguyên liệu làm nước riêu cua.
+Result: PASS (Label: 1)
+Claim 18: Mắm tôm là một trong những nguyên liệu làm nước riêu cua.
+Result: PASS (Label: 1)
+Claim 19: Tỏi khô là một trong những nguyên liệu làm nước riêu cua.
+Result: PASS (Label: 1)
+Claim 20: Hành khô là một trong những nguyên liệu làm nước riêu cua.
+Result: PASS (Label: 1)
+Claim 21: Cà chua là một trong những nguyên liệu làm nước riêu cua.
+Result: PASS (Label: 1)
+Claim 22: Hành phi là một trong những nguyên liệu làm nước riêu cua.
+Result: PASS (Label: 1)
+Claim 23: Nấm hương là một trong những nguyên liệu làm nước riêu cua (tùy theo nơi).
+Result: PASS (Label: 1)
+Claim 24: Rau rút là một trong những loại rau nhúng, chần tái cho vào bát.
+Result: PASS (Label: 1)
+Claim 25: Rau cần là một trong những loại rau nhúng, chần tái cho vào bát.
+Result: PASS (Label: 1)
+Claim 26: Rau muống là một trong những loại rau nhúng, chần tái cho vào bát.
+Result: PASS (Label: 1)
+Claim 27: Mắm tôm là một trong những loại rau, gia vị ăn kèm.
+Result: PASS (Label: 1)
+Claim 28: Ớt chưng là một trong những loại rau, gia vị ăn kèm.
+Result: PASS (Label: 1)
+Claim 29: Ớt ngâm dấm là một trong những loại rau, gia vị ăn kèm.
+Result: PASS (Label: 1)
+Claim 30: Rau sống là một trong những loại rau, gia vị ăn kèm.
+Result: PASS (Label: 1)
+Claim 31: Chanh là một trong những loại rau, gia vị ăn kèm.
+Result: PASS (Label: 1)
+Claim 32: Quất là một trong những loại rau, gia vị ăn kèm.
+Result: PASS (Label: 1)
+Claim 33: Tương ớt là một trong những thành phần không thể thiếu trong món bánh đa ngày nay.
+Result: PASS (Label: 1)
+Claim 34: Chả lá lốt là một trong những đồ ăn kèm khác tùy theo nhu cầu của thực khách.
+Result: PASS (Label: 1)
+Claim 35: Trứng là một trong những đồ ăn kèm khác tùy theo nhu cầu của thực khách.
+Result: PASS (Label: 1)
+Claim 36: Thịt chân giò là một trong những đồ ăn kèm khác tùy theo nhu cầu của thực khách.
+Result: PASS (Label: 1)
+Claim 37: Giò tai là một trong những đồ ăn kèm khác tùy theo nhu cầu của thực khách.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 0.9730 (36/37)

@@ -1,0 +1,32 @@
+# Wiki 5
+
+Giới thiệu chung
+Nem chua Lai Vung là một trong những đặc sản nổi tiếng của tỉnh Đồng Tháp, với thương hiệu đã được khẳng định qua nhiều năm. Đây là một loại nem chua có vị ngọt, cay và chua, được làm từ thịt nạc đùi sau hoặc nạc mông heo tươi, da heo và các loại gia vị như muối, đường, tiêu, bột ngọt. Để tạo nên chất lượng của nem, khâu chọn nguyên liệu rất quan trọng, với tỷ lệ phối trộn thịt và da heo là 8 phần thịt và 2 phần da. Nem Lai Vung thường được gói trong lá chuối, sau đó để lên men tự nhiên trong 3-4 ngày trước khi giao tới tay người tiêu dùng. Với quy trình sản xuất truyền thống và nguyên liệu chất lượng, nem Lai Vung đã trở thành một trong những món ăn đặc trưng của miền Tây, được ưa chuộng không chỉ trong nước mà còn ở các tỉnh thành khác. Hiện nay, toàn tỉnh Đồng Tháp có hơn 20 cơ sở sản xuất nem Lai Vung, tập trung ở huyện Lai Vung và TP Sa Đéc, mỗi cơ sở có cách phối trộn gia vị khác nhau nhưng vẫn giữ được hương vị chung của nem.
+
+Thành phần và chế biến
+Thành phần và chế biến nem Lai Vung bao gồm các nguyên liệu chính như thịt heo và da bì. Để làm nem ngon và đúng cách, cần phải có đủ 8 phần thịt và 2 phần da bì. Trước đây, lá vông được sử dụng để lót nem, nhưng ngày nay do thiếu nguyên liệu, lá tầm ruột đã được sử dụng thay thế. Dây buộc nem cũng được thay thế từ dây chuối bằng dây ni lông. Quá trình chế biến nem Lai Vung cũng đã thay đổi, khi thịt và da heo không còn được làm thủ công bằng tay mà được đưa vào máy xay nhuyễn. Sau đó, hỗn hợp thịt và da bì được trộn đều với ớt xanh, tỏi và các gia vị khác, rồi được gói lại trong lá chuối. Mặc dù có một số thay đổi trong quá trình chế biến, nhưng mùi vị đặc trưng của nem Lai Vung vẫn được giữ vững.
+
+Lịch sử
+Lịch sử của nem Lai Vung bắt nguồn từ những năm trước giải phóng, khi bà Tư Mặn ở ấp Tân Khánh, xã Tân Thành khởi xướng nghề làm nem này. Từ đó, nghề làm nem Lai Vung đã phát triển và trở thành một phần quan trọng của văn hóa và kinh tế địa phương. Quá trình phát triển của làng nghề nem Lai Vung gắn liền với sự nỗ lực và sáng tạo của người dân trong vùng, đặc biệt là những người đã đặt nền móng cho nghề này. Dần dần, nem Lai Vung đã trở thành một sản phẩm đặc trưng của Đồng Tháp, được nhiều người ưa chuộng không chỉ trong vùng mà còn ở các tỉnh, thành khác. Hiện nay, nem Lai Vung đã trở thành một thương hiệu nổi tiếng, với nhiều cơ sở sản xuất được cấp giấy chứng nhận nhãn hiệu tập thể, và sản phẩm của họ được tiêu thụ mạnh mẽ từ tháng giêng đến tháng 4 âm lịch, đặc biệt là trong dịp vía Bà Chúa Xứ.
+
+Thương mại
+Thương mại của nem Lai Vung đang phát triển mạnh mẽ, với quy mô sản xuất lớn, đặc biệt là vào những dịp lễ, Tết. Các cơ sở sản xuất nem Lai Vung có thể làm việc hết công suất, với sản lượng lên đến 3.000-4.000 chiếc nem mỗi ngày. Thị trường tiêu thụ chủ yếu của nem Lai Vung là các tỉnh miền Tây, TP HCM và Hà Nội. Các cơ sở sản xuất nem không chỉ tập trung vào sản phẩm truyền thống mà còn đa dạng hóa sản phẩm, bao gồm nem chua, nem Huế, giò chả, mang lại nhiều lựa chọn cho người tiêu dùng. Giá cả của nem Lai Vung được đánh giá là bình dân, đặc biệt là trong dịp Tết, khi giá cả vẫn không thay đổi, điều này làm cho người tiêu dùng rất thích nem Lai Vung. Một số cơ sở làm nem Lai Vung đã được tỉnh Đồng Tháp cấp giấy chứng nhận sản phẩm OCOP 3 sao, 4 sao, và có mặt trong top những mặt hàng quà tặng đặc sản địa phương vang tiếng gần xa, góp phần tăng giá trị kinh tế cho làng nghề.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://dantri.com.vn/doi-song/dot-nhap-lo-san-xuat-nem-lai-vung-lon-nhat-mien-tay-20160111230319453.htm ({'doc_name': 'article_5', 'source_id': 2, 'chunk_index': 7, 'source_type': 'web'})
+[2] https://thanhnien.vn/nem-lai-vung-tu-mon-an-dan-da-tro-thanh-di-san-185231119220636868.htm ({'chunk_index': 4, 'doc_name': 'article_5', 'source_id': 1, 'source_type': 'web'})
+[3] https://vnexpress.net/thoi-su/dac-san-nem-lai-vung-mien-song-nuoc-3569680.html ({'chunk_index': 4, 'source_type': 'web', 'doc_name': 'article_5', 'source_id': 10})
+[4] https://vnexpress.net/thoi-su/dac-san-nem-lai-vung-mien-song-nuoc-3569680.html ({'doc_name': 'article_5', 'source_id': 10, 'chunk_index': 3, 'source_type': 'web'})
+[5] https://baochinhphu.vn/cong-bo-36-di-san-van-hoa-phi-vat-the-quoc-gia-102231114152659467.htm ({'chunk_index': 2, 'doc_name': 'article_5', 'source_type': 'web', 'source_id': 8})
+[6] https://baochinhphu.vn/cong-bo-36-di-san-van-hoa-phi-vat-the-quoc-gia-102231114152659467.htm ({'chunk_index': 5, 'doc_name': 'article_5', 'source_type': 'web', 'source_id': 8})
+[7] https://dantri.com.vn/doi-song/dot-nhap-lo-san-xuat-nem-lai-vung-lon-nhat-mien-tay-20160111230319453.htm ({'source_id': 2, 'source_type': 'web', 'doc_name': 'article_5', 'chunk_index': 6})
+[8] https://dantri.com.vn/doi-song/dot-nhap-lo-san-xuat-nem-lai-vung-lon-nhat-mien-tay-20160111230319453.htm ({'chunk_index': 1, 'source_type': 'web', 'source_id': 2, 'doc_name': 'article_5'})
+[9] https://vnexpress.net/thoi-su/dac-san-nem-lai-vung-mien-song-nuoc-3569680.html ({'chunk_index': 2, 'doc_name': 'article_5', 'source_id': 10, 'source_type': 'web'})
+[10] https://thanhnien.vn/dac-san-nem-lai-vung-vao-mua-tet-1855775.htm ({'source_id': 5, 'chunk_index': 0, 'source_type': 'web', 'doc_name': 'article_5'})
+[11] https://dantri.com.vn/doi-song/dot-nhap-lo-san-xuat-nem-lai-vung-lon-nhat-mien-tay-20160111230319453.htm ({'chunk_index': 4, 'source_type': 'web', 'source_id': 2, 'doc_name': 'article_5'})
+[12] https://vietnamnet.vn/goi-la-nem-chua-ma-lai-co-vi-ngot-thu-nem-la-nay-ban-dat-nhu-tom-tuoi-704119.html ({'chunk_index': 2, 'source_id': 6, 'source_type': 'web', 'doc_name': 'article_5'})
+[13] https://dantri.com.vn/doi-song/dot-nhap-lo-san-xuat-nem-lai-vung-lon-nhat-mien-tay-20160111230319453.htm ({'source_id': 2, 'doc_name': 'article_5', 'source_type': 'web', 'chunk_index': 2})
+[14] https://nld.com.vn/dia-phuong/doc-dao-nem-lai-vung-20110319024028471.htm ({'doc_name': 'article_5', 'source_id': 4, 'chunk_index': 1, 'source_type': 'web'})
+[15] https://vietnamnet.vn/goi-la-nem-chua-ma-lai-co-vi-ngot-thu-nem-la-nay-ban-dat-nhu-tom-tuoi-704119.html ({'doc_name': 'article_5', 'source_type': 'web', 'source_id': 6, 'chunk_index': 0})
+[16] https://thanhnien.vn/nem-lai-vung-tu-mon-an-dan-da-tro-thanh-di-san-185231119220636868.htm ({'source_type': 'web', 'doc_name': 'article_5', 'chunk_index': 6, 'source_id': 1})

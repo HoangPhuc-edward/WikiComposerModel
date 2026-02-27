@@ -1,0 +1,43 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+2. * Bánh mật được làm từ bột gạo nếp trộn mật nhân đậu xanh.
+3. * Bánh mật được gói lá chuối.
+4. * Bánh mật được đồ bằng chõ.
+5. * Bánh mật được làm bằng cách nấu bột nếp với mật.
+6. * Bánh mật được gói thành bánh dài 30 cm x 10 cm.
+7. * Bánh mật được dùng một cái cắt thành 2 bó.
+8. * Bánh mật được buộc ngửa ra thành một bát bánh.
+9. * Bánh mật được để lên mâm rước kiệu.
+10. * Bánh mật được gọi là rước cỗ.
+11. * Bánh mật xuất xứ từ Bắc Bộ.
+12. * Da bánh mật có màu nâu hồng.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+Result: FAIL (Label: 2)
+Claim 2: * Bánh mật được làm từ bột gạo nếp trộn mật nhân đậu xanh.
+Result: PASS (Label: 1)
+Claim 3: * Bánh mật được gói lá chuối.
+Result: PASS (Label: 1)
+Claim 4: * Bánh mật được đồ bằng chõ.
+Result: PASS (Label: 1)
+Claim 5: * Bánh mật được làm bằng cách nấu bột nếp với mật.
+Result: PASS (Label: 1)
+Claim 6: * Bánh mật được gói thành bánh dài 30 cm x 10 cm.
+Result: FAIL (Label: 2)
+Claim 7: * Bánh mật được dùng một cái cắt thành 2 bó.
+Result: PASS (Label: 1)
+Claim 8: * Bánh mật được buộc ngửa ra thành một bát bánh.
+Result: PASS (Label: 1)
+Claim 9: * Bánh mật được để lên mâm rước kiệu.
+Result: PASS (Label: 1)
+Claim 10: * Bánh mật được gọi là rước cỗ.
+Result: PASS (Label: 1)
+Claim 11: * Bánh mật xuất xứ từ Bắc Bộ.
+Result: PASS (Label: 1)
+Claim 12: * Da bánh mật có màu nâu hồng.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 0.8333 (10/12)

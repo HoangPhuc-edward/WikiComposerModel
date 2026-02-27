@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/",
+        "locator": {
+            "source_id": 1,
+            "source_type": "web",
+            "chunk_index": 0,
+            "doc_name": "article_jwlk_4"
+        }
+    },
+    {
+        "id": 2,
+        "name": "https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/",
+        "locator": {
+            "chunk_index": 12,
+            "source_id": 1,
+            "doc_name": "article_jwlk_4",
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 3,
+        "name": "https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/",
+        "locator": {
+            "doc_name": "article_jwlk_4",
+            "source_id": 1,
+            "chunk_index": 8,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 4,
+        "name": "https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/",
+        "locator": {
+            "source_type": "web",
+            "chunk_index": 15,
+            "source_id": 1,
+            "doc_name": "article_jwlk_4"
+        }
+    },
+    {
+        "id": 5,
+        "name": "https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/",
+        "locator": {
+            "doc_name": "article_jwlk_4",
+            "chunk_index": 7,
+            "source_id": 1,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 6,
+        "name": "https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/",
+        "locator": {
+            "doc_name": "article_jwlk_4",
+            "source_id": 1,
+            "source_type": "web",
+            "chunk_index": 9
+        }
+    },
+    {
+        "id": 7,
+        "name": "https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/",
+        "locator": {
+            "doc_name": "article_jwlk_4",
+            "source_type": "web",
+            "chunk_index": 5,
+            "source_id": 1
+        }
+    },
+    {
+        "id": 8,
+        "name": "https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/",
+        "locator": {
+            "source_type": "web",
+            "source_id": 1,
+            "chunk_index": 11,
+            "doc_name": "article_jwlk_4"
+        }
+    }
+]

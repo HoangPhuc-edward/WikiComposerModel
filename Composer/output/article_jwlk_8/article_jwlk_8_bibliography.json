@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "name": "source/data4.txt",
+        "locator": {
+            "doc_name": "article_jwlk_8",
+            "source_id": 3,
+            "chunk_index": 6,
+            "source_type": "txt"
+        }
+    },
+    {
+        "id": 2,
+        "name": "source/data4.txt",
+        "locator": {
+            "source_type": "txt",
+            "doc_name": "article_jwlk_8",
+            "chunk_index": 14,
+            "source_id": 3
+        }
+    },
+    {
+        "id": 3,
+        "name": "source/data4.txt",
+        "locator": {
+            "source_type": "txt",
+            "source_id": 3,
+            "doc_name": "article_jwlk_8",
+            "chunk_index": 13
+        }
+    },
+    {
+        "id": 4,
+        "name": "source/data4.txt",
+        "locator": {
+            "chunk_index": 1,
+            "doc_name": "article_jwlk_8",
+            "source_id": 3,
+            "source_type": "txt"
+        }
+    },
+    {
+        "id": 5,
+        "name": "source/data4.txt",
+        "locator": {
+            "source_id": 3,
+            "chunk_index": 3,
+            "doc_name": "article_jwlk_8",
+            "source_type": "txt"
+        }
+    },
+    {
+        "id": 6,
+        "name": "https://tuoitre.vn/am-thuc/nho-che-con-ong-ngay-se-lanh-995491.htm",
+        "locator": {
+            "source_id": 1,
+            "doc_name": "article_jwlk_8",
+            "chunk_index": 2,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 7,
+        "name": "source/data3.txt",
+        "locator": {
+            "doc_name": "article_jwlk_8",
+            "source_type": "txt",
+            "source_id": 2,
+            "chunk_index": 1
+        }
+    },
+    {
+        "id": 8,
+        "name": "source/data3.txt",
+        "locator": {
+            "doc_name": "article_jwlk_8",
+            "source_type": "txt",
+            "chunk_index": 9,
+            "source_id": 2
+        }
+    },
+    {
+        "id": 9,
+        "name": "source/data3.txt",
+        "locator": {
+            "source_type": "txt",
+            "doc_name": "article_jwlk_8",
+            "source_id": 2,
+            "chunk_index": 4
+        }
+    },
+    {
+        "id": 10,
+        "name": "https://vnexpress.net/che-con-ong-am-long-ngay-dong-lanh-o-phu-tho-3320023.html",
+        "locator": {
+            "source_type": "web",
+            "source_id": 4,
+            "doc_name": "article_jwlk_8",
+            "chunk_index": 0
+        }
+    },
+    {
+        "id": 11,
+        "name": "https://tuoitre.vn/am-thuc/nho-che-con-ong-ngay-se-lanh-995491.htm",
+        "locator": {
+            "chunk_index": 3,
+            "source_type": "web",
+            "source_id": 1,
+            "doc_name": "article_jwlk_8"
+        }
+    },
+    {
+        "id": 12,
+        "name": "https://tuoitre.vn/am-thuc/nho-che-con-ong-ngay-se-lanh-995491.htm",
+        "locator": {
+            "source_id": 1,
+            "source_type": "web",
+            "doc_name": "article_jwlk_8",
+            "chunk_index": 0
+        }
+    },
+    {
+        "id": 13,
+        "name": "https://tuoitre.vn/am-thuc/nho-che-con-ong-ngay-se-lanh-995491.htm",
+        "locator": {
+            "doc_name": "article_jwlk_8",
+            "source_type": "web",
+            "source_id": 1,
+            "chunk_index": 4
+        }
+    },
+    {
+        "id": 14,
+        "name": "source/data4.txt",
+        "locator": {
+            "doc_name": "article_jwlk_8",
+            "source_id": 3,
+            "chunk_index": 5,
+            "source_type": "txt"
+        }
+    },
+    {
+        "id": 15,
+        "name": "source/data4.txt",
+        "locator": {
+            "chunk_index": 4,
+            "doc_name": "article_jwlk_8",
+            "source_type": "txt",
+            "source_id": 3
+        }
+    },
+    {
+        "id": 16,
+        "name": "source/data3.txt",
+        "locator": {
+            "chunk_index": 7,
+            "source_id": 2,
+            "source_type": "txt",
+            "doc_name": "article_jwlk_8"
+        }
+    },
+    {
+        "id": 17,
+        "name": "source/data4.txt",
+        "locator": {
+            "doc_name": "article_jwlk_8",
+            "source_type": "txt",
+            "chunk_index": 8,
+            "source_id": 3
+        }
+    }
+]

@@ -1,0 +1,106 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+1. Dưới đây là danh sách các "Atomic Claims" (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+2. * Bánh chuối hấp là một món ăn vặt của miền Nam (Việt Nam).
+3. * Bánh chuối ngon dẻo.
+4. * Bánh chuối được phủ lớp nước cốt dừa béo.
+5. * Nước cốt dừa có vị mặn.
+6. * Bánh chuối không ngán.
+7. * Bánh chuối rắc đậu phộng rang nghiền mịn.
+8. * Bánh chuối rắc vừng vàng thơm.
+9. * Chuối xiêm chọn những quả chuối chín vừa, to, dài, tròn mập, màu vàng phủ đều trái.
+10. * Dừa khô chọn những quả dừa màu sậm, nặng.
+11. * Bột năng dùng để tạo độ sánh đặc.
+12. * Bột gạo dùng trong bánh chuối hấp.
+13. * Đường cát vàng dùng trong bánh chuối hấp.
+14. * Đậu phộng dùng trong bánh chuối hấp.
+15. * Vừng dùng trong bánh chuối hấp.
+16. * Ống vani dùng trong bánh chuối hấp.
+17. * Muối ăn dùng trong bánh chuối hấp.
+18. * Bột báng và mè trắng dùng trong bánh chuối hấp.
+19. * Chuối sứ lột vỏ cắt khoanh mỏng khoảng 3mm.
+20. * Chuối sứ cho vào thau với đường cát vàng, bột năng và bột gạo.
+21. * Dừa khô nạo sẵn trong thau cho nước ấm vào trộn.
+22. * Dừa khô bóp mạnh tay và vắt lấy nước cốt.
+23. * Đậu phộng và vừng rang trong chảo đến khi vàng đều có mùi thơm.
+24. * Khuôn bánh đã thoa sẵn lớp dầu mỏng.
+25. * Nồi hấp bánh đặt lên bếp đợi nước sôi.
+26. * Bánh chuối hấp trong khoảng 30-40'.
+27. * Quá 30', dùng một cây tâm xuyên thử qua lớp bánh nếu không dính vào tâm là bánh đã chín.
+28. * Lấy khuôn ra bên ngoài, đợi bánh nguội bớt rồi cắt thành từng miếng.
+29. * Đổ nước cốt dừa đã vắt sẵn vào nồi, để lên lò bật lửa vừa.
+30. * Khuấy đều cho đến khi nước cốt dừa sôi thì cho một ít muối, bột năng vào khuấy.
+31. * Nước cốt dừa sánh đặc lại thì tắt bếp.
+32. * Lấy những miếng bánh chuối đã được cắt cho vào dĩa, chan nước cốt dừa lên mặt.
+33. * Rắc đậu phộng nghiền mịn và mè lên mặt.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các "Atomic Claims" (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+Result: FAIL (Label: 2)
+Claim 2: * Bánh chuối hấp là một món ăn vặt của miền Nam (Việt Nam).
+Result: FAIL (Label: 2)
+Claim 3: * Bánh chuối ngon dẻo.
+Result: FAIL (Label: 2)
+Claim 4: * Bánh chuối được phủ lớp nước cốt dừa béo.
+Result: FAIL (Label: 2)
+Claim 5: * Nước cốt dừa có vị mặn.
+Result: FAIL (Label: 2)
+Claim 6: * Bánh chuối không ngán.
+Result: FAIL (Label: 2)
+Claim 7: * Bánh chuối rắc đậu phộng rang nghiền mịn.
+Result: FAIL (Label: 2)
+Claim 8: * Bánh chuối rắc vừng vàng thơm.
+Result: FAIL (Label: 2)
+Claim 9: * Chuối xiêm chọn những quả chuối chín vừa, to, dài, tròn mập, màu vàng phủ đều trái.
+Result: FAIL (Label: 2)
+Claim 10: * Dừa khô chọn những quả dừa màu sậm, nặng.
+Result: FAIL (Label: 2)
+Claim 11: * Bột năng dùng để tạo độ sánh đặc.
+Result: FAIL (Label: 2)
+Claim 12: * Bột gạo dùng trong bánh chuối hấp.
+Result: FAIL (Label: 2)
+Claim 13: * Đường cát vàng dùng trong bánh chuối hấp.
+Result: FAIL (Label: 2)
+Claim 14: * Đậu phộng dùng trong bánh chuối hấp.
+Result: FAIL (Label: 2)
+Claim 15: * Vừng dùng trong bánh chuối hấp.
+Result: FAIL (Label: 2)
+Claim 16: * Ống vani dùng trong bánh chuối hấp.
+Result: FAIL (Label: 2)
+Claim 17: * Muối ăn dùng trong bánh chuối hấp.
+Result: FAIL (Label: 2)
+Claim 18: * Bột báng và mè trắng dùng trong bánh chuối hấp.
+Result: FAIL (Label: 2)
+Claim 19: * Chuối sứ lột vỏ cắt khoanh mỏng khoảng 3mm.
+Result: FAIL (Label: 2)
+Claim 20: * Chuối sứ cho vào thau với đường cát vàng, bột năng và bột gạo.
+Result: FAIL (Label: 2)
+Claim 21: * Dừa khô nạo sẵn trong thau cho nước ấm vào trộn.
+Result: FAIL (Label: 2)
+Claim 22: * Dừa khô bóp mạnh tay và vắt lấy nước cốt.
+Result: FAIL (Label: 2)
+Claim 23: * Đậu phộng và vừng rang trong chảo đến khi vàng đều có mùi thơm.
+Result: FAIL (Label: 2)
+Claim 24: * Khuôn bánh đã thoa sẵn lớp dầu mỏng.
+Result: FAIL (Label: 2)
+Claim 25: * Nồi hấp bánh đặt lên bếp đợi nước sôi.
+Result: FAIL (Label: 2)
+Claim 26: * Bánh chuối hấp trong khoảng 30-40'.
+Result: FAIL (Label: 2)
+Claim 27: * Quá 30', dùng một cây tâm xuyên thử qua lớp bánh nếu không dính vào tâm là bánh đã chín.
+Result: FAIL (Label: 2)
+Claim 28: * Lấy khuôn ra bên ngoài, đợi bánh nguội bớt rồi cắt thành từng miếng.
+Result: FAIL (Label: 2)
+Claim 29: * Đổ nước cốt dừa đã vắt sẵn vào nồi, để lên lò bật lửa vừa.
+Result: FAIL (Label: 2)
+Claim 30: * Khuấy đều cho đến khi nước cốt dừa sôi thì cho một ít muối, bột năng vào khuấy.
+Result: FAIL (Label: 2)
+Claim 31: * Nước cốt dừa sánh đặc lại thì tắt bếp.
+Result: FAIL (Label: 2)
+Claim 32: * Lấy những miếng bánh chuối đã được cắt cho vào dĩa, chan nước cốt dừa lên mặt.
+Result: FAIL (Label: 2)
+Claim 33: * Rắc đậu phộng nghiền mịn và mè lên mặt.
+Result: FAIL (Label: 2)
+
+FINAL CLAIM RECALL SCORE: 0.0000 (0/33)

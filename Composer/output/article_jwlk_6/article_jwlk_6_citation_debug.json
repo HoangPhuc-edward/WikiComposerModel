@@ -1,0 +1,127 @@
+{
+    "session_id": "article_jwlk_6",
+    "full_content_parsed": [
+        {
+            "content": "Bánh đậu xanh trái cây là một món ăn đặc sản của Huế, với nguồn gốc từ ẩm thực cung đình Huế. Đây là món bánh \"quý tộc\" được người dân Huế yêu thích, với lịch sử lâu đời và giá trị văn hóa sâu sắc. Món bánh này thường được phục vụ tại các yến tiệc của Vua chúa ở Hoàng Cung, hoặc xuất hiện trong mâm cỗ gia đình quan lại và quý tộc vào các dịp lễ đặc biệt. Bánh đậu xanh trái cây được làm từ đậu xanh, bột rau câu và một ít rau củ quả tạo màu trang trí, với công đoạn đòi hỏi sự tỉ mỉ và tính sáng tạo của mỗi nghệ nhân. Món bánh này không chỉ là một món ăn ngon, mà còn mang theo hương vị của truyền thống, giá trị văn hóa, lịch sử và tuổi thơ của biết bao thế hệ người con xứ Huế.",
+            "source_ids": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "content": "Đặc điểm chính của bánh đậu xanh trái cây là sự kết hợp giữa nguyên liệu chính là đậu xanh và bột rau câu, cùng với một ít rau củ quả tạo màu trang trí. Hình dáng của bánh thường được tạo hình tỉ mỉ, với màu sắc bắt mắt và thơm ngon. Bánh đậu xanh trái cây không chỉ là một món ăn thông thường, mà nó còn mang ý nghĩa truyền thống lâu đời và giá trị văn hóa của người dân xứ Huế. Với vẻ ngoài xinh xắn và hương vị đặc trưng, bánh đậu xanh trái cây đã trở thành một phần không thể thiếu trong ẩm thực của Huế, và là một món ăn đặc sản mà du khách không thể bỏ lỡ khi đến thăm thành phố này.",
+            "source_ids": [
+                1,
+                2,
+                6,
+                3,
+                7
+            ]
+        },
+        {
+            "content": "Cách làm cơ bản của bánh đậu xanh trái cây bắt đầu với việc chuẩn bị nguyên liệu chính là đậu xanh, kết hợp cùng bột rau câu và một ít rau củ quả tạo màu trang trí. Để làm nên chiếc bánh hoàn chỉnh, đòi hỏi sự tỉ mỉ và tính sáng tạo của mỗi nghệ nhân. Trước tiên, cần phải chuẩn bị đậu xanh, sau đó kết hợp với bột rau câu và các loại rau củ quả để tạo màu trang trí. Tiếp theo, người làm bánh sẽ bọc một lớp rau câu bên ngoài bột bánh đậu xanh thông thường, rồi thêm chút màu thực phẩm tự nhiên. Quá trình này đòi hỏi sự cẩn thận và tỉ mỉ để tạo nên những chiếc bánh mang phong cách riêng và ấn tượng. Sau khi hoàn thành, bánh đậu xanh trái cây có thể được thưởng thức cùng một tách trà đắng nhẹ, nóng thơm, để cảm nhận sự tan chảy của nhân đậu mềm mịn, bùi bùi đầu lưỡi và độ giòn tan của rau câu cùng hương vị thơm ngọt dịu hòa quyện.",
+            "source_ids": [
+                1,
+                2,
+                8,
+                3,
+                7
+            ]
+        }
+    ],
+    "source_map_loaded": {
+        "1": "Đậu xanh trái cây –  món bánh cung đình đậm đà sắc Huế",
+        "2": "Đậu xanh trái cây –  món bánh cung đình đậm đà sắc Huế",
+        "3": "Đậu xanh trái cây –  món bánh cung đình đậm đà sắc Huế",
+        "4": "Đậu xanh trái cây –  món bánh cung đình đậm đà sắc Huế",
+        "5": "Đậu xanh trái cây –  món bánh cung đình đậm đà sắc Huế",
+        "6": "Đậu xanh trái cây –  món bánh cung đình đậm đà sắc Huế",
+        "7": "Đậu xanh trái cây –  món bánh cung đình đậm đà sắc Huế",
+        "8": "Đậu xanh trái cây –  món bánh cung đình đậm đà sắc Huế"
+    },
+    "bibliography_reference": [
+        {
+            "id": 1,
+            "name": "source/data2.txt",
+            "locator": {
+                "doc_name": "article_jwlk_6",
+                "chunk_index": 3,
+                "source_type": "txt",
+                "source_id": 1
+            }
+        },
+        {
+            "id": 2,
+            "name": "source/data2.txt",
+            "locator": {
+                "source_type": "txt",
+                "chunk_index": 1,
+                "source_id": 1,
+                "doc_name": "article_jwlk_6"
+            }
+        },
+        {
+            "id": 3,
+            "name": "source/data2.txt",
+            "locator": {
+                "doc_name": "article_jwlk_6",
+                "chunk_index": 12,
+                "source_id": 1,
+                "source_type": "txt"
+            }
+        },
+        {
+            "id": 4,
+            "name": "source/data2.txt",
+            "locator": {
+                "source_id": 1,
+                "source_type": "txt",
+                "chunk_index": 8,
+                "doc_name": "article_jwlk_6"
+            }
+        },
+        {
+            "id": 5,
+            "name": "source/data2.txt",
+            "locator": {
+                "source_id": 1,
+                "source_type": "txt",
+                "chunk_index": 11,
+                "doc_name": "article_jwlk_6"
+            }
+        },
+        {
+            "id": 6,
+            "name": "source/data2.txt",
+            "locator": {
+                "doc_name": "article_jwlk_6",
+                "chunk_index": 6,
+                "source_type": "txt",
+                "source_id": 1
+            }
+        },
+        {
+            "id": 7,
+            "name": "source/data2.txt",
+            "locator": {
+                "source_type": "txt",
+                "doc_name": "article_jwlk_6",
+                "source_id": 1,
+                "chunk_index": 10
+            }
+        },
+        {
+            "id": 8,
+            "name": "source/data2.txt",
+            "locator": {
+                "doc_name": "article_jwlk_6",
+                "source_id": 1,
+                "source_type": "txt",
+                "chunk_index": 4
+            }
+        }
+    ]
+}

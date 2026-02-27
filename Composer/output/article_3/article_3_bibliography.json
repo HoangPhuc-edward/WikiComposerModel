@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "https://nld.com.vn/dia-phuong/banh-gat-gu-20120923063338346.htm",
+        "locator": {
+            "doc_name": "article_3",
+            "chunk_index": 3,
+            "source_id": 3,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 2,
+        "name": "http://vovworld.vn/vi-VN/huong-vi-que-nha/gat-gu-voi-banh-gat-gu-tien-yen-550846.vov",
+        "locator": {
+            "doc_name": "article_3",
+            "chunk_index": 2,
+            "source_type": "web",
+            "source_id": 2
+        }
+    },
+    {
+        "id": 3,
+        "name": "https://nld.com.vn/dia-phuong/banh-gat-gu-20120923063338346.htm",
+        "locator": {
+            "doc_name": "article_3",
+            "source_type": "web",
+            "chunk_index": 2,
+            "source_id": 3
+        }
+    },
+    {
+        "id": 4,
+        "name": "https://vtv.vn/doi-song/den-tien-yen-thuong-thuc-dac-san-banh-gat-gu-20180920171132131.htm",
+        "locator": {
+            "source_id": 6,
+            "chunk_index": 1,
+            "source_type": "web",
+            "doc_name": "article_3"
+        }
+    },
+    {
+        "id": 5,
+        "name": "https://nld.com.vn/dia-phuong/banh-gat-gu-20120923063338346.htm",
+        "locator": {
+            "doc_name": "article_3",
+            "source_id": 3,
+            "source_type": "web",
+            "chunk_index": 4
+        }
+    },
+    {
+        "id": 6,
+        "name": "http://vovworld.vn/vi-VN/huong-vi-que-nha/gat-gu-voi-banh-gat-gu-tien-yen-550846.vov",
+        "locator": {
+            "source_id": 2,
+            "doc_name": "article_3",
+            "source_type": "web",
+            "chunk_index": 8
+        }
+    },
+    {
+        "id": 7,
+        "name": "https://nld.com.vn/dia-phuong/banh-gat-gu-20120923063338346.htm",
+        "locator": {
+            "chunk_index": 0,
+            "source_id": 3,
+            "doc_name": "article_3",
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 8,
+        "name": "http://vovworld.vn/vi-VN/huong-vi-que-nha/gat-gu-voi-banh-gat-gu-tien-yen-550846.vov",
+        "locator": {
+            "chunk_index": 5,
+            "source_type": "web",
+            "doc_name": "article_3",
+            "source_id": 2
+        }
+    },
+    {
+        "id": 9,
+        "name": "http://vovworld.vn/vi-VN/huong-vi-que-nha/gat-gu-voi-banh-gat-gu-tien-yen-550846.vov",
+        "locator": {
+            "chunk_index": 6,
+            "source_type": "web",
+            "doc_name": "article_3",
+            "source_id": 2
+        }
+    },
+    {
+        "id": 10,
+        "name": "https://dulich.dantri.com.vn/du-lich/doc-dao-mon-banh-gat-gu-cua-vung-dat-mo-1395757665.htm",
+        "locator": {
+            "source_type": "web",
+            "chunk_index": 4,
+            "source_id": 4,
+            "doc_name": "article_3"
+        }
+    },
+    {
+        "id": 11,
+        "name": "https://dulich.dantri.com.vn/du-lich/doc-dao-mon-banh-gat-gu-cua-vung-dat-mo-1395757665.htm",
+        "locator": {
+            "source_id": 4,
+            "doc_name": "article_3",
+            "chunk_index": 1,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 12,
+        "name": "https://thanhnien.vn/doi-song/am-thuc/banh-gat-gu-vua-an-vua-gat-cua-tien-yen-798434.html",
+        "locator": {
+            "chunk_index": 3,
+            "doc_name": "article_3",
+            "source_type": "web",
+            "source_id": 5
+        }
+    }
+]

@@ -1,0 +1,76 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+2. * Bánh cáy là đặc sản của làng Nguyễn.
+3. * Bánh cáy có nhiều màu sắc.
+4. * Người ta chọn loại nếp ngon.
+5. * Người ta đem trộn gạo nếp đã ngâm cùng gấc.
+6. * Người ta đem trộn gạo nếp đã ngâm cùng quả dành dành.
+7. * Sau khi đồ xôi đem cả nồi giã thành bột dẻo.
+8. * Bột dẻo như bột bánh dày.
+9. * Bột khô thái thành con cáy trong bánh cáy.
+10. * Cả nồi mạch nha được nhào trộn với những nguyên vật liệu trên.
+11. * Cả nồi mạch nha được nhào trộn với những hạt bỏng trắng tinh.
+12. * Đun vừa lửa đến độ dẻo cần thiết.
+13. * Bánh mềm.
+14. * Bánh được lèn chặt trong những chiếc khuôn bằng gỗ hình chữ nhật.
+15. * Bánh được lèn chặt trong những chiếc khuôn bằng gỗ hình chữ nhật được lót thêm vừng.
+16. * Bánh được lút chặt trong những chiếc khuôn bằng gỗ hình chữ nhật được lót thêm lạc.
+17. * Bánh được lót chặt trong những chiếc khuôn bằng gỗ hình chữ nhật được lót thêm mứt bí.
+18. * Khi bánh nguội, dóc khuôn lấy ra.
+19. * Cắt thành những thanh nhỏ.
+20. * Đóng hộp.
+21. * Những hộp bánh cáy được xếp bên những bánh chưng.
+22. * Những hộp bánh cáy được xếp bên những bánh dày.
+23. * Những hộp bánh cáy được xếp bên mâm ngũ quả.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Bánh cáy là đặc sản của làng Nguyễn.
+Result: PASS (Label: 1)
+Claim 3: * Bánh cáy có nhiều màu sắc.
+Result: PASS (Label: 1)
+Claim 4: * Người ta chọn loại nếp ngon.
+Result: PASS (Label: 1)
+Claim 5: * Người ta đem trộn gạo nếp đã ngâm cùng gấc.
+Result: PASS (Label: 1)
+Claim 6: * Người ta đem trộn gạo nếp đã ngâm cùng quả dành dành.
+Result: PASS (Label: 1)
+Claim 7: * Sau khi đồ xôi đem cả nồi giã thành bột dẻo.
+Result: PASS (Label: 1)
+Claim 8: * Bột dẻo như bột bánh dày.
+Result: PASS (Label: 1)
+Claim 9: * Bột khô thái thành con cáy trong bánh cáy.
+Result: PASS (Label: 1)
+Claim 10: * Cả nồi mạch nha được nhào trộn với những nguyên vật liệu trên.
+Result: PASS (Label: 1)
+Claim 11: * Cả nồi mạch nha được nhào trộn với những hạt bỏng trắng tinh.
+Result: PASS (Label: 1)
+Claim 12: * Đun vừa lửa đến độ dẻo cần thiết.
+Result: PASS (Label: 1)
+Claim 13: * Bánh mềm.
+Result: FAIL (Label: 2)
+Claim 14: * Bánh được lèn chặt trong những chiếc khuôn bằng gỗ hình chữ nhật.
+Result: PASS (Label: 1)
+Claim 15: * Bánh được lèn chặt trong những chiếc khuôn bằng gỗ hình chữ nhật được lót thêm vừng.
+Result: PASS (Label: 1)
+Claim 16: * Bánh được lút chặt trong những chiếc khuôn bằng gỗ hình chữ nhật được lót thêm lạc.
+Result: PASS (Label: 1)
+Claim 17: * Bánh được lót chặt trong những chiếc khuôn bằng gỗ hình chữ nhật được lót thêm mứt bí.
+Result: PASS (Label: 1)
+Claim 18: * Khi bánh nguội, dóc khuôn lấy ra.
+Result: PASS (Label: 1)
+Claim 19: * Cắt thành những thanh nhỏ.
+Result: PASS (Label: 1)
+Claim 20: * Đóng hộp.
+Result: FAIL (Label: 2)
+Claim 21: * Những hộp bánh cáy được xếp bên những bánh chưng.
+Result: PASS (Label: 1)
+Claim 22: * Những hộp bánh cáy được xếp bên những bánh dày.
+Result: PASS (Label: 1)
+Claim 23: * Những hộp bánh cáy được xếp bên mâm ngũ quả.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 0.9130 (21/23)

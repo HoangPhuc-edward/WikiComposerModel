@@ -1,0 +1,49 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+2. Bánh giò được làm bằng bột gạo tẻ.
+3. Bánh giò được làm bằng bột năng hòa với nước xương hầm.
+4. Nhân bánh làm từ thịt nạc vai.
+5. Nhân bánh có kèm mộc nhĩ.
+6. Nhân bánh có hành tím khô.
+7. Nhân bánh có hành ta.
+8. Nhân bánh có hạt tiêu.
+9. Nhân bánh có nước mắm.
+10. Nhân bánh có muối.
+11. Bánh giò có hình dài nhô cao như hình bàn tay úp.
+12. Bánh giò có các ngón tay sát nhau.
+13. Bánh giò được gói bằng lá chuối.
+14. Bánh giò được hấp bằng chõ trong 30-40 phút.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ văn bản:
+Result: PASS (Label: 1)
+Claim 2: Bánh giò được làm bằng bột gạo tẻ.
+Result: PASS (Label: 1)
+Claim 3: Bánh giò được làm bằng bột năng hòa với nước xương hầm.
+Result: PASS (Label: 1)
+Claim 4: Nhân bánh làm từ thịt nạc vai.
+Result: FAIL (Label: 2)
+Claim 5: Nhân bánh có kèm mộc nhĩ.
+Result: FAIL (Label: 2)
+Claim 6: Nhân bánh có hành tím khô.
+Result: FAIL (Label: 2)
+Claim 7: Nhân bánh có hành ta.
+Result: FAIL (Label: 2)
+Claim 8: Nhân bánh có hạt tiêu.
+Result: FAIL (Label: 2)
+Claim 9: Nhân bánh có nước mắm.
+Result: FAIL (Label: 2)
+Claim 10: Nhân bánh có muối.
+Result: FAIL (Label: 2)
+Claim 11: Bánh giò có hình dài nhô cao như hình bàn tay úp.
+Result: PASS (Label: 1)
+Claim 12: Bánh giò có các ngón tay sát nhau.
+Result: FAIL (Label: 2)
+Claim 13: Bánh giò được gói bằng lá chuối.
+Result: PASS (Label: 1)
+Claim 14: Bánh giò được hấp bằng chõ trong 30-40 phút.
+Result: FAIL (Label: 2)
+
+FINAL CLAIM RECALL SCORE: 0.3571 (5/14)

@@ -1,0 +1,26 @@
+--- BÀI VIẾT CỦA AI (SESSION: article_jwlk_13) ---
+# Bánh PhồngBánh phồng là các loại bánh được làm từ bột ngũ cốc kết hợp gia vị, phụ gia, sau đó được chiên phồng trong mỡ nước hay dầu ăn.
+
+Giới thiệu
+Bánh phồng là một loại bánh truyền thống của Việt Nam, đặc biệt phổ biến tại tỉnh Bến Tre. Loại bánh này đã được sản xuất và tiêu thụ trong nhiều năm, với lịch sử hình thành và phát triển gắn liền với làng nghề Sơn Đốc. Người dân tại đây đã sáng tạo và cải tiến ra nhiều loại bánh phồng khác nhau, bao gồm bánh phồng nếp, bánh phồng mì, bánh phồng nếp sữa, bánh phồng mì tráng chuối, tạo ra nhiều vị đặc trưng riêng cho bánh phồng tại Sơn Đốc. Với sự phát triển của công nghệ, quy trình sản xuất bánh phồng đã được hiện đại hóa, giúp tăng năng suất và chất lượng của bánh. Hiện nay, bánh phồng Sơn Đốc đã trở thành một trong những đặc sản nổi tiếng của tỉnh Bến Tre, được nhiều người biết đến và ưa chuộng.
+
+Phân loại
+Phân loại bánh phồng tại Việt Nam khá đa dạng, với nhiều loại bánh khác nhau được sản xuất và tiêu thụ rộng rãi. Một số loại bánh phồng phổ biến bao gồm bánh phồng mì và bánh phồng nếp, đây là những loại bánh truyền thống và được nhiều người ưa chuộng. Ngoài ra, người dân làng nghề Sơn Đốc cũng đã sáng tạo và cải tiến ra nhiều loại bánh mới như bánh phồng nếp sữa, bánh phồng mì tráng chuối, tạo ra nhiều vị đặc trưng riêng cho bánh phồng ở Sơn Đốc. Những loại bánh này không chỉ được tiêu thụ trong nước mà còn được nhiều du khách quốc tế biết đến và yêu thích.
+
+Sử dụng
+Bánh phồng là một món ăn đặc sản của làng nghề Sơn Đốc, được sử dụng như một món ăn khai vị hoặc món nhắm rượu. Để sử dụng bánh phồng, trước tiên cần chiên phồng bánh cho đến khi bánh giòn và phồng lên. Sau đó, bánh có thể được sử dụng như một món ăn kèm với các loại nước chấm hoặc món ăn khác. Bánh phồng cũng có thể được sử dụng như một món ăn chính, được kết hợp với các loại nhân như thịt, hải sản hoặc rau củ. Ngoài ra, bánh phồng cũng có thể được sử dụng như một món ăn vặt, được thưởng thức cùng với các loại đồ uống như bia hoặc rượu.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://dantri.com.vn/viec-lam/my-long-son-doc-vao-mua-trang-banh-ngay-dem-20180123074737852.htm ({'chunk_index': 5, 'source_type': 'web', 'source_id': 2, 'doc_name': 'article_jwlk_13'})
+[2] https://dantri.com.vn/viec-lam/my-long-son-doc-vao-mua-trang-banh-ngay-dem-20180123074737852.htm ({'source_type': 'web', 'doc_name': 'article_jwlk_13', 'source_id': 2, 'chunk_index': 7})
+[3] https://dantri.com.vn/du-lich/khach-tay-me-man-am-thuc-xu-dua-1429324679.htm ({'doc_name': 'article_jwlk_13', 'chunk_index': 3, 'source_type': 'web', 'source_id': 1})
+[4] https://dantri.com.vn/viec-lam/my-long-son-doc-vao-mua-trang-banh-ngay-dem-20180123074737852.htm ({'chunk_index': 6, 'source_type': 'web', 'source_id': 2, 'doc_name': 'article_jwlk_13'})
+[5] https://dantri.com.vn/viec-lam/my-long-son-doc-vao-mua-trang-banh-ngay-dem-20180123074737852.htm ({'source_type': 'web', 'chunk_index': 0, 'doc_name': 'article_jwlk_13', 'source_id': 2})
+[6] https://dantri.com.vn/viec-lam/my-long-son-doc-vao-mua-trang-banh-ngay-dem-20180123074737852.htm ({'doc_name': 'article_jwlk_13', 'source_type': 'web', 'chunk_index': 3, 'source_id': 2})
+[7] https://dantri.com.vn/du-lich/khach-tay-me-man-am-thuc-xu-dua-1429324679.htm ({'source_type': 'web', 'source_id': 1, 'doc_name': 'article_jwlk_13', 'chunk_index': 2})
+[8] https://dantri.com.vn/viec-lam/my-long-son-doc-vao-mua-trang-banh-ngay-dem-20180123074737852.htm ({'source_id': 2, 'doc_name': 'article_jwlk_13', 'chunk_index': 4, 'source_type': 'web'})
+[9] https://dantri.com.vn/du-lich/khach-tay-me-man-am-thuc-xu-dua-1429324679.htm ({'doc_name': 'article_jwlk_13', 'source_id': 1, 'source_type': 'web', 'chunk_index': 0})
+
+--- KẾT QUẢ ĐÁNH GIÁ SẼ ĐƯỢC CẬP NHẬT DƯỚI ĐÂY ---
+Recall: 33.33333333333333 | Precision: 33.33333333333333 | Correctness: 0.8461538461538461

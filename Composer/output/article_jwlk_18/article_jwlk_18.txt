@@ -1,0 +1,12 @@
+# Chè Shan TuyếtChè Shan Tuyết là loại chè đặc sản Việt Nam có búp to màu trắng xám, được trồng ở các tỉnh Hà Giang, Bắc Kạn, Điện Biên, Lào Cai, Yên Bái.
+
+Giới thiệu
+Lỗi API OpenAI: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org01k0f0faq6fqqvp1dvz9enm7wm` service tier `ondemand` on tokens per day (TPD): Limit 100000, Used 99980, Requested 1310. Please try again in 18m34.56s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'ratelimitexceeded'}}
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://thanhnien.vn/doi-song/tra-shan-tuyet-co-thu-la-dac-san-huu-co-doc-dao-cua-viet-nam-1126214.html ({'doc_name': 'article_jwlk_18', 'source_id': 4, 'chunk_index': 3, 'source_type': 'web'})
+[2] https://thanhnien.vn/doi-song/tra-shan-tuyet-co-thu-la-dac-san-huu-co-doc-dao-cua-viet-nam-1126214.html ({'source_type': 'web', 'doc_name': 'article_jwlk_18', 'source_id': 4, 'chunk_index': 5})
+[3] https://voh.com.vn/du-lich/kham-pha-vung-che-shan-tuyet-co-thu-o-hoang-su-phi-525661.html ({'chunk_index': 0, 'source_type': 'web', 'doc_name': 'article_jwlk_18', 'source_id': 3})
+[4] https://voh.com.vn/du-lich/kham-pha-vung-che-shan-tuyet-co-thu-o-hoang-su-phi-525661.html ({'doc_name': 'article_jwlk_18', 'source_type': 'web', 'chunk_index': 1, 'source_id': 3})
+[5] source/data10.txt ({'source_id': 2, 'doc_name': 'article_jwlk_18', 'source_type': 'txt', 'chunk_index': 2})

@@ -1,0 +1,70 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Kẹo Cu Đơ là một loại kẹo đặc sản có nguồn gốc từ tỉnh Hà Tĩnh, Việt Nam.
+3. * Kẹo Cu Đơ được nấu từ mật mía, đường, mạch nha, gừng, đậu phộng làm nhân.
+4. * Kẹo Cu Đơ được đổ vào hai miếng bánh tráng ép lại.
+5. * Kẹo Cu Đơ rất dẻo và dính.
+6. * Kẹo Cu Đơ có thể ăn không hoặc thưởng thức cùng với nước trà xanh.
+7. * Kẹo Cu Đơ nằm trong danh sách “Top 100 đặc sản quà tặng Việt Nam” năm 2020-2021 của Tổ chức Kỷ lục Việt Nam.
+8. * Kẹo Cu Đơ được làm chủ yếu từ đậu phộng (lạc) và mật mía.
+9. * Mật mía và lạc nhân (đậu phộng hạt) được bỏ vào chảo, đun sôi với lửa nhỏ.
+10. * Có thể trộn thêm một số phụ gia như gừng, mạch nha để kẹo ăn được giòn hơn, thơm hơn.
+11. * Hỗn hợp được nấu đến lúc đạt được độ sệt nhất định.
+12. * Người làm kẹo sẽ dùng những miếng bánh đa nướng (bánh tráng) cắt sẵn theo hình tròn, đổ hỗn hợp kẹo lên và ốp hai mẩu bánh tráng lại với nhau.
+13. * Cu đơ còn có một biến thể khác là kẹo đọi.
+14. * Kẹo đọi là loại kẹo mật mía nấu non mềm hơn.
+15. * Kẹo đọi thường được cho vào bát nhỏ và dùng thìa múc ăn.
+16. * Ông Đinh Vy là người đầu tiên nấu loại kẹo này ở huyện Hương Sơn.
+17. * Năm 1953, ông Đinh Vy lấy lạc trộn đều với vỏ chanh rồi đổ vào nồi mật mía nấu thành kẹo.
+18. * Kẹo nấu xong được đưa ra chợ quê như Gôi, Phố, Rạp... bán cho dân địa phương.
+19. * Giá bán kẹo là hai đồng một bát hoặc miếng to bằng bàn tay người lớn.
+20. * Ông Lê Nhật Tân là nguyên Trưởng phòng Văn hóa Thông tin huyện Hương Sơn.
+21. * Ông Lê Nhật Tân cho rằng có nghiên cứu khẳng định kẹo cu đơ có nguồn gốc từ địa bàn và ông Đinh Vy là người đầu tiên trong huyện khởi xướng việc nấu kẹo.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: FAIL (Label: 2)
+Claim 2: * Kẹo Cu Đơ là một loại kẹo đặc sản có nguồn gốc từ tỉnh Hà Tĩnh, Việt Nam.
+Result: PASS (Label: 1)
+Claim 3: * Kẹo Cu Đơ được nấu từ mật mía, đường, mạch nha, gừng, đậu phộng làm nhân.
+Result: FAIL (Label: 2)
+Claim 4: * Kẹo Cu Đơ được đổ vào hai miếng bánh tráng ép lại.
+Result: FAIL (Label: 2)
+Claim 5: * Kẹo Cu Đơ rất dẻo và dính.
+Result: FAIL (Label: 2)
+Claim 6: * Kẹo Cu Đơ có thể ăn không hoặc thưởng thức cùng với nước trà xanh.
+Result: FAIL (Label: 2)
+Claim 7: * Kẹo Cu Đơ nằm trong danh sách “Top 100 đặc sản quà tặng Việt Nam” năm 2020-2021 của Tổ chức Kỷ lục Việt Nam.
+Result: FAIL (Label: 2)
+Claim 8: * Kẹo Cu Đơ được làm chủ yếu từ đậu phộng (lạc) và mật mía.
+Result: FAIL (Label: 2)
+Claim 9: * Mật mía và lạc nhân (đậu phộng hạt) được bỏ vào chảo, đun sôi với lửa nhỏ.
+Result: FAIL (Label: 2)
+Claim 10: * Có thể trộn thêm một số phụ gia như gừng, mạch nha để kẹo ăn được giòn hơn, thơm hơn.
+Result: FAIL (Label: 2)
+Claim 11: * Hỗn hợp được nấu đến lúc đạt được độ sệt nhất định.
+Result: FAIL (Label: 2)
+Claim 12: * Người làm kẹo sẽ dùng những miếng bánh đa nướng (bánh tráng) cắt sẵn theo hình tròn, đổ hỗn hợp kẹo lên và ốp hai mẩu bánh tráng lại với nhau.
+Result: FAIL (Label: 2)
+Claim 13: * Cu đơ còn có một biến thể khác là kẹo đọi.
+Result: FAIL (Label: 2)
+Claim 14: * Kẹo đọi là loại kẹo mật mía nấu non mềm hơn.
+Result: FAIL (Label: 2)
+Claim 15: * Kẹo đọi thường được cho vào bát nhỏ và dùng thìa múc ăn.
+Result: FAIL (Label: 2)
+Claim 16: * Ông Đinh Vy là người đầu tiên nấu loại kẹo này ở huyện Hương Sơn.
+Result: FAIL (Label: 2)
+Claim 17: * Năm 1953, ông Đinh Vy lấy lạc trộn đều với vỏ chanh rồi đổ vào nồi mật mía nấu thành kẹo.
+Result: FAIL (Label: 2)
+Claim 18: * Kẹo nấu xong được đưa ra chợ quê như Gôi, Phố, Rạp... bán cho dân địa phương.
+Result: FAIL (Label: 2)
+Claim 19: * Giá bán kẹo là hai đồng một bát hoặc miếng to bằng bàn tay người lớn.
+Result: FAIL (Label: 2)
+Claim 20: * Ông Lê Nhật Tân là nguyên Trưởng phòng Văn hóa Thông tin huyện Hương Sơn.
+Result: FAIL (Label: 2)
+Claim 21: * Ông Lê Nhật Tân cho rằng có nghiên cứu khẳng định kẹo cu đơ có nguồn gốc từ địa bàn và ông Đinh Vy là người đầu tiên trong huyện khởi xướng việc nấu kẹo.
+Result: FAIL (Label: 2)
+
+FINAL CLAIM RECALL SCORE: 0.0476 (1/21)

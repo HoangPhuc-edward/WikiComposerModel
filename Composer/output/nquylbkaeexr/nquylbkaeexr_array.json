@@ -1,0 +1,185 @@
+[
+    {
+        "title": "Giới thiệu chung",
+        "type": "leaf",
+        "content": "Lúa là một loại cây lương thực quan trọng, được trồng rộng rãi trên toàn thế giới, đặc biệt là ở các nước châu Á. Tên thường gọi của loại cây này là lúa, còn tên khoa học là Oryza sativa. Lúa có nguồn gốc xuất xứ từ châu Á, nơi nó đã được trồng từ hàng nghìn năm trước. Loại cây này đóng vai trò quan trọng trong kinh tế và xã hội của nhiều quốc gia, đặc biệt là ở Việt Nam, nơi lúa là một phần không thể thiếu trong nền nông nghiệp và văn hóa. Lúa không chỉ cung cấp nguồn lương thực chính cho dân cư mà còn là một mặt hàng xuất khẩu quan trọng, tạo ra thu nhập cho nhiều hộ gia đình và cộng đồng. Với tầm quan trọng kinh tế và xã hội như vậy, việc trồng và chăm sóc lúa đã trở thành một phần quan trọng trong đời sống của nhiều người dân ở Việt Nam và các nước khác.",
+        "source": [
+            1
+        ],
+        "children": []
+    },
+    {
+        "title": "Đặc điểm thực vật",
+        "type": "section",
+        "content": "\nRễ\nRễ lúa là một phần quan trọng của cây lúa, đóng vai trò chính trong việc hấp thụ nước và chất dinh dưỡng từ đất. Hệ rễ của lúa bao gồm hai loại chính: rễ mầm và rễ phụ. Rễ mầm là loại rễ chính, phát triển từ hạt lúa khi nó nảy mầm, trong khi rễ phụ là những rễ nhỏ hơn phát triển từ thân cây lúa. Rễ lúa thường ít bị tổn thương do được bảo vệ bởi lớp đất và nước ở ruộng. Về độ sâu, rễ lúa thường ăn sâu vào đất từ vài cm đến vài chục cm, tùy thuộc vào điều kiện đất và nước. Đặc điểm hình thái của rễ lúa bao gồm việc chúng thường mỏng, nhỏ và có nhiều lông hút, giúp tăng diện tích tiếp xúc với đất và hấp thụ chất dinh dưỡng hiệu quả. Tuy nhiên, do thông tin hạn chế, không thể cung cấp thêm chi tiết về hình thái và chức năng cụ thể của rễ lúa.\n\nThân và Lá\nThân và lá của cây lúa là những bộ phận quan trọng quyết định sự phát triển và năng suất của cây. Chiều cao của cây lúa thường dao động từ 60 đến 120 cm, tùy thuộc vào giống lúa và điều kiện canh tác. Lá lúa có màu xanh, hình dạng dài và hẹp, thường có chiều dài từ 20 đến 50 cm và chiều rộng từ 1 đến 3 cm. Lá mọc cách, nghĩa là chúng không mọc đối xứng với nhau trên thân cây, mà thay vào đó, chúng mọc so le, tạo thành một góc nhất định với thân cây. Điều này giúp lá lúa nhận được ánh sáng mặt trời một cách hiệu quả và tối ưu hóa quá trình quang hợp. Ngoài ra, lá lúa cũng có thể thay đổi màu sắc tùy thuộc vào giai đoạn phát triển của cây, từ màu xanh non khi còn nhỏ đến màu xanh đậm khi cây đã trưởng thành.\n\nHoa và Quả\nCây lúa là một loại cây lương thực quan trọng, và quá trình sinh sản của nó đóng vai trò then chốt trong việc tạo ra hạt lúa. Hoa của cây lúa thường có màu vàng nhạt hoặc trắng, và chúng mọc thành chùm ở ngọn cây. Mỗi bông hoa lúa bao gồm nhiều hoa nhỏ, và chúng sẽ phát triển thành những hạt lúa sau khi thụ phấn.  Quả của cây lúa thực chất là những hạt lúa, và chúng được bao phủ bởi vỏ trấu. Mỗi hạt lúa có chứa một phôi, là phần sẽ phát triển thành cây lúa mới khi được gieo trồng. Thời gian ra hoa và kết quả của cây lúa thường diễn ra sau khoảng 3-4 tháng kể từ khi gieo trồng, tùy thuộc vào điều kiện thời tiết và giống lúa.  Khi cây lúa bắt đầu ra hoa, các bông hoa sẽ bắt đầu thụ phấn và hình thành hạt. Quá trình này thường diễn ra trong khoảng 1-2 tuần, và sau đó các hạt lúa sẽ bắt đầu chín và sẵn sàng cho thu hoạch. Thời gian từ khi gieo trồng đến khi thu hoạch lúa thường kéo dài từ 4-6 tháng, tùy thuộc vào giống lúa và điều kiện trồng trọt.\n",
+        "source": [],
+        "children": [
+            {
+                "title": "Rễ",
+                "type": "leaf",
+                "content": "Rễ lúa là một phần quan trọng của cây lúa, đóng vai trò chính trong việc hấp thụ nước và chất dinh dưỡng từ đất. Hệ rễ của lúa bao gồm hai loại chính: rễ mầm và rễ phụ. Rễ mầm là loại rễ chính, phát triển từ hạt lúa khi nó nảy mầm, trong khi rễ phụ là những rễ nhỏ hơn phát triển từ thân cây lúa. Rễ lúa thường ít bị tổn thương do được bảo vệ bởi lớp đất và nước ở ruộng. Về độ sâu, rễ lúa thường ăn sâu vào đất từ vài cm đến vài chục cm, tùy thuộc vào điều kiện đất và nước. Đặc điểm hình thái của rễ lúa bao gồm việc chúng thường mỏng, nhỏ và có nhiều lông hút, giúp tăng diện tích tiếp xúc với đất và hấp thụ chất dinh dưỡng hiệu quả. Tuy nhiên, do thông tin hạn chế, không thể cung cấp thêm chi tiết về hình thái và chức năng cụ thể của rễ lúa.",
+                "source": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "children": []
+            },
+            {
+                "title": "Thân và Lá",
+                "type": "leaf",
+                "content": "Thân và lá của cây lúa là những bộ phận quan trọng quyết định sự phát triển và năng suất của cây. Chiều cao của cây lúa thường dao động từ 60 đến 120 cm, tùy thuộc vào giống lúa và điều kiện canh tác. Lá lúa có màu xanh, hình dạng dài và hẹp, thường có chiều dài từ 20 đến 50 cm và chiều rộng từ 1 đến 3 cm. Lá mọc cách, nghĩa là chúng không mọc đối xứng với nhau trên thân cây, mà thay vào đó, chúng mọc so le, tạo thành một góc nhất định với thân cây. Điều này giúp lá lúa nhận được ánh sáng mặt trời một cách hiệu quả và tối ưu hóa quá trình quang hợp. Ngoài ra, lá lúa cũng có thể thay đổi màu sắc tùy thuộc vào giai đoạn phát triển của cây, từ màu xanh non khi còn nhỏ đến màu xanh đậm khi cây đã trưởng thành.",
+                "source": [
+                    8,
+                    9,
+                    10,
+                    7
+                ],
+                "children": []
+            },
+            {
+                "title": "Hoa và Quả",
+                "type": "leaf",
+                "content": "Cây lúa là một loại cây lương thực quan trọng, và quá trình sinh sản của nó đóng vai trò then chốt trong việc tạo ra hạt lúa. Hoa của cây lúa thường có màu vàng nhạt hoặc trắng, và chúng mọc thành chùm ở ngọn cây. Mỗi bông hoa lúa bao gồm nhiều hoa nhỏ, và chúng sẽ phát triển thành những hạt lúa sau khi thụ phấn.  Quả của cây lúa thực chất là những hạt lúa, và chúng được bao phủ bởi vỏ trấu. Mỗi hạt lúa có chứa một phôi, là phần sẽ phát triển thành cây lúa mới khi được gieo trồng. Thời gian ra hoa và kết quả của cây lúa thường diễn ra sau khoảng 3-4 tháng kể từ khi gieo trồng, tùy thuộc vào điều kiện thời tiết và giống lúa.  Khi cây lúa bắt đầu ra hoa, các bông hoa sẽ bắt đầu thụ phấn và hình thành hạt. Quá trình này thường diễn ra trong khoảng 1-2 tuần, và sau đó các hạt lúa sẽ bắt đầu chín và sẵn sàng cho thu hoạch. Thời gian từ khi gieo trồng đến khi thu hoạch lúa thường kéo dài từ 4-6 tháng, tùy thuộc vào giống lúa và điều kiện trồng trọt.",
+                "source": [
+                    7,
+                    8,
+                    11,
+                    12,
+                    13
+                ],
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "Yêu cầu sinh thái",
+        "type": "section",
+        "content": "\nKhí hậu\nKhí hậu đóng vai trò quan trọng trong kỹ thuật canh tác, đặc biệt là đối với cây lúa. Nhiệt độ tối ưu cho sự phát triển của cây lúa thường nằm trong khoảng từ 20 đến 30 độ C. Trong giai đoạn sinh trưởng, cây lúa cần một lượng mưa vừa đủ để đảm bảo nguồn nước tưới, tuy nhiên lượng mưa quá lớn có thể gây ngập úng và ảnh hưởng tiêu cực đến sự phát triển của cây. Ánh sáng cũng là yếu tố quan trọng, cây lúa cần khoảng 12 giờ ánh sáng mỗi ngày để thực hiện quá trình quang hợp. Độ ẩm cũng đóng vai trò quan trọng, độ ẩm tương đối từ 60 đến 80% là lý tưởng cho sự phát triển của cây lúa. Tuy nhiên, cần lưu ý rằng các yêu cầu khí hậu cụ thể có thể thay đổi tùy thuộc vào giống lúa và điều kiện cụ thể của từng vùng.\n\nĐất đai\nĐất đai là một yếu tố quan trọng trong kỹ thuật canh tác, đặc biệt là trong việc trồng lúa. Loại đất thích hợp cho trồng lúa thường có pH từ 5,5 đến 6,5, với thành phần cơ giới bao gồm cả đất sét, đất thịt và cát. Đất sét giúp giữ nước và chất dinh dưỡng, trong khi đất thịt và cát giúp cải thiện khả năng thoát nước và cấu trúc đất. Về địa hình, ruộng lúa thường được thiết kế với độ dốc nhỏ để dễ dàng kiểm soát nước và hạn chế xói mòn đất. Ngoài ra, việc lựa chọn đất trồng lúa cũng cần xem xét các yếu tố như khả năng giữ nước, độ phì nhiêu và khả năng chống chịu với các điều kiện thời tiết khắc nghiệt. Tuy nhiên, do thông tin hạn chế, chúng ta không thể đi sâu vào các chi tiết cụ thể hơn về yêu cầu đất đai cho trồng lúa.\n",
+        "source": [],
+        "children": [
+            {
+                "title": "Khí hậu",
+                "type": "leaf",
+                "content": "Khí hậu đóng vai trò quan trọng trong kỹ thuật canh tác, đặc biệt là đối với cây lúa. Nhiệt độ tối ưu cho sự phát triển của cây lúa thường nằm trong khoảng từ 20 đến 30 độ C. Trong giai đoạn sinh trưởng, cây lúa cần một lượng mưa vừa đủ để đảm bảo nguồn nước tưới, tuy nhiên lượng mưa quá lớn có thể gây ngập úng và ảnh hưởng tiêu cực đến sự phát triển của cây. Ánh sáng cũng là yếu tố quan trọng, cây lúa cần khoảng 12 giờ ánh sáng mỗi ngày để thực hiện quá trình quang hợp. Độ ẩm cũng đóng vai trò quan trọng, độ ẩm tương đối từ 60 đến 80% là lý tưởng cho sự phát triển của cây lúa. Tuy nhiên, cần lưu ý rằng các yêu cầu khí hậu cụ thể có thể thay đổi tùy thuộc vào giống lúa và điều kiện cụ thể của từng vùng.",
+                "source": [
+                    14,
+                    15,
+                    16,
+                    17,
+                    18
+                ],
+                "children": []
+            },
+            {
+                "title": "Đất đai",
+                "type": "leaf",
+                "content": "Đất đai là một yếu tố quan trọng trong kỹ thuật canh tác, đặc biệt là trong việc trồng lúa. Loại đất thích hợp cho trồng lúa thường có pH từ 5,5 đến 6,5, với thành phần cơ giới bao gồm cả đất sét, đất thịt và cát. Đất sét giúp giữ nước và chất dinh dưỡng, trong khi đất thịt và cát giúp cải thiện khả năng thoát nước và cấu trúc đất. Về địa hình, ruộng lúa thường được thiết kế với độ dốc nhỏ để dễ dàng kiểm soát nước và hạn chế xói mòn đất. Ngoài ra, việc lựa chọn đất trồng lúa cũng cần xem xét các yếu tố như khả năng giữ nước, độ phì nhiêu và khả năng chống chịu với các điều kiện thời tiết khắc nghiệt. Tuy nhiên, do thông tin hạn chế, chúng ta không thể đi sâu vào các chi tiết cụ thể hơn về yêu cầu đất đai cho trồng lúa.",
+                "source": [
+                    10,
+                    19,
+                    20,
+                    21,
+                    22
+                ],
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "Kỹ thuật canh tác",
+        "type": "section",
+        "content": "\nThời vụ và Giống\nThời vụ và giống là hai yếu tố quan trọng trong kỹ thuật canh tác lúa. Tại Việt Nam, thời vụ trồng lúa thường được chia thành ba vụ chính trong năm: vụ Xuân, vụ Hè Thu và vụ Đông Xuân. Vụ Xuân thường bắt đầu từ tháng 1 đến tháng 3, vụ Hè Thu từ tháng 5 đến tháng 7, và vụ Đông Xuân từ tháng 9 đến tháng 11. Mỗi vụ có những đặc điểm và yêu cầu riêng về giống lúa, kỹ thuật gieo trồng và chăm sóc.  Về giống lúa, hiện nay có nhiều giống phổ biến được trồng ở Việt Nam, mỗi giống có những đặc điểm và ưu điểm riêng. Một số giống lúa phổ biến và năng suất cao bao gồm giống lúa thuần, giống lúa lai và giống lúa cải tiến. Giống lúa thuần như OM4900, OM5451 được ưa chuộng bởi khả năng chống chịu sâu bệnh và điều kiện thời tiết khắc nghiệt. Giống lúa lai như ML48, ML111 có khả năng cho năng suất cao và chất lượng gạo tốt. Giống lúa cải tiến như RVT, DT10 được phát triển để đáp ứng nhu cầu sản xuất lúa gạo chất lượng cao và bền vững.  Việc lựa chọn giống lúa phù hợp với thời vụ và điều kiện sản xuất là rất quan trọng để đạt được năng suất cao và chất lượng tốt. Các nông dân cần xem xét các yếu tố như khả năng chống chịu sâu bệnh, điều kiện thời tiết, và nhu cầu thị trường để chọn giống lúa phù hợp. Đồng thời, việc áp dụng kỹ thuật canh tác hiện đại và quản lý ruộng lúa hiệu quả cũng giúp tăng năng suất và chất lượng lúa.\n\nQuy trình gieo trồng\nQuy trình gieo trồng là một bước quan trọng trong kỹ thuật canh tác, đặc biệt là đối với cây lúa. Để bắt đầu, người nông dân cần chuẩn bị đất bằng cách làm đất để tạo điều kiện thuận lợi cho sự phát triển của cây. Việc làm đất bao gồm các bước như cày, bừa, và san phẳng đất để tạo ra một bề mặt đồng đều. Sau đó, người nông dân sẽ gieo hạt hoặc trồng cây con vào ruộng. Mật độ trồng thường được quyết định dựa trên giống lúa và điều kiện khí hậu, nhưng thông thường, mật độ trồng sẽ khoảng từ 20 đến 30 cây con trên một mét vuông.  Khi gieo hạt, người nông dân cần đảm bảo rằng hạt được gieo ở độ sâu phù hợp, thường là khoảng 1-2 cm, và được phủ một lớp đất mỏng để giữ ẩm và bảo vệ hạt. Đối với phương pháp trồng cây con, người nông dân sẽ chuẩn bị cây con ở ngoài ruộng trước, sau đó mới đem trồng vào ruộng. Cây con được trồng với khoảng cách phù hợp để đảm bảo sự phát triển tốt của cây và hạn chế sự cạnh tranh về nước và dinh dưỡng. Sau khi gieo trồng, người nông dân sẽ duy trì một lớp nước nông trên ruộng để cung cấp nước cho cây và hạn chế sự phát triển của cỏ dại. Việc duy trì nước cũng giúp kiểm soát nhiệt độ và độ ẩm của đất, tạo điều kiện thuận lợi cho sự phát triển của cây lúa.\n\nChăm sóc và Phân bón\nChăm sóc và phân bón là những yếu tố quan trọng trong kỹ thuật canh tác lúa. Để cây lúa phát triển tốt, cần phải đáp ứng nhu cầu dinh dưỡng của chúng. Cây lúa cần các chất dinh dưỡng như nitơ, phốt pho, kali, cũng như các nguyên tố vi lượng khác. Chế độ tưới tiêu cũng đóng vai trò quan trọng, vì cây lúa cần nước để phát triển, nhưng cũng cần phải hạn chế cỏ dại và tránh ngập úng.  Quy trình bón phân cho cây lúa thường bao gồm several giai đoạn. Đầu tiên, cần phải bón phân lân và phân đạm khi chuẩn bị đất, để cung cấp chất dinh dưỡng cho cây lúa trong giai đoạn đầu. Khi cây lúa đã cấy, cần phải bón phân đạm và phân kali để thúc đẩy sự phát triển của cây. Ngoài ra, cũng cần phải bón phân vi lượng để cung cấp các nguyên tố vi lượng cần thiết cho cây lúa.  Ngâm ủ hạt giống cũng là một bước quan trọng trong quy trình chăm sóc cây lúa. Ngâm ủ hạt giống giúp kích hoạt quá trình nảy mầm, và giúp cây lúa phát triển mạnh mẽ hơn. Sau khi ngâm ủ, cần phải chăm sóc cây lúa cẩn thận, bao gồm việc cung cấp nước, bón phân, và kiểm soát cỏ dại.  Tùy thuộc vào điều kiện thời tiết và chất lượng đất, cần phải điều chỉnh chế độ tưới tiêu và bón phân cho phù hợp. Ví dụ, trong điều kiện thời tiết khô hạn, cần phải tưới nước thường xuyên hơn để đảm bảo cây lúa nhận đủ nước. Trong điều kiện đất贫 dinh dưỡng, cần phải bón phân nhiều hơn để cung cấp đủ chất dinh dưỡng cho cây lúa.\n",
+        "source": [],
+        "children": [
+            {
+                "title": "Thời vụ và Giống",
+                "type": "leaf",
+                "content": "Thời vụ và giống là hai yếu tố quan trọng trong kỹ thuật canh tác lúa. Tại Việt Nam, thời vụ trồng lúa thường được chia thành ba vụ chính trong năm: vụ Xuân, vụ Hè Thu và vụ Đông Xuân. Vụ Xuân thường bắt đầu từ tháng 1 đến tháng 3, vụ Hè Thu từ tháng 5 đến tháng 7, và vụ Đông Xuân từ tháng 9 đến tháng 11. Mỗi vụ có những đặc điểm và yêu cầu riêng về giống lúa, kỹ thuật gieo trồng và chăm sóc.  Về giống lúa, hiện nay có nhiều giống phổ biến được trồng ở Việt Nam, mỗi giống có những đặc điểm và ưu điểm riêng. Một số giống lúa phổ biến và năng suất cao bao gồm giống lúa thuần, giống lúa lai và giống lúa cải tiến. Giống lúa thuần như OM4900, OM5451 được ưa chuộng bởi khả năng chống chịu sâu bệnh và điều kiện thời tiết khắc nghiệt. Giống lúa lai như ML48, ML111 có khả năng cho năng suất cao và chất lượng gạo tốt. Giống lúa cải tiến như RVT, DT10 được phát triển để đáp ứng nhu cầu sản xuất lúa gạo chất lượng cao và bền vững.  Việc lựa chọn giống lúa phù hợp với thời vụ và điều kiện sản xuất là rất quan trọng để đạt được năng suất cao và chất lượng tốt. Các nông dân cần xem xét các yếu tố như khả năng chống chịu sâu bệnh, điều kiện thời tiết, và nhu cầu thị trường để chọn giống lúa phù hợp. Đồng thời, việc áp dụng kỹ thuật canh tác hiện đại và quản lý ruộng lúa hiệu quả cũng giúp tăng năng suất và chất lượng lúa.",
+                "source": [
+                    17,
+                    21,
+                    23,
+                    24,
+                    25
+                ],
+                "children": []
+            },
+            {
+                "title": "Quy trình gieo trồng",
+                "type": "leaf",
+                "content": "Quy trình gieo trồng là một bước quan trọng trong kỹ thuật canh tác, đặc biệt là đối với cây lúa. Để bắt đầu, người nông dân cần chuẩn bị đất bằng cách làm đất để tạo điều kiện thuận lợi cho sự phát triển của cây. Việc làm đất bao gồm các bước như cày, bừa, và san phẳng đất để tạo ra một bề mặt đồng đều. Sau đó, người nông dân sẽ gieo hạt hoặc trồng cây con vào ruộng. Mật độ trồng thường được quyết định dựa trên giống lúa và điều kiện khí hậu, nhưng thông thường, mật độ trồng sẽ khoảng từ 20 đến 30 cây con trên một mét vuông.  Khi gieo hạt, người nông dân cần đảm bảo rằng hạt được gieo ở độ sâu phù hợp, thường là khoảng 1-2 cm, và được phủ một lớp đất mỏng để giữ ẩm và bảo vệ hạt. Đối với phương pháp trồng cây con, người nông dân sẽ chuẩn bị cây con ở ngoài ruộng trước, sau đó mới đem trồng vào ruộng. Cây con được trồng với khoảng cách phù hợp để đảm bảo sự phát triển tốt của cây và hạn chế sự cạnh tranh về nước và dinh dưỡng. Sau khi gieo trồng, người nông dân sẽ duy trì một lớp nước nông trên ruộng để cung cấp nước cho cây và hạn chế sự phát triển của cỏ dại. Việc duy trì nước cũng giúp kiểm soát nhiệt độ và độ ẩm của đất, tạo điều kiện thuận lợi cho sự phát triển của cây lúa.",
+                "source": [
+                    1,
+                    23,
+                    26,
+                    27,
+                    28
+                ],
+                "children": []
+            },
+            {
+                "title": "Chăm sóc và Phân bón",
+                "type": "leaf",
+                "content": "Chăm sóc và phân bón là những yếu tố quan trọng trong kỹ thuật canh tác lúa. Để cây lúa phát triển tốt, cần phải đáp ứng nhu cầu dinh dưỡng của chúng. Cây lúa cần các chất dinh dưỡng như nitơ, phốt pho, kali, cũng như các nguyên tố vi lượng khác. Chế độ tưới tiêu cũng đóng vai trò quan trọng, vì cây lúa cần nước để phát triển, nhưng cũng cần phải hạn chế cỏ dại và tránh ngập úng.  Quy trình bón phân cho cây lúa thường bao gồm several giai đoạn. Đầu tiên, cần phải bón phân lân và phân đạm khi chuẩn bị đất, để cung cấp chất dinh dưỡng cho cây lúa trong giai đoạn đầu. Khi cây lúa đã cấy, cần phải bón phân đạm và phân kali để thúc đẩy sự phát triển của cây. Ngoài ra, cũng cần phải bón phân vi lượng để cung cấp các nguyên tố vi lượng cần thiết cho cây lúa.  Ngâm ủ hạt giống cũng là một bước quan trọng trong quy trình chăm sóc cây lúa. Ngâm ủ hạt giống giúp kích hoạt quá trình nảy mầm, và giúp cây lúa phát triển mạnh mẽ hơn. Sau khi ngâm ủ, cần phải chăm sóc cây lúa cẩn thận, bao gồm việc cung cấp nước, bón phân, và kiểm soát cỏ dại.  Tùy thuộc vào điều kiện thời tiết và chất lượng đất, cần phải điều chỉnh chế độ tưới tiêu và bón phân cho phù hợp. Ví dụ, trong điều kiện thời tiết khô hạn, cần phải tưới nước thường xuyên hơn để đảm bảo cây lúa nhận đủ nước. Trong điều kiện đất贫 dinh dưỡng, cần phải bón phân nhiều hơn để cung cấp đủ chất dinh dưỡng cho cây lúa.",
+                "source": [
+                    12,
+                    13,
+                    29,
+                    30,
+                    31
+                ],
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "Sâu bệnh hại chính",
+        "type": "section",
+        "content": "\nSâu hại\nSâu hại là một trong những yếu tố quan trọng ảnh hưởng đến năng suất và chất lượng lúa. Trên ruộng lúa nước, một số loại sâu hại phổ biến bao gồm sâu phao và châu chấu. Sâu phao chỉ gây hại trên ruộng lúa nước, không ảnh hưởng đến lúa cạn, trong khi châu chấu phá hại quanh năm và thường gây hại nặng trên lúa chiêm xuân cuối vụ, mạ mùa và lúa mùa sớm.  Triệu chứng của sâu phao thường là sự xuất hiện của các lỗ thủng trên lá lúa, làm giảm khả năng quang hợp và ảnh hưởng đến sự phát triển của cây. Đối với châu chấu, triệu chứng có thể bao gồm việc cây lúa bị cắn phá, làm giảm năng suất và chất lượng lúa.  Biện pháp phòng trừ sâu hại trên ruộng lúa nước có thể bao gồm cả phương pháp sinh học và hóa học. Đối với sâu phao, có thể sử dụng các biện pháp sinh học như sử dụng thiên địch, chẳng hạn như các loài cá ăn sâu, hoặc sử dụng các chế phẩm sinh học như vi khuẩn và nấm. Đối với châu chấu, có thể sử dụng các biện pháp hóa học như sử dụng thuốc trừ sâu, tuy nhiên cần phải tuân thủ các quy định về an toàn và bảo vệ môi trường.  Tùy thuộc vào mức độ nghiêm trọng của sâu hại và điều kiện cụ thể của ruộng lúa, nông dân có thể lựa chọn biện pháp phòng trừ phù hợp. Tuy nhiên, cần phải lưu ý rằng việc sử dụng thuốc trừ sâu hóa học cần phải được thực hiện một cách cẩn thận và có trách nhiệm để tránh ảnh hưởng đến môi trường và sức khỏe con người.\n\nBệnh hại\nBệnh hại là một trong những yếu tố quan trọng ảnh hưởng đến năng suất và chất lượng lúa. Các bệnh thường gặp trên lúa bao gồm bệnh do nấm, virus và vi khuẩn. Bệnh do nấm như bệnh đạo ôn, bệnh khô vằn, bệnh thối rễ thường xuất hiện khi điều kiện thời tiết ẩm ướt và nhiệt độ cao. Những bệnh này có thể gây ra bởi các loài nấm như Pyricularia oryzae, Rhizoctonia solani và Fusarium spp.   Bệnh do virus như bệnh lùn lúa, bệnh vàng lúa cũng là những bệnh hại nghiêm trọng trên lúa. Những bệnh này thường được truyền qua bởi các loài côn trùng như rệp, nhện và bọ nhảy. Bệnh do vi khuẩn như bệnh cháy lá lúa, bệnh thối thân lúa cũng có thể gây ra bởi các loài vi khuẩn như Xanthomonas oryzae và Pseudomonas spp.  Để kiểm soát và phòng ngừa các bệnh hại trên lúa, người trồng cần thực hiện các biện pháp như sử dụng giống lúa kháng bệnh, luân canh cây trồng, vệ sinh đồng ruộng, sử dụng thuốc bảo vệ thực vật và quản lý nước tưới hợp lý. Ngoài ra, việc theo dõi và phát hiện sớm các dấu hiệu bệnh cũng giúp người trồng có thể xử lý kịp thời và hiệu quả.\n",
+        "source": [],
+        "children": [
+            {
+                "title": "Sâu hại",
+                "type": "leaf",
+                "content": "Sâu hại là một trong những yếu tố quan trọng ảnh hưởng đến năng suất và chất lượng lúa. Trên ruộng lúa nước, một số loại sâu hại phổ biến bao gồm sâu phao và châu chấu. Sâu phao chỉ gây hại trên ruộng lúa nước, không ảnh hưởng đến lúa cạn, trong khi châu chấu phá hại quanh năm và thường gây hại nặng trên lúa chiêm xuân cuối vụ, mạ mùa và lúa mùa sớm.  Triệu chứng của sâu phao thường là sự xuất hiện của các lỗ thủng trên lá lúa, làm giảm khả năng quang hợp và ảnh hưởng đến sự phát triển của cây. Đối với châu chấu, triệu chứng có thể bao gồm việc cây lúa bị cắn phá, làm giảm năng suất và chất lượng lúa.  Biện pháp phòng trừ sâu hại trên ruộng lúa nước có thể bao gồm cả phương pháp sinh học và hóa học. Đối với sâu phao, có thể sử dụng các biện pháp sinh học như sử dụng thiên địch, chẳng hạn như các loài cá ăn sâu, hoặc sử dụng các chế phẩm sinh học như vi khuẩn và nấm. Đối với châu chấu, có thể sử dụng các biện pháp hóa học như sử dụng thuốc trừ sâu, tuy nhiên cần phải tuân thủ các quy định về an toàn và bảo vệ môi trường.  Tùy thuộc vào mức độ nghiêm trọng của sâu hại và điều kiện cụ thể của ruộng lúa, nông dân có thể lựa chọn biện pháp phòng trừ phù hợp. Tuy nhiên, cần phải lưu ý rằng việc sử dụng thuốc trừ sâu hóa học cần phải được thực hiện một cách cẩn thận và có trách nhiệm để tránh ảnh hưởng đến môi trường và sức khỏe con người.",
+                "source": [
+                    32,
+                    33,
+                    34,
+                    35,
+                    16
+                ],
+                "children": []
+            },
+            {
+                "title": "Bệnh hại",
+                "type": "leaf",
+                "content": "Bệnh hại là một trong những yếu tố quan trọng ảnh hưởng đến năng suất và chất lượng lúa. Các bệnh thường gặp trên lúa bao gồm bệnh do nấm, virus và vi khuẩn. Bệnh do nấm như bệnh đạo ôn, bệnh khô vằn, bệnh thối rễ thường xuất hiện khi điều kiện thời tiết ẩm ướt và nhiệt độ cao. Những bệnh này có thể gây ra bởi các loài nấm như Pyricularia oryzae, Rhizoctonia solani và Fusarium spp.   Bệnh do virus như bệnh lùn lúa, bệnh vàng lúa cũng là những bệnh hại nghiêm trọng trên lúa. Những bệnh này thường được truyền qua bởi các loài côn trùng như rệp, nhện và bọ nhảy. Bệnh do vi khuẩn như bệnh cháy lá lúa, bệnh thối thân lúa cũng có thể gây ra bởi các loài vi khuẩn như Xanthomonas oryzae và Pseudomonas spp.  Để kiểm soát và phòng ngừa các bệnh hại trên lúa, người trồng cần thực hiện các biện pháp như sử dụng giống lúa kháng bệnh, luân canh cây trồng, vệ sinh đồng ruộng, sử dụng thuốc bảo vệ thực vật và quản lý nước tưới hợp lý. Ngoài ra, việc theo dõi và phát hiện sớm các dấu hiệu bệnh cũng giúp người trồng có thể xử lý kịp thời và hiệu quả.",
+                "source": [
+                    33,
+                    36,
+                    37,
+                    38,
+                    16
+                ],
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "Thu hoạch và Bảo quản",
+        "type": "leaf",
+        "content": "Thu hoạch và bảo quản là những bước quan trọng trong quy trình sản xuất lúa gạo, quyết định chất lượng và giá trị của sản phẩm cuối cùng. Thời điểm thu hoạch lúa thường được xác định khi hạt lúa đã chín hoàn toàn, thường là khoảng 30-40 ngày sau khi trổ bông. Dấu hiệu nhận biết thời điểm thu hoạch bao gồm màu vàng của hạt lúa, độ cứng và độ khô của hạt.  Khi thu hoạch, có thể sử dụng máy gặt hoặc thu hoạch bằng tay, tùy thuộc vào điều kiện và quy mô sản xuất. Thu hoạch bằng máy gặt giúp tăng năng suất và giảm lao động, nhưng cần đảm bảo rằng máy gặt được điều chỉnh đúng cách để tránh làm hỏng hạt lúa. Thu hoạch bằng tay cho phép kiểm soát chất lượng tốt hơn, nhưng đòi hỏi nhiều lao động hơn.  Sau khi thu hoạch, lúa cần được phơi khô để giảm độ ẩm và đảm bảo chất lượng gạo trong thời gian bảo quản dài hạn. Quá trình phơi khô có thể được thực hiện bằng cách trải lúa trên các tấm bạt hoặc sàn phơi, hoặc sử dụng máy sấy lúa. Độ ẩm của lúa nên được giảm xuống dưới 15% để ngăn chặn sự phát triển của nấm và vi khuẩn.  Khi bảo quản lúa, cần lưu ý đến các yếu tố như nhiệt độ, độ ẩm và ánh sáng. Lúa nên được bảo quản trong các kho khô thoáng, tránh ánh sáng trực tiếp và độ ẩm cao. Ngoài ra, cần kiểm tra thường xuyên để phát hiện và loại bỏ các hạt lúa bị hư hỏng hoặc nhiễm bệnh. Sử dụng thuốc bảo vệ thực vật cũng cần được cân nhắc kỹ lưỡng để tránh ảnh hưởng đến chất lượng và an toàn của sản phẩm.",
+        "source": [
+            39,
+            8,
+            40,
+            7,
+            15
+        ],
+        "children": []
+    }
+]

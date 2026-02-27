@@ -1,0 +1,16 @@
+--- BÀI VIẾT CỦA AI (SESSION: article_jwlk_9) ---
+# Bánh GiòBánh giò là một loại bánh truyền thống được làm từ bột gạo tẻ, bột năng và nhân thịt nạc, được gói bằng lá chuối và hấp.
+
+Giới thiệu
+Bánh giò là một loại bánh truyền thống của Việt Nam, được làm từ bột gạo, bột bắp, bột năng và các nguyên liệu khác. Để làm bánh giò, người ta thường chuẩn bị phần vỏ bánh bằng cách trộn đều các loại bột với muối và nước lọc, sau đó để bột nghỉ khoảng 3 tiếng để có vị hơi chua chua. Phần nhân bánh được làm từ thịt heo xay, nấm hương, mộc nhĩ, hành tím và các gia vị khác, tất cả được xào thơm và trộn đều. Bánh giò thường được gói trong lá chuối và hấp chín, tạo nên một món ăn thơm ngon và hấp dẫn. Với sự kết hợp của các nguyên liệu và công đoạn chế biến đặc biệt, bánh giò đã trở thành một món ăn truyền thống được yêu thích tại Việt Nam.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://daotaobeptruong.vn/cach-lam-banh-gio ({'doc_name': 'article_jwlk_9', 'source_id': 1, 'chunk_index': 1, 'source_type': 'web'})
+[2] https://daotaobeptruong.vn/cach-lam-banh-gio ({'chunk_index': 3, 'source_id': 1, 'doc_name': 'article_jwlk_9', 'source_type': 'web'})
+[3] https://daotaobeptruong.vn/cach-lam-banh-gio ({'doc_name': 'article_jwlk_9', 'source_type': 'web', 'chunk_index': 2, 'source_id': 1})
+[4] https://daotaobeptruong.vn/cach-lam-banh-gio ({'chunk_index': 6, 'doc_name': 'article_jwlk_9', 'source_id': 1, 'source_type': 'web'})
+[5] https://daotaobeptruong.vn/cach-lam-banh-gio ({'doc_name': 'article_jwlk_9', 'source_type': 'web', 'source_id': 1, 'chunk_index': 4})
+
+--- KẾT QUẢ ĐÁNH GIÁ SẼ ĐƯỢC CẬP NHẬT DƯỚI ĐÂY ---
+Recall: 100.0 | Precision: 100.0 | Correctness: 0.35714285714285715
