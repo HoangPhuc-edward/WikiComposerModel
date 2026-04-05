@@ -1,0 +1,26 @@
+--- BÀI VIẾT CỦA AI (SESSION: article_test_13) ---
+# Bánh PhồngBánh phồng là các loại bánh được làm từ bột ngũ cốc kết hợp gia vị, phụ gia, sau đó được chiên phồng trong mỡ nước hay dầu ăn.
+
+Giới thiệu
+Bánh phồng là một loại bánh truyền thống của Việt Nam, được làm từ bột nếp hoặc bột mì và thường được phục vụ trong các dịp lễ Tết. Tại Việt Nam, bánh phồng được sản xuất và tiêu thụ rộng rãi, đặc biệt là tại các làng nghề truyền thống như Sơn Đốc và Mỹ Lồng. Người dân tại đây đã sáng tạo và cải tiến ra nhiều loại bánh phồng mới, như bánh phồng nếp sữa, bánh phồng mì tráng chuối, tạo ra nhiều vị đặc trưng riêng cho bánh phồng. Với sự phát triển của công nghệ, quá trình sản xuất bánh phồng đã trở nên dễ dàng hơn, giúp tăng sản lượng và đáp ứng nhu cầu của thị trường. Hiện nay, bánh phồng không chỉ được làm vào dịp Tết mà còn được sản xuất và tiêu thụ quanh năm, trở thành một phần quan trọng của ẩm thực Việt Nam.
+
+Phân loại
+Phân loại bánh phồng tại Việt Nam khá đa dạng, với nhiều loại bánh khác nhau được sản xuất và tiêu thụ rộng rãi. Bánh phồng mì là một trong những loại bánh phổ biến, được làm từ bột mì và thường có vị ngọt nhẹ. Ngoài ra, bánh phồng nếp cũng là một loại bánh truyền thống, được làm từ bột nếp và có vị dẻo, thơm đặc trưng. Một số loại bánh phồng khác như bánh phồng tôm, bánh phồng vẽ cũng được sản xuất và bán trên thị trường, tuy nhiên thông tin về các loại bánh này còn hạn chế. Tại làng nghề Sơn Đốc, người dân đã sáng tạo và cải tiến ra nhiều loại bánh mới như bánh phồng nếp sữa, bánh phồng mì tráng chuối, tạo ra nhiều vị đặc trưng riêng cho bánh phồng ở đây.
+
+Sử dụng
+Sử dụng bánh phồng là một phần quan trọng trong văn hóa ẩm thực của người dân xứ Dừa. Để sử dụng bánh phồng, trước tiên cần chiên phồng bánh trong dầu nóng cho đến khi bánh nở và giòn. Sau đó, bánh phồng có thể được sử dụng như một món ăn khai vị hoặc món nhắm rượu. Bánh phồng thường được ăn kèm với các loại nước chấm hoặc salsa để tăng thêm hương vị. Ngoài ra, bánh phồng cũng có thể được sử dụng như một thành phần trong các món ăn khác, chẳng hạn như salad hoặc món xào. Tuy nhiên, cách sử dụng bánh phồng cụ thể có thể thay đổi tùy thuộc vào sở thích và truyền thống của từng gia đình hoặc vùng miền.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://dantri.com.vn/viec-lam/my-long-son-doc-vao-mua-trang-banh-ngay-dem-20180123074737852.htm ({'source_id': 2, 'chunk_index': 5, 'doc_name': 'article_test_13', 'source_type': 'web'})
+[2] https://dantri.com.vn/viec-lam/my-long-son-doc-vao-mua-trang-banh-ngay-dem-20180123074737852.htm ({'doc_name': 'article_test_13', 'chunk_index': 6, 'source_id': 2, 'source_type': 'web'})
+[3] https://dantri.com.vn/viec-lam/my-long-son-doc-vao-mua-trang-banh-ngay-dem-20180123074737852.htm ({'chunk_index': 7, 'doc_name': 'article_test_13', 'source_id': 2, 'source_type': 'web'})
+[4] https://dantri.com.vn/viec-lam/my-long-son-doc-vao-mua-trang-banh-ngay-dem-20180123074737852.htm ({'source_id': 2, 'chunk_index': 3, 'doc_name': 'article_test_13', 'source_type': 'web'})
+[5] https://dantri.com.vn/viec-lam/my-long-son-doc-vao-mua-trang-banh-ngay-dem-20180123074737852.htm ({'source_type': 'web', 'doc_name': 'article_test_13', 'source_id': 2, 'chunk_index': 1})
+[6] https://dantri.com.vn/viec-lam/my-long-son-doc-vao-mua-trang-banh-ngay-dem-20180123074737852.htm ({'source_id': 2, 'chunk_index': 0, 'doc_name': 'article_test_13', 'source_type': 'web'})
+[7] https://dantri.com.vn/viec-lam/my-long-son-doc-vao-mua-trang-banh-ngay-dem-20180123074737852.htm ({'source_type': 'web', 'chunk_index': 4, 'source_id': 2, 'doc_name': 'article_test_13'})
+[8] https://dantri.com.vn/du-lich/khach-tay-me-man-am-thuc-xu-dua-1429324679.htm ({'chunk_index': 2, 'source_type': 'web', 'doc_name': 'article_test_13', 'source_id': 1})
+[9] https://dantri.com.vn/du-lich/khach-tay-me-man-am-thuc-xu-dua-1429324679.htm ({'source_type': 'web', 'doc_name': 'article_test_13', 'chunk_index': 3, 'source_id': 1})
+
+--- KẾT QUẢ ĐÁNH GIÁ SẼ ĐƯỢC CẬP NHẬT DƯỚI ĐÂY ---
+Recall: 100.0 | Precision: 100.0 | Correctness: 0.6875

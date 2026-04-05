@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "http://giadinh.net.vn/du-lich/ghe-dinh-bang-nem-banh-phu-the-20120408103046357.htm",
+        "locator": {
+            "doc_name": "article_test_16",
+            "source_type": "web",
+            "chunk_index": 0,
+            "source_id": 1
+        }
+    },
+    {
+        "id": 2,
+        "name": "source/data8.txt",
+        "locator": {
+            "doc_name": "article_test_16",
+            "chunk_index": 1,
+            "source_type": "txt",
+            "source_id": 2
+        }
+    },
+    {
+        "id": 3,
+        "name": "source/data8.txt",
+        "locator": {
+            "doc_name": "article_test_16",
+            "chunk_index": 0,
+            "source_id": 2,
+            "source_type": "txt"
+        }
+    },
+    {
+        "id": 4,
+        "name": "http://giadinh.net.vn/du-lich/ghe-dinh-bang-nem-banh-phu-the-20120408103046357.htm",
+        "locator": {
+            "chunk_index": 3,
+            "source_type": "web",
+            "source_id": 1,
+            "doc_name": "article_test_16"
+        }
+    },
+    {
+        "id": 5,
+        "name": "source/data8.txt",
+        "locator": {
+            "chunk_index": 2,
+            "doc_name": "article_test_16",
+            "source_type": "txt",
+            "source_id": 2
+        }
+    }
+]

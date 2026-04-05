@@ -1,0 +1,54 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+Total Claims: 15
+
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Bánh giò là một loại bánh được làm bằng bột gạo tẻ.
+3. * Bánh giò được làm bằng bột năng hòa với nước xương hầm.
+4. * Nhân bánh giò làm từ thịt nạc vai.
+5. * Nhân bánh giò có kèm mộc nhĩ.
+6. * Nhân bánh giò có hành tím khô.
+7. * Nhân bánh giò có hành ta.
+8. * Nhân bánh giò có hạt tiêu.
+9. * Nhân bánh giò có nước mắm.
+10. * Nhân bánh giò có muối.
+11. * Ở Miền Nam, nhân bánh giò có thêm trứng cút.
+12. * Bánh giò có hình dài nhô cao như hình bàn tay úp khum khum.
+13. * Bánh giò có các ngón tay sát nhau.
+14. * Bánh giò được gói bằng lá chuối.
+15. * Bánh giò được hấp bằng chõ từ 30 đến 40 phút.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Bánh giò là một loại bánh được làm bằng bột gạo tẻ.
+Result: PASS (Label: 1)
+Claim 3: * Bánh giò được làm bằng bột năng hòa với nước xương hầm.
+Result: PASS (Label: 1)
+Claim 4: * Nhân bánh giò làm từ thịt nạc vai.
+Result: PASS (Label: 1)
+Claim 5: * Nhân bánh giò có kèm mộc nhĩ.
+Result: PASS (Label: 1)
+Claim 6: * Nhân bánh giò có hành tím khô.
+Result: PASS (Label: 1)
+Claim 7: * Nhân bánh giò có hành ta.
+Result: PASS (Label: 1)
+Claim 8: * Nhân bánh giò có hạt tiêu.
+Result: PASS (Label: 1)
+Claim 9: * Nhân bánh giò có nước mắm.
+Result: PASS (Label: 1)
+Claim 10: * Nhân bánh giò có muối.
+Result: PASS (Label: 1)
+Claim 11: * Ở Miền Nam, nhân bánh giò có thêm trứng cút.
+Result: PASS (Label: 1)
+Claim 12: * Bánh giò có hình dài nhô cao như hình bàn tay úp khum khum.
+Result: PASS (Label: 1)
+Claim 13: * Bánh giò có các ngón tay sát nhau.
+Result: PASS (Label: 1)
+Claim 14: * Bánh giò được gói bằng lá chuối.
+Result: PASS (Label: 1)
+Claim 15: * Bánh giò được hấp bằng chõ từ 30 đến 40 phút.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 1.0000 (15/15)

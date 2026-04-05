@@ -1,0 +1,12 @@
+# Bánh ít trầnMón quà vặt của người dân miền Trung Việt Nam, bánh ít trần có nhân đậu xanh kết hợp với thịt lợn và các nguyên liệu khác.
+
+Giới thiệu
+Bánh ít trần là một món quà vặt ngon miệng và giản dị của người dân miền Trung, với đặc điểm là lớp vỏ bánh làm từ bột nếp dẻo dai bao bọc nhân đậu xanh kết hợp với thịt lợn, mộc nhĩ và hạt tiêu. Món bánh này có đôi phần giống như bánh nếp nhân tôm thịt của người miền Bắc, nhưng với cách chế biến và nguyên liệu đặc trưng riêng. Bánh ít trần thường được thưởng thức vào những ngày mưa rơi, khi thời tiết trở nên mát mẻ và ẩm ướt, tạo nên một cảm giác ấm áp và thoải mái khi nhâm nhi chiếc bánh ít trần. Với vị ngọt đậm đà của tôm thịt hòa quyện với cái dẻo ngon của bột nếp trong từng miếng bánh, tạo nên vị ngon khó chối từ, bánh ít trần đã trở thành một món bánh yêu thích của nhiều người.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://daylambanh.edu.vn/banh-it-tran ({'source_type': 'web', 'source_id': 1, 'chunk_index': 0, 'doc_name': 'article_test_12'})
+[2] https://daylambanh.edu.vn/banh-it-tran ({'doc_name': 'article_test_12', 'chunk_index': 1, 'source_type': 'web', 'source_id': 1})
+[3] https://daylambanh.edu.vn/banh-it-tran ({'chunk_index': 5, 'source_type': 'web', 'doc_name': 'article_test_12', 'source_id': 1})
+[4] https://daylambanh.edu.vn/banh-it-tran ({'source_id': 1, 'chunk_index': 2, 'source_type': 'web', 'doc_name': 'article_test_12'})
+[5] https://daylambanh.edu.vn/banh-it-tran ({'chunk_index': 4, 'source_id': 1, 'source_type': 'web', 'doc_name': 'article_test_12'})

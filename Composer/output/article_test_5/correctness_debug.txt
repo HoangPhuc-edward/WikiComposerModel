@@ -1,0 +1,81 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+Total Claims: 24
+
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Chả chìa là một món ăn làm bằng sườn lợn chặt khúc ngắn.
+3. * Chả chìa thực ra là phần thịt ba chỉ của lợn rang cháy cạnh kết hợp nêm gia vị.
+4. * Nguyên liệu chính làm chả chìa là thịt lợn.
+5. * Chả chìa cũng là tên gọi một món đặc sản của Hải Phòng và Hội An.
+6. * Sườn hoặc thịt ba chỉ được chặt khúc và kéo phần thịt lên phía trên để lòi phần xương làm tay cầm.
+7. * Sườn được ướp với tỏi, hành, nước mắm, ít đường để cho gia vị ngấm.
+8. * Món chả chìa ăn cùng cà chua, xà lách hoặc củ kiệu muối chua.
+9. * Chả chìa có thể dùng làm món ăn chơi, nhậu hoặc ăn với cơm.
+10. * Thịt ba chỉ phải được chọn những miếng thịt loại ngon, thịt có màu hồng tươi và phần nạc phải nhiều hơn phần mỡ.
+11. * Chả chìa có thể làm bằng thịt mông, thịt vai, sườn heo.
+12. * Thịt phải được rửa sạch và nên bỏ bì (da) sau đó thái mỏng.
+13. * Chả chìa Hạ Lũng là một món ăn chả chìa đặc sản có xuất xứ từ thành phố Hải Phòng.
+14. * Chả chìa Hạ Lũng được làm từ thịt lợn nạc, mực khô và mía.
+15. * Mực khô phải chọn những con vừa phải, mình dày, cắt nhỏ, trộn sao cho dẻo quánh với thịt xay.
+16. * Mía mua từng cây, gióng đều, đem về dóc sạch vỏ và chẻ thành dẻ.
+17. * Chả chìa Hạ Lũng được hấp trong nồi hấp.
+18. * Chả chìa Hạ Lũng được ăn chơi, ăn kèm với rau sống, dùng làm mồi nhậu hay ăn trong bữa cơm.
+19. * Chả chìa Hội An là món ăn được ưa chuộng trong các bữa tiệc liên hoan, hội hè, đình đám của người dân.
+20. * Chả chìa Hội An được làm từ nguyên liệu chính là thịt heo nạc.
+21. * Thịt heo nạc phải được lấy từ heo vừa mới mổ, thịt còn nóng hổi.
+22. * Mực khô được chọn từ loại mực một nắng tại đảo Cù Lao Chàm.
+23. * Công đoạn giã thịt và mực phải làm bằng tay, không thể thay thế bằng máy xay thịt.
+24. * Chả chìa Hội An được hấp trước khi rán vàng.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Chả chìa là một món ăn làm bằng sườn lợn chặt khúc ngắn.
+Result: PASS (Label: 1)
+Claim 3: * Chả chìa thực ra là phần thịt ba chỉ của lợn rang cháy cạnh kết hợp nêm gia vị.
+Result: PASS (Label: 1)
+Claim 4: * Nguyên liệu chính làm chả chìa là thịt lợn.
+Result: PASS (Label: 1)
+Claim 5: * Chả chìa cũng là tên gọi một món đặc sản của Hải Phòng và Hội An.
+Result: PASS (Label: 1)
+Claim 6: * Sườn hoặc thịt ba chỉ được chặt khúc và kéo phần thịt lên phía trên để lòi phần xương làm tay cầm.
+Result: PASS (Label: 1)
+Claim 7: * Sườn được ướp với tỏi, hành, nước mắm, ít đường để cho gia vị ngấm.
+Result: PASS (Label: 1)
+Claim 8: * Món chả chìa ăn cùng cà chua, xà lách hoặc củ kiệu muối chua.
+Result: PASS (Label: 1)
+Claim 9: * Chả chìa có thể dùng làm món ăn chơi, nhậu hoặc ăn với cơm.
+Result: PASS (Label: 1)
+Claim 10: * Thịt ba chỉ phải được chọn những miếng thịt loại ngon, thịt có màu hồng tươi và phần nạc phải nhiều hơn phần mỡ.
+Result: PASS (Label: 1)
+Claim 11: * Chả chìa có thể làm bằng thịt mông, thịt vai, sườn heo.
+Result: PASS (Label: 1)
+Claim 12: * Thịt phải được rửa sạch và nên bỏ bì (da) sau đó thái mỏng.
+Result: PASS (Label: 1)
+Claim 13: * Chả chìa Hạ Lũng là một món ăn chả chìa đặc sản có xuất xứ từ thành phố Hải Phòng.
+Result: PASS (Label: 1)
+Claim 14: * Chả chìa Hạ Lũng được làm từ thịt lợn nạc, mực khô và mía.
+Result: PASS (Label: 1)
+Claim 15: * Mực khô phải chọn những con vừa phải, mình dày, cắt nhỏ, trộn sao cho dẻo quánh với thịt xay.
+Result: PASS (Label: 1)
+Claim 16: * Mía mua từng cây, gióng đều, đem về dóc sạch vỏ và chẻ thành dẻ.
+Result: PASS (Label: 1)
+Claim 17: * Chả chìa Hạ Lũng được hấp trong nồi hấp.
+Result: PASS (Label: 1)
+Claim 18: * Chả chìa Hạ Lũng được ăn chơi, ăn kèm với rau sống, dùng làm mồi nhậu hay ăn trong bữa cơm.
+Result: PASS (Label: 1)
+Claim 19: * Chả chìa Hội An là món ăn được ưa chuộng trong các bữa tiệc liên hoan, hội hè, đình đám của người dân.
+Result: PASS (Label: 1)
+Claim 20: * Chả chìa Hội An được làm từ nguyên liệu chính là thịt heo nạc.
+Result: PASS (Label: 1)
+Claim 21: * Thịt heo nạc phải được lấy từ heo vừa mới mổ, thịt còn nóng hổi.
+Result: PASS (Label: 1)
+Claim 22: * Mực khô được chọn từ loại mực một nắng tại đảo Cù Lao Chàm.
+Result: PASS (Label: 1)
+Claim 23: * Công đoạn giã thịt và mực phải làm bằng tay, không thể thay thế bằng máy xay thịt.
+Result: PASS (Label: 1)
+Claim 24: * Chả chìa Hội An được hấp trước khi rán vàng.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 1.0000 (24/24)

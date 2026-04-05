@@ -1,0 +1,87 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+Total Claims: 26
+
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Bánh cống là một món ăn ở tỉnh Sóc Trăng, Việt Nam.
+3. * Bánh cống là đặc sản của người Khmer Nam bộ.
+4. * Bánh có độ giòn.
+5. * Bánh được làm bằng cách bỏ bột chiên và tôm lên trong khuôn.
+6. * Bánh có màu hơi sậm.
+7. * Bánh không tươi như những nơi khác.
+8. * Bánh có mùi thơm.
+9. * Bánh cực kỳ hấp dẫn.
+10. * Bánh không quá lớn.
+11. * Bánh không quá nhỏ.
+12. * Trên mặt bánh, một con tôm nằm khoanh tròn.
+13. * Bột bánh giòn tan lan toả trong miệng.
+14. * Mùi vị thơm nức.
+15. * Bánh có đượm béo của ít mỡ sa, đậu xanh và thịt.
+16. * Bánh là hỗn hợp của thịt heo băm nhuyễn trộn với củ sắn và đậu xanh nguyên hột.
+17. * Mọi thứ hoà quyện nhau tạo nên hương vị đặc trưng cho bánh cóng Sóc Trăng.
+18. * Bánh không quá nhiều mỡ.
+19. * Bánh hơi khô.
+20. * Độ béo của bánh vừa phải.
+21. * Bánh không béo ngậy.
+22. * Bánh không ăn với cải xanh.
+23. * Bánh ăn với bắp cải, rau răm, xà lách, dắp cá.
+24. * Bánh cóng nổi tiếng nhất ở chợ Đại Tâm, đường 976, thuộc xã Đại Tâm, ấp Đại Chi, huyện Mỹ Xuyên.
+25. * Người thợ làm bánh cóng ở chợ Đại Tâm có trên 20 năm tay nghề.
+26. * Giá bánh cóng là 2.000 đồng/cái.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Bánh cống là một món ăn ở tỉnh Sóc Trăng, Việt Nam.
+Result: FAIL (Label: 0)
+Claim 3: * Bánh cống là đặc sản của người Khmer Nam bộ.
+Result: FAIL (Label: 0)
+Claim 4: * Bánh có độ giòn.
+Result: PASS (Label: 1)
+Claim 5: * Bánh được làm bằng cách bỏ bột chiên và tôm lên trong khuôn.
+Result: PASS (Label: 1)
+Claim 6: * Bánh có màu hơi sậm.
+Result: PASS (Label: 1)
+Claim 7: * Bánh không tươi như những nơi khác.
+Result: PASS (Label: 1)
+Claim 8: * Bánh có mùi thơm.
+Result: PASS (Label: 1)
+Claim 9: * Bánh cực kỳ hấp dẫn.
+Result: PASS (Label: 1)
+Claim 10: * Bánh không quá lớn.
+Result: PASS (Label: 1)
+Claim 11: * Bánh không quá nhỏ.
+Result: PASS (Label: 1)
+Claim 12: * Trên mặt bánh, một con tôm nằm khoanh tròn.
+Result: PASS (Label: 1)
+Claim 13: * Bột bánh giòn tan lan toả trong miệng.
+Result: PASS (Label: 1)
+Claim 14: * Mùi vị thơm nức.
+Result: PASS (Label: 1)
+Claim 15: * Bánh có đượm béo của ít mỡ sa, đậu xanh và thịt.
+Result: PASS (Label: 1)
+Claim 16: * Bánh là hỗn hợp của thịt heo băm nhuyễn trộn với củ sắn và đậu xanh nguyên hột.
+Result: PASS (Label: 1)
+Claim 17: * Mọi thứ hoà quyện nhau tạo nên hương vị đặc trưng cho bánh cóng Sóc Trăng.
+Result: PASS (Label: 1)
+Claim 18: * Bánh không quá nhiều mỡ.
+Result: PASS (Label: 1)
+Claim 19: * Bánh hơi khô.
+Result: PASS (Label: 1)
+Claim 20: * Độ béo của bánh vừa phải.
+Result: PASS (Label: 1)
+Claim 21: * Bánh không béo ngậy.
+Result: PASS (Label: 1)
+Claim 22: * Bánh không ăn với cải xanh.
+Result: PASS (Label: 1)
+Claim 23: * Bánh ăn với bắp cải, rau răm, xà lách, dắp cá.
+Result: PASS (Label: 1)
+Claim 24: * Bánh cóng nổi tiếng nhất ở chợ Đại Tâm, đường 976, thuộc xã Đại Tâm, ấp Đại Chi, huyện Mỹ Xuyên.
+Result: PASS (Label: 1)
+Claim 25: * Người thợ làm bánh cóng ở chợ Đại Tâm có trên 20 năm tay nghề.
+Result: PASS (Label: 1)
+Claim 26: * Giá bánh cóng là 2.000 đồng/cái.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 0.9231 (24/26)

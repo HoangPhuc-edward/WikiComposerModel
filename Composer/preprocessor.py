@@ -7,7 +7,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from extractor import Extractor
 
 class Preprocessor:
-    def __init__(self, session_id, base_dir="data_storage", extract_model_size="base", embedding_model_name="all-MiniLM-L6-v2", chunk_size=800, chunk_overlap=100):
+    def __init__(self, session_id, base_dir="data_storage", extract_model_size="base", embedding_model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2", chunk_size=800, chunk_overlap=100):
         self.session_id = session_id
         self.base_dir = base_dir
         self.raw_dir = os.path.join(base_dir, "raw", session_id)

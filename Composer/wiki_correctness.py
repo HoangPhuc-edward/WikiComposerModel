@@ -1,4 +1,5 @@
 import os
+import time
 import torch
 import re
 from sentence_transformers import CrossEncoder
@@ -29,41 +30,81 @@ class WikiCorrectness:
         self.atomic_claims = []
 
     def extract_atomic_claims(self):
-        """
-        Sử dụng LLM để tách bài mẫu B thành các câu khẳng định đơn lẻ (Atomic Claims).
-        Lưu kết quả vào correctness_debug.txt.
-        """
-        print("--- Đang tách Atomic Claims từ bài mẫu B... ---")
+        print(f"--- Đang tách Atomic Claims từ bài mẫu B ({len(self.article_b)} ký tự)... ---")
         
-        prompt = f"""
-        Nhiệm vụ: Hãy tách đoạn văn bản sau đây thành danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn).
-        Yêu cầu:
-        1. Mỗi câu chỉ chứa duy nhất MỘT thông tin/ý khẳng định.
-        2. Không sử dụng các từ nối phức tạp.
-        3. Giữ nguyên các danh từ riêng, con số, thuật ngữ.
-        4. Trả về kết quả dưới dạng danh sách gạch đầu dòng.
+        # 1. Chia nhỏ article_b thành các chunk khoảng 4000 ký tự
+        chunks = []
+        current_chunk = ""
+        for line in self.article_b.split('\n'):
+            if len(current_chunk) + len(line) + 1 > 4000:
+                chunks.append(current_chunk)
+                current_chunk = line
+            else:
+                current_chunk += "\n" + line if current_chunk else line
+        if current_chunk:
+            chunks.append(current_chunk)
 
-        VĂN BẢN CẦN TÁCH:
-        {self.article_b}
+        self.atomic_claims = []
         
-        DANH SÁCH ATOMIC CLAIMS:
-        """
+        # 2. Duyệt qua từng chunk để gửi cho LLM
+        for i, text_segment in enumerate(chunks):
+            print(f"   -> Đang xử lý đoạn {i+1}/{len(chunks)}...")
+            
+            prompt = f"""
+            Nhiệm vụ: Hãy tách đoạn văn bản sau đây thành danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn).
+            Yêu cầu:
+            1. Mỗi câu chỉ chứa duy nhất MỘT thông tin/ý khẳng định.
+            2. Không sử dụng các từ nối phức tạp (và, nhưng, vì, nên...).
+            3. Giữ nguyên các danh từ riêng, con số, thuật ngữ chuyên môn.
+            4. Trả về kết quả dưới dạng danh sách gạch đầu dòng.
 
-        response = self.llm.send_prompt(prompt, options={"temperature": 0.1})
-        
-        # Xử lý response để lấy list các câu (loại bỏ dấu gạch đầu dòng, số thứ tự)
-        raw_claims = response.strip().split('\n')
-        self.atomic_claims = [re.sub(r'^[\s\-\d\.]+', '', line).strip() for line in raw_claims if line.strip()]
+            VĂN BẢN CẦN TÁCH:
+            {text_segment}
+            
+            DANH SÁCH ATOMIC CLAIMS:
+            """
 
-        # Lưu vào debug log
+            # Logic retry khi gặp lỗi API hoặc Rate Limit
+            idx = 0
+            response = ""
+            while True:
+                response = self.llm.send_prompt(prompt[:12000], options={"temperature": 0.1})
+
+                if "error" in response.lower():
+                    if idx >= 4 or "429" in response.lower():  
+                        print("Không thể viết LLM: quá token")
+                        raise Exception("Không thể viết LLM: quá token")
+
+                    else:
+                        print("Đang chờ 60 giây do quá tải LLM...")
+                        time.sleep(60)
+                        idx +=1
+
+                else:
+                    break
+                 
+
+            # 3. Xử lý response của từng đoạn và gộp vào danh sách chung
+            if response:
+                raw_claims = response.strip().split('\n')
+                for line in raw_claims:
+                    clean_claim = re.sub(r'^[\s\-\d\.]+', '', line).strip()
+                    if clean_claim:
+                        self.atomic_claims.append(clean_claim)
+
+        # 4. Lưu toàn bộ kết quả vào debug log
         debug_file = os.path.join(self.output_path, "correctness_debug.txt")
-        with open(debug_file, 'w', encoding='utf-8') as f:
-            f.write("=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===\n")
-            for i, claim in enumerate(self.atomic_claims):
-                f.write(f"{i+1}. {claim}\n")
-            f.write("\n" + "="*50 + "\n")
+        try:
+            with open(debug_file, 'w', encoding='utf-8') as f:
+                f.write(f"=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===\n")
+                f.write(f"Total Claims: {len(self.atomic_claims)}\n\n")
+                for j, claim in enumerate(self.atomic_claims):
+                    f.write(f"{j+1}. {claim}\n")
+                f.write("\n" + "="*50 + "\n")
+        except Exception as e:
+            print(f"❌ Lỗi ghi file debug: {e}")
         
-        print(f"✅ Đã tách được {len(self.atomic_claims)} claims. Xem tại: {debug_file}")
+        print(f"✅ Hoàn thành! Đã tách được tổng cộng {len(self.atomic_claims)} claims. Xem tại: {debug_file}")
         return self.atomic_claims
 
     def calculate_correctness(self):

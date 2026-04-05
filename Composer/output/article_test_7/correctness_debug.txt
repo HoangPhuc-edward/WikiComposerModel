@@ -1,0 +1,123 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+Total Claims: 38
+
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Bánh chuối hấp là một món ăn vặt của miền Nam (Việt Nam).
+3. * Bánh chuối hấp hấp dẫn được nhiều thực khách.
+4. * Bánh chuối ngon dẻo được phủ lớp nước cốt dừa béo.
+5. * Nước cốt dừa có một chút ít vị mặn.
+6. * Bánh chuối hấp không ngán.
+7. * Bánh chuối hấp được rắc một ít đậu phộng rang nghiền mịn.
+8. * Bánh chuối hấp được rắc những hạt vừng vàng thơm.
+9. * Chuối xiêm được chọn những quả chuối chín vừa, to, dài, tròn mập, màu vàng phủ đều trái.
+10. * Dừa khô được chọn những quả dừa màu sậm, nặng.
+11. * Dừa khô cần được rửa sạch, loại bỏ phần xơ dừa bên ngoài.
+12. * Dừa khô cần được chặt làm đôi và nạo nhỏ.
+13. * Bột năng được dùng để tạo độ sánh đặc.
+14. * Bột gạo được dùng làm nguyên liệu.
+15. * Đường cát vàng được dùng làm nguyên liệu.
+16. * Đậu phộng được dùng làm nguyên liệu.
+17. * Vừng được dùng làm nguyên liệu.
+18. * Ống vani được dùng làm nguyên liệu.
+19. * Muối ăn được dùng làm nguyên liệu.
+20. * Bột báng và mè trắng được dùng làm nguyên liệu.
+21. * Chuối sứ cần được lột vỏ và cắt khoanh mỏng.
+22. * Chuối sứ cần được bỏ vào thau với đường cát vàng, bột năng và bột gạo.
+23. * Nước cần được cho vào thau với chuối sứ và khuấy đều.
+24. * Dừa khô cần được cho nước ấm vào và trộn.
+25. * Dừa khô cần được bóp mạnh tay và vắt lấy nước cốt.
+26. * Đậu phộng và vừng cần được rang trong chảo đến khi vàng đều.
+27. * Khuôn cần được thoa sẵn lớp dầu mỏng.
+28. * Nồi hấp bánh cần được đặt lên bếp và đợi nước sôi.
+29. * Hỗn hợp chuối bột cần được đổ vào khuôn.
+30. * Bánh cần được hấp khoảng 30-40 phút.
+31. * Bánh cần được kiểm tra bằng cách dùng một cây tâm xuyên thử qua lớp bánh.
+32. * Bánh cần được lấy ra khỏi khuôn và đợi nguội bớt.
+33. * Bánh cần được cắt thành từng miếng.
+34. * Nước cốt dừa cần được đổ vào nồi và đun sôi.
+35. * Muối và bột năng cần được cho vào nước cốt dừa và khuấy đều.
+36. * Nước cốt dừa cần được tắt bếp khi sánh đặc lại.
+37. * Bánh chuối hấp cần được chan nước cốt dừa lên mặt.
+38. * Bánh chuối hấp cần được rắc đậu phộng nghiền mịn và mè lên mặt.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Bánh chuối hấp là một món ăn vặt của miền Nam (Việt Nam).
+Result: FAIL (Label: 0)
+Claim 3: * Bánh chuối hấp hấp dẫn được nhiều thực khách.
+Result: PASS (Label: 1)
+Claim 4: * Bánh chuối ngon dẻo được phủ lớp nước cốt dừa béo.
+Result: PASS (Label: 1)
+Claim 5: * Nước cốt dừa có một chút ít vị mặn.
+Result: PASS (Label: 1)
+Claim 6: * Bánh chuối hấp không ngán.
+Result: PASS (Label: 1)
+Claim 7: * Bánh chuối hấp được rắc một ít đậu phộng rang nghiền mịn.
+Result: PASS (Label: 1)
+Claim 8: * Bánh chuối hấp được rắc những hạt vừng vàng thơm.
+Result: PASS (Label: 1)
+Claim 9: * Chuối xiêm được chọn những quả chuối chín vừa, to, dài, tròn mập, màu vàng phủ đều trái.
+Result: PASS (Label: 1)
+Claim 10: * Dừa khô được chọn những quả dừa màu sậm, nặng.
+Result: PASS (Label: 1)
+Claim 11: * Dừa khô cần được rửa sạch, loại bỏ phần xơ dừa bên ngoài.
+Result: PASS (Label: 1)
+Claim 12: * Dừa khô cần được chặt làm đôi và nạo nhỏ.
+Result: PASS (Label: 1)
+Claim 13: * Bột năng được dùng để tạo độ sánh đặc.
+Result: PASS (Label: 1)
+Claim 14: * Bột gạo được dùng làm nguyên liệu.
+Result: PASS (Label: 1)
+Claim 15: * Đường cát vàng được dùng làm nguyên liệu.
+Result: FAIL (Label: 0)
+Claim 16: * Đậu phộng được dùng làm nguyên liệu.
+Result: PASS (Label: 1)
+Claim 17: * Vừng được dùng làm nguyên liệu.
+Result: PASS (Label: 1)
+Claim 18: * Ống vani được dùng làm nguyên liệu.
+Result: FAIL (Label: 0)
+Claim 19: * Muối ăn được dùng làm nguyên liệu.
+Result: FAIL (Label: 0)
+Claim 20: * Bột báng và mè trắng được dùng làm nguyên liệu.
+Result: FAIL (Label: 0)
+Claim 21: * Chuối sứ cần được lột vỏ và cắt khoanh mỏng.
+Result: PASS (Label: 1)
+Claim 22: * Chuối sứ cần được bỏ vào thau với đường cát vàng, bột năng và bột gạo.
+Result: PASS (Label: 1)
+Claim 23: * Nước cần được cho vào thau với chuối sứ và khuấy đều.
+Result: PASS (Label: 1)
+Claim 24: * Dừa khô cần được cho nước ấm vào và trộn.
+Result: PASS (Label: 1)
+Claim 25: * Dừa khô cần được bóp mạnh tay và vắt lấy nước cốt.
+Result: PASS (Label: 1)
+Claim 26: * Đậu phộng và vừng cần được rang trong chảo đến khi vàng đều.
+Result: PASS (Label: 1)
+Claim 27: * Khuôn cần được thoa sẵn lớp dầu mỏng.
+Result: PASS (Label: 1)
+Claim 28: * Nồi hấp bánh cần được đặt lên bếp và đợi nước sôi.
+Result: PASS (Label: 1)
+Claim 29: * Hỗn hợp chuối bột cần được đổ vào khuôn.
+Result: PASS (Label: 1)
+Claim 30: * Bánh cần được hấp khoảng 30-40 phút.
+Result: PASS (Label: 1)
+Claim 31: * Bánh cần được kiểm tra bằng cách dùng một cây tâm xuyên thử qua lớp bánh.
+Result: PASS (Label: 1)
+Claim 32: * Bánh cần được lấy ra khỏi khuôn và đợi nguội bớt.
+Result: PASS (Label: 1)
+Claim 33: * Bánh cần được cắt thành từng miếng.
+Result: PASS (Label: 1)
+Claim 34: * Nước cốt dừa cần được đổ vào nồi và đun sôi.
+Result: PASS (Label: 1)
+Claim 35: * Muối và bột năng cần được cho vào nước cốt dừa và khuấy đều.
+Result: PASS (Label: 1)
+Claim 36: * Nước cốt dừa cần được tắt bếp khi sánh đặc lại.
+Result: PASS (Label: 1)
+Claim 37: * Bánh chuối hấp cần được chan nước cốt dừa lên mặt.
+Result: PASS (Label: 1)
+Claim 38: * Bánh chuối hấp cần được rắc đậu phộng nghiền mịn và mè lên mặt.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 0.8684 (33/38)

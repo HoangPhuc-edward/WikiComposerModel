@@ -1,0 +1,84 @@
+{
+    "session_id": "article_test_17",
+    "full_content_parsed": [
+        {
+            "content": "Bánh cống là một món ăn đặc sản nổi tiếng ở Sóc Trăng, đặc biệt là ở xã Đại Tâm của huyện Mỹ Xuyên. Đây là một món ăn khoái khẩu của nhiều người, và khi nhắc đến Sóc Trăng, người ta thường nghĩ đến bánh cống và bánh bía. Bánh cống Sóc Trăng đã trở thành một biểu tượng của ẩm thực địa phương, với công thức và cách làm riêng biệt. Những người làm bánh cống ở đây đã gắn bó với nghề nhiều năm, và họ đã tạo ra những chiếc bánh cống ngon nhất, khiến du khách từ khắp nơi đến để thưởng thức. Với vị ngon đặc trưng và cách làm truyền thống, bánh cống Sóc Trăng đã trở thành một phần không thể thiếu của văn hóa ẩm thực miền Tây.",
+            "source_ids": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        }
+    ],
+    "source_map_loaded": {
+        "1": "trở thành món ăn khoái khẩu của người",
+        "2": "quý vị và các bạn thân mến nhắc Đến Sóc",
+        "3": "nhắc đến xã Đại Tâm của huyện Mỹ Xuyên",
+        "4": "địa ở đây nhưng mà ra ra sóc chăng chợ",
+        "5": "nay á là con xin phép sẽ cùng đồng hành"
+    },
+    "bibliography_reference": [
+        {
+            "id": 1,
+            "name": "https://www.youtube.com/watch?v=C7EagWTNi3s",
+            "locator": {
+                "source_type": "youtube",
+                "doc_name": "article_test_17",
+                "end_seconds": 300.56,
+                "source_id": 1,
+                "start_seconds": 295.24,
+                "chunk_index": 85
+            }
+        },
+        {
+            "id": 2,
+            "name": "https://www.youtube.com/watch?v=C7EagWTNi3s",
+            "locator": {
+                "start_seconds": 28.32,
+                "doc_name": "article_test_17",
+                "end_seconds": 32.719,
+                "source_type": "youtube",
+                "chunk_index": 5,
+                "source_id": 1
+            }
+        },
+        {
+            "id": 3,
+            "name": "https://www.youtube.com/watch?v=C7EagWTNi3s",
+            "locator": {
+                "chunk_index": 11,
+                "end_seconds": 46.239,
+                "doc_name": "article_test_17",
+                "start_seconds": 41.44,
+                "source_id": 1,
+                "source_type": "youtube"
+            }
+        },
+        {
+            "id": 4,
+            "name": "https://www.youtube.com/watch?v=C7EagWTNi3s",
+            "locator": {
+                "doc_name": "article_test_17",
+                "start_seconds": 271.199,
+                "source_id": 1,
+                "source_type": "youtube",
+                "chunk_index": 77,
+                "end_seconds": 278.199
+            }
+        },
+        {
+            "id": 5,
+            "name": "https://www.youtube.com/watch?v=C7EagWTNi3s",
+            "locator": {
+                "start_seconds": 99.28,
+                "end_seconds": 105.2,
+                "chunk_index": 25,
+                "doc_name": "article_test_17",
+                "source_type": "youtube",
+                "source_id": 1
+            }
+        }
+    ]
+}

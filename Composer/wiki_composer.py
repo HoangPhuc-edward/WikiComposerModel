@@ -1,4 +1,6 @@
+
 import os
+import time
 import json
 import random
 import re
@@ -18,13 +20,15 @@ class WikiComposer:
                  name: str, 
                  template: ContentTemplate, 
                  llm: LLMManager, 
+                 llm_small: Optional[LLMManager] = None,
                  base_dir: str = "data_storage", 
-                 embedding_model_name: str = "all-MiniLM-L6-v2"):
+                 embedding_model_name: str = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"):
         
         self.session_id = session_id
         self.name = name
         self.template = template
         self.llm = llm
+        self.llm_small = llm_small if llm_small else llm
         self.base_dir = base_dir
 
         self.vector_path = os.path.join(base_dir, "vector_db")
@@ -39,7 +43,10 @@ class WikiComposer:
         self.bibliography: str = ""
         self.array_bibliography: List[Dict] = []
 
-        self.reranker = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
+        self.reranker = CrossEncoder('itdainb/PhoRanker', max_length=256)
+        self.reranker.tokenizer.model_max_length = 256
+        self.reranker.max_seq_length = 256
+
         self.context: str = self._fetch_random_context()[:600]
 
     def _fetch_random_context(self) -> str:
@@ -79,7 +86,9 @@ class WikiComposer:
         rerank_pairs = [[title, doc_text] for doc_text in doc_list]
         
         # Model chấm điểm (Trả về logits, càng cao càng liên quan)
-        scores = self.reranker.predict(rerank_pairs)
+        scores = self.reranker.predict(
+            rerank_pairs, 
+        )
         
         # 4. Giai đoạn 3: SẮP XẾP & CHỌN LỌC
         # Kết hợp: (Điểm, Nội dung, Metadata)
@@ -122,7 +131,7 @@ class WikiComposer:
         
         ### THÔNG TIN BÀI VIẾT:
         - Tên bài: {self.name}
-        - Bối cảnh chung: {self.context}
+        - Bối cảnh chung: {self.context[:100]}
         
         ### MỤC CẦN VIẾT:
         - Tiêu đề mục: "{title}"
@@ -134,16 +143,16 @@ class WikiComposer:
         ### YÊU CẦU:
         1. Câu truy vấn nên gợi ý sâu hơn vào mô tả yêu cầu, có thể bao gồm các từ khóa liên quan, khái niệm chuyên ngành, hoặc cách diễn đạt khác của tiêu đề.
         2. Bổ sung các từ khóa, khái niệm chuyên ngành liên quan có thể xuất hiện trong tài liệu nguồn.
-        3. Viết dưới dạng một đoạn văn ngắn hoặc các câu nối tiếp nhau, khoảng 30-50 từ.
+        3. Viết dưới dạng một đoạn văn ngắn hoặc các câu nối tiếp nhau, KHÔNG QUÁ 25 TỪ.
         4. CHỈ TRẢ VỀ NỘI DUNG CÂU TRUY VẤN, KHÔNG GIẢI THÍCH.
-        5. KHÔNG GHI NGUYÊN BỐI CẢNH VÀO CÂU TRUY VẤN, CHỈ TẬP TRUNG VÀO VIỆC MỞ RỘNG TIÊU ĐỀ VÀ MÔ TẢ YÊU CẦU THÀNH CÂU TRUY VẤN TÌM KIẾM.
         """
         
         # Gọi LLM (có thể để temperature cao hơn một chút để AI "sáng tạo" từ khóa)
         try:
-            expanded_query = self.llm.send_prompt(prompt, options={"temperature": 0.3})
+            print("Độ dài prompt cho Query Expansion:", len(prompt))
+            expanded_query = self.llm_small.send_prompt(prompt, options={"temperature": 0.3})
             # Làm sạch cơ bản (bỏ dấu ngoặc kép nếu có)
-            return expanded_query.strip().strip('"').strip("'")
+            return expanded_query.strip().strip('"').strip("'")[:50] 
         except Exception as e:
             print(f"⚠️ Lỗi Query Expansion: {e}")
             # Fallback về tiêu đề gốc nếu lỗi
@@ -153,8 +162,21 @@ class WikiComposer:
         """Viết bài và trả về danh sách metadata nguồn thô"""
         
         # [BƯỚC 1] Query Expansion: Tạo câu truy vấn giàu ngữ nghĩa
-        search_query = self._query_expansion(title, description)
-        print(f"   -> Expanded Query cho '{title}': {search_query[:100]}...") # Log để debug
+        idx = 0
+        while True:
+            search_query = self._query_expansion(title, description)
+            if "error" in search_query.lower():
+                if idx >= 2:  
+                    print("Lỗi liên tục trong Query Expansion")
+                    raise Exception("LLM gặp lỗi liên tục trong Query Expansion")
+                else:
+                    print("Đang chờ 60 giây do quá tải LLM...")
+                    time.sleep(60)
+                    idx += 1
+            else:
+                break
+        
+        print(f"   -> Expanded Query cho '{title}': {search_query}...") # Log để debug
 
         # [BƯỚC 2] Tìm kiếm chunk bằng query đã mở rộng
         chunks = self._get_relevant_chunks(search_query)
@@ -168,6 +190,7 @@ class WikiComposer:
             context_str += f" {item['content']}"
             raw_sources_meta.append(item['metadata'])
 
+
         # [BƯỚC 3] Viết nội dung (Logic cũ)
         prompt = f"""
             ### VAI TRÒ:
@@ -177,7 +200,7 @@ class WikiComposer:
             {self.context}
 
             ### DỮ LIỆU THAM KHẢO:
-            {context_str}
+            {context_str[:3000]}
 
             ### NHIỆM VỤ:
             Viết nội dung cho mục: "{title}".
@@ -190,8 +213,22 @@ class WikiComposer:
             4. Nếu dữ liệu không đủ, chỉ viết những gì có chắc chắn.
             """
         
-        response = self.llm.send_prompt(prompt, options={"temperature": 0.1})
-        
+        idx_1 = 0
+        while True:
+            response = self.llm.send_prompt(prompt, options={"temperature": 0.1})
+            if "error" in response.lower():
+                if idx_1 >= 2:  
+                    print("Lỗi liên tục trong Query Expansion")
+                    raise Exception("LLM gặp lỗi liên tục trong Query Expansion")
+                else:
+                    print("Đang chờ 60 giây do quá tải LLM...")
+                    time.sleep(60)
+                    idx_1 += 1
+            else:
+                break
+
+
+
         # Làm sạch văn bản triệt để
         clean_text = response.strip()
         clean_text = re.sub(r'[\*\#\_]', '', clean_text) # Xóa *, #, _

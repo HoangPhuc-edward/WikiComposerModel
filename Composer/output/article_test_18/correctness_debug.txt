@@ -1,0 +1,108 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+Total Claims: 33
+
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Chè Shan Tuyết là loại chè đặc sản Việt Nam.
+3. * Chè Shan Tuyết có búp to màu trắng xám.
+4. * Dưới lá chè Shan Tuyết có phủ 1 lớp lông tơ mịn trắng.
+5. * Chè Shan Tuyết có mùi thơm dịu.
+6. * Nước chè Shan Tuyết có màu vàng sánh màu mật ong.
+7. * Chè Shan Tuyết được chế biến theo phương pháp thủ công của người dân tộc Tày, Mông, Dao.
+8. * Shan Tuyết có nghĩa là "Tuyết trên núi".
+9. * Chè Shan Tuyết mọc trên những dãy núi cao.
+10. * Lá và búp chè Shan Tuyết được phủ một lớp nhung trắng như tuyết.
+11. * Cây chè Shan Tuyết là loại cây cổ thụ.
+12. * Cây chè Shan Tuyết mọc cao đến vài mét.
+13. * Khi hái chè phải trèo hẳn lên cây.
+14. * Có những gốc chè vài người ôm không xuể.
+15. * Khu vực trồng chè Shan Tuyết có độ cao hơn 1200 mét.
+16. * Mây mù bao phủ quanh năm ở khu vực trồng chè Shan Tuyết.
+17. * Sự chênh lệch về nhiệt độ giữa ngày và đêm lớn ở khu vực trồng chè Shan Tuyết.
+18. * Điều kiện khí hậu thổ nhưỡng tạo cho Chè Shan tuyết có chất lượng tốt.
+19. * Chè Shan tuyết thông thường được canh tác hoàn toàn tự nhiên.
+20. * Chè Shan tuyết không sử dụng bất cứ một hóa chất hay phân bón.
+21. * Chè Shan tuyết được xem là chè sạch.
+22. * Chè shan tuyết cổ thụ được trồng lâu đời qua các thế hệ của người dân tộc Tày, Dao, Mông.
+23. * Có những vườn chè shan tuyết có tuổi thọ vài trăm năm.
+24. * Chè shan tuyết cổ thụ có nhiều ở các tỉnh Hà Giang, Bắc Kạn, Điện Biên, Lào Cai, Yên Bái.
+25. * Tại Hà Giang, chè Shan tuyết phổ biến ở các huyện Bắc Quang, Hoàng Su Phì, Quang Bình, Xín Mần.
+26. * Huyện Hoàng Su Phì có diện tích chè lớn nhất với 4.650 ha.
+27. * Huyện Hoàng Su Phì có 3.600 ha cây chè đang cho sản phẩm.
+28. * Huyện Hoàng Su Phì đạt tổng sản lượng hàng năm hơn 14.000 tấn búp chè tươi.
+29. * Huyện Hoàng Su Phì sở hữu 1.200 cây chè Shan tuyết được Hội Bảo vệ Thiên nhiên và Môi trường Việt Nam công nhận là Cây Di sản Việt Nam.
+30. * Việc công nhận cây chè Shan tuyết là Cây Di sản Việt Nam có ý nghĩa quan trọng trong việc bảo tồn cây chè cổ thụ.
+31. * Việc công nhận cây chè Shan tuyết là Cây Di sản Việt Nam góp phần nâng cao giá trị của chè Shan tuyết.
+32. * Việc công nhận cây chè Shan tuyết là Cây Di sản Việt Nam tăng thu nhập cho bà con các dân tộc trong vùng.
+33. * Thủ tướng Nguyễn Xuân Phúc đã tặng một gói chè Shan tuyết cho thủ tướng Malaysia Mahathir Mohamad năm 2019.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Chè Shan Tuyết là loại chè đặc sản Việt Nam.
+Result: PASS (Label: 1)
+Claim 3: * Chè Shan Tuyết có búp to màu trắng xám.
+Result: PASS (Label: 1)
+Claim 4: * Dưới lá chè Shan Tuyết có phủ 1 lớp lông tơ mịn trắng.
+Result: PASS (Label: 1)
+Claim 5: * Chè Shan Tuyết có mùi thơm dịu.
+Result: PASS (Label: 1)
+Claim 6: * Nước chè Shan Tuyết có màu vàng sánh màu mật ong.
+Result: PASS (Label: 1)
+Claim 7: * Chè Shan Tuyết được chế biến theo phương pháp thủ công của người dân tộc Tày, Mông, Dao.
+Result: PASS (Label: 1)
+Claim 8: * Shan Tuyết có nghĩa là "Tuyết trên núi".
+Result: PASS (Label: 1)
+Claim 9: * Chè Shan Tuyết mọc trên những dãy núi cao.
+Result: PASS (Label: 1)
+Claim 10: * Lá và búp chè Shan Tuyết được phủ một lớp nhung trắng như tuyết.
+Result: PASS (Label: 1)
+Claim 11: * Cây chè Shan Tuyết là loại cây cổ thụ.
+Result: PASS (Label: 1)
+Claim 12: * Cây chè Shan Tuyết mọc cao đến vài mét.
+Result: FAIL (Label: 0)
+Claim 13: * Khi hái chè phải trèo hẳn lên cây.
+Result: PASS (Label: 1)
+Claim 14: * Có những gốc chè vài người ôm không xuể.
+Result: PASS (Label: 1)
+Claim 15: * Khu vực trồng chè Shan Tuyết có độ cao hơn 1200 mét.
+Result: PASS (Label: 1)
+Claim 16: * Mây mù bao phủ quanh năm ở khu vực trồng chè Shan Tuyết.
+Result: PASS (Label: 1)
+Claim 17: * Sự chênh lệch về nhiệt độ giữa ngày và đêm lớn ở khu vực trồng chè Shan Tuyết.
+Result: PASS (Label: 1)
+Claim 18: * Điều kiện khí hậu thổ nhưỡng tạo cho Chè Shan tuyết có chất lượng tốt.
+Result: PASS (Label: 1)
+Claim 19: * Chè Shan tuyết thông thường được canh tác hoàn toàn tự nhiên.
+Result: PASS (Label: 1)
+Claim 20: * Chè Shan tuyết không sử dụng bất cứ một hóa chất hay phân bón.
+Result: PASS (Label: 1)
+Claim 21: * Chè Shan tuyết được xem là chè sạch.
+Result: PASS (Label: 1)
+Claim 22: * Chè shan tuyết cổ thụ được trồng lâu đời qua các thế hệ của người dân tộc Tày, Dao, Mông.
+Result: PASS (Label: 1)
+Claim 23: * Có những vườn chè shan tuyết có tuổi thọ vài trăm năm.
+Result: PASS (Label: 1)
+Claim 24: * Chè shan tuyết cổ thụ có nhiều ở các tỉnh Hà Giang, Bắc Kạn, Điện Biên, Lào Cai, Yên Bái.
+Result: PASS (Label: 1)
+Claim 25: * Tại Hà Giang, chè Shan tuyết phổ biến ở các huyện Bắc Quang, Hoàng Su Phì, Quang Bình, Xín Mần.
+Result: PASS (Label: 1)
+Claim 26: * Huyện Hoàng Su Phì có diện tích chè lớn nhất với 4.650 ha.
+Result: PASS (Label: 1)
+Claim 27: * Huyện Hoàng Su Phì có 3.600 ha cây chè đang cho sản phẩm.
+Result: PASS (Label: 1)
+Claim 28: * Huyện Hoàng Su Phì đạt tổng sản lượng hàng năm hơn 14.000 tấn búp chè tươi.
+Result: PASS (Label: 1)
+Claim 29: * Huyện Hoàng Su Phì sở hữu 1.200 cây chè Shan tuyết được Hội Bảo vệ Thiên nhiên và Môi trường Việt Nam công nhận là Cây Di sản Việt Nam.
+Result: PASS (Label: 1)
+Claim 30: * Việc công nhận cây chè Shan tuyết là Cây Di sản Việt Nam có ý nghĩa quan trọng trong việc bảo tồn cây chè cổ thụ.
+Result: PASS (Label: 1)
+Claim 31: * Việc công nhận cây chè Shan tuyết là Cây Di sản Việt Nam góp phần nâng cao giá trị của chè Shan tuyết.
+Result: PASS (Label: 1)
+Claim 32: * Việc công nhận cây chè Shan tuyết là Cây Di sản Việt Nam tăng thu nhập cho bà con các dân tộc trong vùng.
+Result: PASS (Label: 1)
+Claim 33: * Thủ tướng Nguyễn Xuân Phúc đã tặng một gói chè Shan tuyết cho thủ tướng Malaysia Mahathir Mohamad năm 2019.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 0.9697 (32/33)

@@ -1,0 +1,48 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+Total Claims: 13
+
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Bánh mật là loại bánh được làm từ bột gạo nếp trộn mật nhân đậu xanh.
+3. * Bánh mật được gói lá chuối.
+4. * Bánh mật được đồ bằng chõ.
+5. * Bánh mật được làm bằng cách đem bột nếp trộn với mật.
+6. * Bột nếp và mật được nấu lẫn lộn và đảo đều.
+7. * Bánh mật được gói thành bánh dài 30 cm x 10 cm.
+8. * Bánh mật được gói bằng lá chuối.
+9. * Khi dùng bánh mật, một cái cắt thành 2 bó.
+10. * Bánh mật được buộc ngửa ra thành một bát bánh.
+11. * Bánh mật được để lên mâm rước kiệu gọi là rước cỗ.
+12. * Xuất xứ của bánh mật là từ Bắc Bộ.
+13. * "Da bánh mật" là thành ngữ chỉ da rám nắng nâu hồng.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Bánh mật là loại bánh được làm từ bột gạo nếp trộn mật nhân đậu xanh.
+Result: PASS (Label: 1)
+Claim 3: * Bánh mật được gói lá chuối.
+Result: PASS (Label: 1)
+Claim 4: * Bánh mật được đồ bằng chõ.
+Result: PASS (Label: 1)
+Claim 5: * Bánh mật được làm bằng cách đem bột nếp trộn với mật.
+Result: PASS (Label: 1)
+Claim 6: * Bột nếp và mật được nấu lẫn lộn và đảo đều.
+Result: PASS (Label: 1)
+Claim 7: * Bánh mật được gói thành bánh dài 30 cm x 10 cm.
+Result: PASS (Label: 1)
+Claim 8: * Bánh mật được gói bằng lá chuối.
+Result: PASS (Label: 1)
+Claim 9: * Khi dùng bánh mật, một cái cắt thành 2 bó.
+Result: PASS (Label: 1)
+Claim 10: * Bánh mật được buộc ngửa ra thành một bát bánh.
+Result: PASS (Label: 1)
+Claim 11: * Bánh mật được để lên mâm rước kiệu gọi là rước cỗ.
+Result: PASS (Label: 1)
+Claim 12: * Xuất xứ của bánh mật là từ Bắc Bộ.
+Result: PASS (Label: 1)
+Claim 13: * "Da bánh mật" là thành ngữ chỉ da rám nắng nâu hồng.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 1.0000 (13/13)

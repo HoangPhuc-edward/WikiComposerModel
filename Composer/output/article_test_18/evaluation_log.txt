@@ -1,0 +1,12 @@
+--- BÀI VIẾT CỦA AI (SESSION: article_test_18) ---
+# Chè Shan TuyếtChè Shan Tuyết là loại chè đặc sản Việt Nam có búp to màu trắng xám, được trồng ở các tỉnh Hà Giang, Bắc Kạn, Điện Biên, Lào Cai, Yên Bái.
+
+Giới thiệu
+Chè Shan Tuyết là một loại trà đặc biệt được trồng ở các khu vực núi cao của Việt Nam, bao gồm Điện Biên, Lào Cai, Sơn La, Hà Giang, Yên Bái. Để được coi là Chè Shan Tuyết, cây trà phải đáp ứng các tiêu chuẩn nghiêm ngặt về vị trí và hình thái. Cụ thể, cây trà phải được trồng ở độ cao trên 1.000 mét trong các khu rừng thuộc các tỉnh trên. Về hình thái, cây trà phải là cây cổ thụ với đường kính gốc ít nhất 20 cm, tương đương với các cây trà trồng ở Cầu Đất từ thời Pháp thuộc năm 1927. Chè Shan Tuyết thường có tuổi thọ trên 100 năm, cao từ 3 mét trở lên và có hai giống lá xanh và lá đỏ. Các cây trà này thường được tìm thấy ở vùng núi cao mây phủ, sương mờ như Tà Xùa ở Sơn La, tạo nên một vẻ đẹp thơ mộng và độc đáo.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://vnexpress.net/thoi-su/ve-dep-vung-che-shan-tuyet-co-thu-tren-dinh-may-ta-xua-3768285.html ({'chunk_index': 0, 'source_type': 'web', 'doc_name': 'article_test_18', 'source_id': 1})
+
+--- KẾT QUẢ ĐÁNH GIÁ SẼ ĐƯỢC CẬP NHẬT DƯỚI ĐÂY ---
+Recall: 100.0 | Precision: 100.0 | Correctness: 0.9696969696969697

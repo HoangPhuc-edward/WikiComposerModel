@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "http://suckhoe.vnexpress.net/tin-tuc/cac-benh/thuoc-va-thuc-pham/dam-da-banh-da-cua-hai-phong-2307154.html",
+        "locator": {
+            "source_type": "web",
+            "doc_name": "article_test_2",
+            "source_id": 4,
+            "chunk_index": 0
+        }
+    },
+    {
+        "id": 2,
+        "name": "http://suckhoe.vnexpress.net/tin-tuc/cac-benh/thuoc-va-thuc-pham/dam-da-banh-da-cua-hai-phong-2307154.html",
+        "locator": {
+            "source_id": 4,
+            "source_type": "web",
+            "doc_name": "article_test_2",
+            "chunk_index": 1
+        }
+    },
+    {
+        "id": 3,
+        "name": "https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html",
+        "locator": {
+            "source_id": 1,
+            "chunk_index": 2,
+            "source_type": "web",
+            "doc_name": "article_test_2"
+        }
+    },
+    {
+        "id": 4,
+        "name": "https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html",
+        "locator": {
+            "source_type": "web",
+            "source_id": 1,
+            "chunk_index": 1,
+            "doc_name": "article_test_2"
+        }
+    },
+    {
+        "id": 5,
+        "name": "https://vnexpress.net/du-lich/hai-mon-ngon-tu-cua-o-hai-phong-3363141.html",
+        "locator": {
+            "source_id": 3,
+            "doc_name": "article_test_2",
+            "source_type": "web",
+            "chunk_index": 2
+        }
+    }
+]

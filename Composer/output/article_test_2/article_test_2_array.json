@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Giới thiệu",
+        "type": "leaf",
+        "content": "Bánh đa cua là một món ăn đặc trưng của ẩm thực Hải Phòng, được nhiều người ưa thích không chỉ ở địa phương mà còn ở các vùng khác. Món ăn này thể hiện được cả sự ngon mắt và ngon miệng, với thành phần chính là cua đồng, bánh đa, rau muống, rau nhút, tạo nên một hương vị thanh ngọt và mát lành. Người dân Hải Phòng đã khéo léo chế biến những nguyên liệu dân dã này thành một món ăn hấp dẫn, mang đến cho người ăn cảm giác ngon miệng và thỏa mãn. Bánh đa cua cũng là một trong những món ăn được nhiều người ưa thích ở Sài Gòn, không chỉ vì hương vị ngon mà còn vì sự bình dị và gần gũi của nó. Với nước dùng được nấu từ nước lọc cua, món ăn này có vị ngọt thanh và thoang thoảng mùi thơm nhẹ, tạo nên sự khác biệt và sức hấp dẫn cho bánh đa cua.",
+        "source": [
+            1,
+            2
+        ],
+        "children": []
+    },
+    {
+        "title": "Thành phần",
+        "type": "leaf",
+        "content": "Thành phần của bánh đa cua bao gồm các nguyên liệu cơ bản như bánh đa, cua, rau muống, hành lá, chả cá, và các gia vị như me chua, muối mặn, nước mắm Cát Hải, cà chua, tóp mỡ phi vàng ruộm. Ngoài ra, để làm bánh đa cua, người ta cũng cần thêm một số nguyên liệu khác như hành khô, và các loại rau thơm khác. Tuy nhiên, cần lưu ý rằng thành phần cụ thể có thể thay đổi tùy thuộc vào loại bánh đa cua, chẳng hạn như bánh đa cua đồng hoặc bánh đa cua bể.",
+        "source": [
+            3,
+            4,
+            5
+        ],
+        "children": []
+    }
+]

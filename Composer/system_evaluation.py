@@ -5,7 +5,7 @@ import pandas as pd
 import gc # Giải phóng bộ nhớ
 from datetime import datetime
 from sentence_transformers import CrossEncoder
-
+import time
 # Import modules
 from preprocessor import Preprocessor
 from wiki_composer import WikiComposer
@@ -15,21 +15,21 @@ from wiki_evaluation import WikiEvaluation
 from wiki_correctness import WikiCorrectness
 import random
 import string
-# --- CẤU HÌNH ---
-LLM_CONFIG_FILE = "LLM.txt"
+
+
+# Source data
 DATA_SOURCE_FILE = "cleaned_data.json"
 BASE_STORAGE = "data_storage"
 RAW_SOURCE_DIR = os.path.join(BASE_STORAGE, "raw")
 
+# Helper func
 def randomword(length):
     letters = string.ascii_lowercase
     return ''.join(random.choice(letters) for i in range(length))
 
 # BASE_SESSION_ID = randomword(4) + "_"
-BASE_SESSION_ID = "jwlk_"
-
-def load_llm_config():
-    """Nạp config LLM từ file"""
+BASE_SESSION_ID = "test_"
+def load_llm_config(LLM_CONFIG_FILE):
     config = {}
     try:
         with open(LLM_CONFIG_FILE, "r", encoding="utf-8") as f:
@@ -42,23 +42,31 @@ def load_llm_config():
         print(f"Lỗi nạp config: {e}"); return None
 
 def step_1_generate_articles():
-    """BƯỚC 1: VIẾT BÀI VÀ LƯU TRỮ (Tốn RAM cho Embedding/LLM)"""
-    cfg = load_llm_config()
+    
+    cfg = load_llm_config("LLM/LLM.txt")
+    cfg_small = load_llm_config("LLM/LLM_small.txt")
     if not cfg: return
     llm = LLMManager(provider=cfg.get("Provider"), base_url=cfg.get("Base URL"), 
                      api_key=cfg.get("API KEY"), model_name=cfg.get("Model Name"))
+    llm_small = LLMManager(provider=cfg_small.get("Provider"), base_url=cfg_small.get("Base URL"), 
+                           api_key=cfg_small.get("API KEY"), model_name=cfg_small.get("Model Name"))
 
     with open(DATA_SOURCE_FILE, 'r', encoding='utf-8') as f:
         data_list = json.load(f)
 
-    print(f"--- BẮT ĐẦU BƯỚC 1: SINH NỘI DUNG ({len(data_list)} bài) ---")
-    for idx, item in enumerate(data_list):
-        stt = BASE_SESSION_ID + str(idx + 1)
-        # Tạo session_id cố định theo STT để Bước 2 dễ tìm kiếm
-        session_id = f"article_{stt}" 
-        print(f"\n🚀 Đang xử lý bài {stt}: {item.get('url')}")
 
-        # 1. Nạp nguồn (ETL)
+    start_idx = 17
+    data_list = data_list[17:18]  
+    print(f"WRITTING: ({len(data_list)} bài) ---")
+    
+    for idx, item in enumerate(data_list):
+        stt = BASE_SESSION_ID + str(idx + 1 + start_idx)  
+        
+        # Create session_id
+        session_id = f"article_{stt}" 
+        print(f"\nĐang xử lý bài {stt}: {item.get('url')}")
+
+        # 1. Source input
         preprocessor = Preprocessor(session_id=session_id)
         for src in item.get('source', []):
             if src.get('type') == "pdf":
@@ -67,51 +75,52 @@ def step_1_generate_articles():
                 preprocessor.execute(src.get("url"), "txt")
             elif src.get('type') == "youtube":
                 preprocessor.execute(src.get("url"), "youtube")
+            elif src.get('type') == "audio":
+                preprocessor.execute(src.get("url"), "audio")
             else:
                 preprocessor.execute(src.get("url"), "url")
-        del preprocessor # Giải phóng preprocessor ngay sau khi xong
+        del preprocessor 
 
-        # 2. Viết bài
+        # 2. Write wiki
         template = ContentTemplate(
             name=stt, description=f"wiki_của_{stt}",
             system_instruction="Bạn là chuyên gia nông nghiệp và biên tập viên Wiki",
             structure=item.get('structure', [])
         )
-        composer = WikiComposer(session_id=session_id, name=item.get('name', "")+item.get("description", ""), template=template, llm=llm)
+        composer = WikiComposer(session_id=session_id, name=item.get('name', "")+item.get("description", ""), template=template, llm=llm, llm_small=llm_small)
         output = composer.wiki_compose()
 
-        # 3. Lưu trữ kết quả vào thư mục session
+        # 3. Save output
         path = f"output/{session_id}"
         os.makedirs(path, exist_ok=True)
         with open(os.path.join(path, f"{session_id}.txt"), "w", encoding="utf-8") as f: f.write(output["full_content"])
         with open(os.path.join(path, f"{session_id}_array.json"), "w", encoding="utf-8") as f: json.dump(output["array_content"], f, ensure_ascii=False, indent=4)
         with open(os.path.join(path, f"{session_id}_bibliography.json"), "w", encoding="utf-8") as f: json.dump(output["array_bibliography"], f, ensure_ascii=False, indent=4)
         
-        print(f"✅ Đã lưu dữ liệu bài {stt} vào {path}")
-        gc.collect() # Dọn rác bộ nhớ
-
+        print(f"Đã lưu dữ liệu bài {stt} vào {path}")
+        gc.collect() 
+        
 
 def step_2_evaluate_and_csv():
-    print("\n--- BẮT ĐẦU BƯỚC 2: ĐÁNH GIÁ ---")
-    cfg = load_llm_config()
-    max = 15
+    print("\nEVALUATION: ---")
+    cfg = load_llm_config("LLM/LLM_test.txt")
 
     llm = LLMManager(provider=cfg.get("Provider"), base_url=cfg.get("Base URL"), 
                      api_key=cfg.get("API KEY"), model_name=cfg.get("Model Name"))
 
-    # Nạp Model NLI duy nhất 1 lần ở đây
+    # Nạp Model NLI 
     print("--- Đang nạp Model NLI dùng chung cho toàn bộ bài viết... ---")
-    shared_nli_model = CrossEncoder('cross-encoder/nli-deberta-v3-base')
+    shared_nli_model = CrossEncoder('MoritzLaurer/mDeBERTa-v3-base-mnli-xnli')
     
     with open(DATA_SOURCE_FILE, 'r', encoding='utf-8') as f:
         data_list = json.load(f)
 
+    start_idx = 0
+    data_list = data_list
     results = []
     for idx, item in enumerate(data_list):
-        if idx >= max:
-            print(f"⚠️ Đã đạt giới hạn tối đa {max} bài, dừng chấm điểm.")
-            break
-        stt = BASE_SESSION_ID + str(idx + 1)
+        
+        stt = BASE_SESSION_ID + str(idx + 1 + start_idx)
         session_id = f"article_{stt}"
         path = f"output/{session_id}"
         
@@ -146,27 +155,22 @@ def step_2_evaluate_and_csv():
                 "correctness": round(claim_recall * 100, 2)
             })
 
-            # Đợi 1 phút giữa các bài để tránh quá tải LLM
-            print("⏳ Đang chờ 60 giây để tránh quá tải LLM...")
+            print("Đang chờ 20 giây để tránh quá tải LLM...")
             import time
-            time.sleep(60)
+            time.sleep(20)
             
-            # Ghi thêm kết quả vào log của bài đó cho dễ đọc
             with open(os.path.join(path, "evaluation_log.txt"), "a", encoding="utf-8") as f_log:
                 f_log.write(f"\nRecall: {c_recall} | Precision: {c_precision} | Correctness: {claim_recall}")
 
-        except Exception as e: print(f"❌ Lỗi tại bài {stt}: {e}")
+        except Exception as e: print(f"Lỗi tại bài {stt}: {e}")
 
-    # Ghi file CSV như cũ
+    # Save CSV
     df = pd.DataFrame(results)
-    csv_file = f"output/final_evaluation_{datetime.now().strftime('%H%M%S')}.csv"
+    csv_file = f"output/{BASE_SESSION_ID}_final_evaluation_{datetime.now().strftime('%H%M%S')}.csv"
     df.to_csv(csv_file, index=False, encoding='utf-8-sig')
-    print(f"📊 Đã xuất báo cáo thành công: {csv_file}")
+    print(f"Output evaluation: {csv_file}")
 
 if __name__ == "__main__":
-    # --- ĐIỀU KHIỂN QUY TRÌNH TẠI ĐÂY ---
-    # BƯỚC 1: Chạy cái này trước, xong thì comment lại
     # step_1_generate_articles() 
     
-    # BƯỚC 2: Chạy cái này sau khi Bước 1 đã hoàn tất
     step_2_evaluate_and_csv()

@@ -1,0 +1,39 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+Total Claims: 10
+
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Bánh ít trần là món quà vặt của người dân miền Trung Việt Nam.
+3. * Bánh ít trần có đôi phần giống như bánh nếp của người miền Bắc.
+4. * Nhân bánh ít trần kết hợp với thịt lợn.
+5. * Nhân bánh ít trần kết hợp với mộc nhĩ.
+6. * Nhân bánh ít trần kết hợp với hạt tiêu.
+7. * Vỏ bánh ít trần làm từ bột nếp dẻo dai.
+8. * Khi ăn bánh ít trần thường dùng kèm với một bát nước mắm chấm.
+9. * Nước mắm chấm bánh ít trần có vị cay của ớt.
+10. * Bánh ít trần có vị ngon độc đáo của món bánh từ miền Trung.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Bánh ít trần là món quà vặt của người dân miền Trung Việt Nam.
+Result: PASS (Label: 1)
+Claim 3: * Bánh ít trần có đôi phần giống như bánh nếp của người miền Bắc.
+Result: PASS (Label: 1)
+Claim 4: * Nhân bánh ít trần kết hợp với thịt lợn.
+Result: PASS (Label: 1)
+Claim 5: * Nhân bánh ít trần kết hợp với mộc nhĩ.
+Result: PASS (Label: 1)
+Claim 6: * Nhân bánh ít trần kết hợp với hạt tiêu.
+Result: PASS (Label: 1)
+Claim 7: * Vỏ bánh ít trần làm từ bột nếp dẻo dai.
+Result: PASS (Label: 1)
+Claim 8: * Khi ăn bánh ít trần thường dùng kèm với một bát nước mắm chấm.
+Result: PASS (Label: 1)
+Claim 9: * Nước mắm chấm bánh ít trần có vị cay của ớt.
+Result: PASS (Label: 1)
+Claim 10: * Bánh ít trần có vị ngon độc đáo của món bánh từ miền Trung.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 1.0000 (10/10)

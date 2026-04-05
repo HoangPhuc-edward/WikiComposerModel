@@ -1,0 +1,69 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+Total Claims: 20
+
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Bánh nếp là một loại bánh truyền thống của người Việt Nam.
+3. * Bánh nếp còn gọi là bánh rợm ở Xứ Đoài.
+4. * Bánh nếp còn gọi là bánh ít ở miền Nam.
+5. * Nguyên liệu chính của bánh nếp là bột gạo nếp.
+6. * Nguyên liệu và cách chế biến bánh nếp khác nhau tùy theo vùng miền và loại bánh.
+7. * Vỏ bánh nếp luôn được làm từ bột gạo nếp.
+8. * Nhân bánh ngọt thường gồm đậu xanh và dừa.
+9. * Nhân bánh mặn có thể bao gồm đậu xanh, thịt lợn, nấm hương, mộc nhĩ, hạt tiêu.
+10. * Bột dùng để làm bánh nếp có thể là bột ướt hoặc bột khô.
+11. * Bột ướt được xay từ gạo ngâm rồi ủ ráo.
+12. * Bột khô được xay từ hạt gạo khô rồi pha thêm nước trước khi chế biến.
+13. * Bánh nếp thường được làm từ nguyên bột màu trắng.
+14. * Người ta biến tấu bánh nếp bằng cách thêm nước xay lá nếp để tạo màu xanh tự nhiên.
+15. * Người ta biến tấu bánh nếp bằng cách trộn gấc để tạo màu đỏ.
+16. * Thành phần chính của nhân bánh là đậu xanh đã được ngâm, đãi sạch vỏ, đun nhừ và tán nhuyễn.
+17. * Nhân bánh được xào thêm để giảm bớt độ ẩm và trộn với các nguyên liệu phụ.
+18. * Nhân bánh được chia nhỏ và vo thành các khối tròn.
+19. * Bánh nếp được làm bằng cách lấy một phần bột bao lấy nhân.
+20. * Bánh nếp có thể được hấp trực tiếp hoặc cuốn vào lá chuối đã bôi mỡ nước, lá dong rồi mới hấp chín.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: FAIL (Label: 2)
+Claim 2: * Bánh nếp là một loại bánh truyền thống của người Việt Nam.
+Result: FAIL (Label: 0)
+Claim 3: * Bánh nếp còn gọi là bánh rợm ở Xứ Đoài.
+Result: PASS (Label: 1)
+Claim 4: * Bánh nếp còn gọi là bánh ít ở miền Nam.
+Result: PASS (Label: 1)
+Claim 5: * Nguyên liệu chính của bánh nếp là bột gạo nếp.
+Result: PASS (Label: 1)
+Claim 6: * Nguyên liệu và cách chế biến bánh nếp khác nhau tùy theo vùng miền và loại bánh.
+Result: FAIL (Label: 0)
+Claim 7: * Vỏ bánh nếp luôn được làm từ bột gạo nếp.
+Result: PASS (Label: 1)
+Claim 8: * Nhân bánh ngọt thường gồm đậu xanh và dừa.
+Result: PASS (Label: 1)
+Claim 9: * Nhân bánh mặn có thể bao gồm đậu xanh, thịt lợn, nấm hương, mộc nhĩ, hạt tiêu.
+Result: PASS (Label: 1)
+Claim 10: * Bột dùng để làm bánh nếp có thể là bột ướt hoặc bột khô.
+Result: PASS (Label: 1)
+Claim 11: * Bột ướt được xay từ gạo ngâm rồi ủ ráo.
+Result: PASS (Label: 1)
+Claim 12: * Bột khô được xay từ hạt gạo khô rồi pha thêm nước trước khi chế biến.
+Result: PASS (Label: 1)
+Claim 13: * Bánh nếp thường được làm từ nguyên bột màu trắng.
+Result: FAIL (Label: 0)
+Claim 14: * Người ta biến tấu bánh nếp bằng cách thêm nước xay lá nếp để tạo màu xanh tự nhiên.
+Result: PASS (Label: 1)
+Claim 15: * Người ta biến tấu bánh nếp bằng cách trộn gấc để tạo màu đỏ.
+Result: PASS (Label: 1)
+Claim 16: * Thành phần chính của nhân bánh là đậu xanh đã được ngâm, đãi sạch vỏ, đun nhừ và tán nhuyễn.
+Result: PASS (Label: 1)
+Claim 17: * Nhân bánh được xào thêm để giảm bớt độ ẩm và trộn với các nguyên liệu phụ.
+Result: PASS (Label: 1)
+Claim 18: * Nhân bánh được chia nhỏ và vo thành các khối tròn.
+Result: PASS (Label: 1)
+Claim 19: * Bánh nếp được làm bằng cách lấy một phần bột bao lấy nhân.
+Result: PASS (Label: 1)
+Claim 20: * Bánh nếp có thể được hấp trực tiếp hoặc cuốn vào lá chuối đã bôi mỡ nước, lá dong rồi mới hấp chín.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 0.8000 (16/20)

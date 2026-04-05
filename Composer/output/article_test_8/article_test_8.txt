@@ -1,0 +1,22 @@
+# Chè khoMón chè phổ biến ở đồng bằng Bắc Bộ, thường được làm để cúng rằm, mồng một, giỗ chạp hay lễ Tết và bày bán ở các chợ quê.
+
+Giới thiệu
+Chè kho là một món ăn truyền thống của người dân Đại Đồng, thường được làm vào các dịp lễ Tết, cỗ cưới, quà biếu, hoặc hội hè. Người ta không làm chè kho hàng loạt mà chỉ làm khi có khách đặt hàng, như cỗ cưới, quà biếu, hoặc những dịp đặc biệt. Khách hàng của gia đình ông Sơn, một trong những người làm chè kho nổi tiếng ở Đại Đồng, thường là những khách ăn quen ở khu vực Ba Vì, Sơn Tây, hoặc những người dân trong xã đặt hàng làm quà biếu khi có việc đi xa. Một điều thú vị là gia đình ông Sơn đã từng nhận đơn đặt hàng đặc biệt, làm 150kg chè kho để vận chuyển sang Nhật Bản. Để làm được món chè kho ngon, người dân Đại Đồng phải trải qua nhiều công đoạn, từ chọn đậu xanh ngon, hạt mẩy và đều, đến việc đãi sạch và làm vỡ đỗ. Tất cả những công đoạn này đều đòi hỏi sự chỉn chu và kinh nghiệm để tạo ra món chè kho thơm ngon và đặc trưng của Đại Đồng.
+
+Chè kho đậu xanh
+Chè kho đậu xanh là một món ăn truyền thống được làm từ đậu xanh và đường, có thể thêm dầu chuối hoặc vani và vừng rang cho thơm. Để làm được món chè kho ngon, cần phải chỉn chu từ khâu chọn đậu xanh, phải là loại đỗ ngon, hạt mẩy và đều, nếu mua được loại đỗ tương "ta" giống cũ thì lại càng thơm ngon. Sau khi mua về, đỗ được đãi sạch để loại bỏ những bụi bẩn, tạp chất có trong hạt đỗ, sau đó là giai đoạn làm vỡ đỗ, cũng cần người có kỹ năng khéo léo, dùng lực tay vừa đủ, vừa ấn vừa lăn đều để hạt đỗ vỡ làm đôi chứ không vỡ vụn. Khi nấu chè, việc đánh nát đậu cần đôi tay khỏe, đánh nhanh và đều, không để cháy vì nếu chè bị bén, sẽ làm cả nồi mất hương, quấy chè thì không được sốt ruột để to lửa mà cứ liu riu, dùng đũa đảo đều khoảng một tiếng đồng hồ thì xong một mẻ.
+
+Chè kho mật nếp
+Chè kho mật nếp là một món ăn truyền thống, được làm từ gạo nếp, mật mía, gừng, lạc và vừng rang, còn gọi là chè con ong. Để làm được món chè kho ngon, theo kinh nghiệm của các bà, các chị ở Đại Đồng, có rất nhiều yêu cầu. Trong đó, ngay từ khâu chọn đậu xanh đã phải chỉn chu, đỗ xanh để làm chè kho phải là loại đỗ ngon, hạt mẩy và đều, nếu mua được loại đỗ tương “ta” giống cũ thì lại càng thơm ngon. Sau khi mua về đỗ được đãi sạch để loại bỏ những bụi bẩn, tạp chất có trong hạt đỗ. Sau đó, là giai đoạn làm vỡ đỗ, giờ đây, đã có thể mua đỗ tách vỏ sẵn, tiện lợi, nhưng theo kinh nghiệm của những người làm chè kho lâu năm, mua đỗ xanh cả vỏ, sau đó về xiết đỗ thì món ăn sẽ thơm ngon hơn. Xiết đỗ cũng cần người có kỹ năng khéo léo, người xiết sẽ dùng một cái chai thủy tinh, lăn đều hạt đỗ được rải đều lên một cái thớt, phải dùng lực tay xuống chai sao cho vừa đủ, vừa ấn vừa lăn đều để hạt đỗ vỡ làm đôi chứ không vỡ vụn. Khi nấu chè, việc đánh nát đậu cần đôi tay khỏe, đánh nhanh và đều, không để cháy vì nếu chè bị bén, sẽ làm cả nồi mất hương. Quấy chè thì không được sốt ruột để to lửa mà cứ liu riu, dùng đũa đảo đều khoảng một tiếng đồng hồ thì xong một mẻ.
+
+Trong văn học
+Món chè kho được nhắc đến trong tác phẩm Vợ nhặt của nhà văn Kim Lân, thể hiện sự phổ biến và tầm quan trọng của món ăn này trong văn hóa và cuộc sống hàng ngày của người dân Việt Nam. Trong tác phẩm, Kim Lân đã miêu tả chân thực và sống động về món chè kho, thể hiện sự yêu thích và trân trọng của người dân đối với món ăn này. Điều này cho thấy rằng chè kho không chỉ là một món ăn ngon mà còn là một phần quan trọng của di sản văn hóa và truyền thống của người Việt.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] source/data3.txt ({'source_id': 2, 'source_type': 'txt', 'doc_name': 'article_test_8', 'chunk_index': 6})
+[2] source/data4.txt ({'source_id': 3, 'doc_name': 'article_test_8', 'source_type': 'txt', 'chunk_index': 3})
+[3] source/data3.txt ({'source_id': 2, 'doc_name': 'article_test_8', 'chunk_index': 0, 'source_type': 'txt'})
+[4] source/data4.txt ({'doc_name': 'article_test_8', 'chunk_index': 4, 'source_type': 'txt', 'source_id': 3})
+[5] source/data3.txt ({'chunk_index': 7, 'source_type': 'txt', 'source_id': 2, 'doc_name': 'article_test_8'})
+[6] source/data4.txt ({'chunk_index': 6, 'doc_name': 'article_test_8', 'source_id': 3, 'source_type': 'txt'})

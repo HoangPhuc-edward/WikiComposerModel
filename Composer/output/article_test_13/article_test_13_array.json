@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Giới thiệu",
+        "type": "leaf",
+        "content": "Bánh phồng là một loại bánh truyền thống của Việt Nam, được làm từ bột nếp hoặc bột mì và thường được phục vụ trong các dịp lễ Tết. Tại Việt Nam, bánh phồng được sản xuất và tiêu thụ rộng rãi, đặc biệt là tại các làng nghề truyền thống như Sơn Đốc và Mỹ Lồng. Người dân tại đây đã sáng tạo và cải tiến ra nhiều loại bánh phồng mới, như bánh phồng nếp sữa, bánh phồng mì tráng chuối, tạo ra nhiều vị đặc trưng riêng cho bánh phồng. Với sự phát triển của công nghệ, quá trình sản xuất bánh phồng đã trở nên dễ dàng hơn, giúp tăng sản lượng và đáp ứng nhu cầu của thị trường. Hiện nay, bánh phồng không chỉ được làm vào dịp Tết mà còn được sản xuất và tiêu thụ quanh năm, trở thành một phần quan trọng của ẩm thực Việt Nam.",
+        "source": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "children": []
+    },
+    {
+        "title": "Phân loại",
+        "type": "leaf",
+        "content": "Phân loại bánh phồng tại Việt Nam khá đa dạng, với nhiều loại bánh khác nhau được sản xuất và tiêu thụ rộng rãi. Bánh phồng mì là một trong những loại bánh phổ biến, được làm từ bột mì và thường có vị ngọt nhẹ. Ngoài ra, bánh phồng nếp cũng là một loại bánh truyền thống, được làm từ bột nếp và có vị dẻo, thơm đặc trưng. Một số loại bánh phồng khác như bánh phồng tôm, bánh phồng vẽ cũng được sản xuất và bán trên thị trường, tuy nhiên thông tin về các loại bánh này còn hạn chế. Tại làng nghề Sơn Đốc, người dân đã sáng tạo và cải tiến ra nhiều loại bánh mới như bánh phồng nếp sữa, bánh phồng mì tráng chuối, tạo ra nhiều vị đặc trưng riêng cho bánh phồng ở đây.",
+        "source": [
+            1,
+            2,
+            3,
+            6,
+            7
+        ],
+        "children": []
+    },
+    {
+        "title": "Sử dụng",
+        "type": "leaf",
+        "content": "Sử dụng bánh phồng là một phần quan trọng trong văn hóa ẩm thực của người dân xứ Dừa. Để sử dụng bánh phồng, trước tiên cần chiên phồng bánh trong dầu nóng cho đến khi bánh nở và giòn. Sau đó, bánh phồng có thể được sử dụng như một món ăn khai vị hoặc món nhắm rượu. Bánh phồng thường được ăn kèm với các loại nước chấm hoặc salsa để tăng thêm hương vị. Ngoài ra, bánh phồng cũng có thể được sử dụng như một thành phần trong các món ăn khác, chẳng hạn như salad hoặc món xào. Tuy nhiên, cách sử dụng bánh phồng cụ thể có thể thay đổi tùy thuộc vào sở thích và truyền thống của từng gia đình hoặc vùng miền.",
+        "source": [
+            3,
+            4,
+            8,
+            9,
+            2
+        ],
+        "children": []
+    }
+]

@@ -1,0 +1,10 @@
+# Bánh GiòBánh giò là một loại bánh truyền thống được làm từ bột gạo tẻ, bột năng và nhân thịt nạc, được gói bằng lá chuối và hấp.
+
+Giới thiệu
+Bánh giò là một trong những món bánh truyền thống có hương vị hấp dẫn và được nhiều người yêu thích. Do có hàm lượng dưỡng chất cao, tiện lợi và thơm ngon nên nhiều gia đình đã tìm cách làm bánh giò để tự phục vụ bản thân hoặc kinh doanh. Bánh giò thơm phức, ngon miệng nên luôn là món ăn yêu thích của nhiều người, và nó có thể được dùng vào bất kỳ bữa ăn nào trong ngày, đặc biệt là bữa sáng. Chiếc bánh nóng hổi sẽ cung cấp đầy đủ dưỡng chất, giúp bạn có năng lượng làm những điều mình thích.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://daotaobeptruong.vn/cach-lam-banh-gio ({'source_id': 1, 'doc_name': 'article_test_9', 'source_type': 'web', 'chunk_index': 0})
+[2] https://daotaobeptruong.vn/cach-lam-banh-gio ({'source_id': 1, 'doc_name': 'article_test_9', 'chunk_index': 6, 'source_type': 'web'})
+[3] https://daotaobeptruong.vn/cach-lam-banh-gio ({'doc_name': 'article_test_9', 'source_id': 1, 'chunk_index': 5, 'source_type': 'web'})

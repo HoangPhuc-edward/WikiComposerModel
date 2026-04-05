@@ -1,0 +1,9 @@
+# Bánh cáyBánh cáy là đặc sản của làng Nguyễn, huyện Đông Hưng, tỉnh Thái Bình, được làm từ gạo nếp, mạch nha và các nguyên liệu khác.
+
+Giới thiệu
+Bánh cáy là một loại bánh truyền thống của làng Nguyễn, thuộc xã Nguyên Xá, huyện Đông Hưng, tỉnh Thái Bình. Tên gọi của bánh bắt nguồn từ hạt nếp cái hoa vàng đem ngâm, trộn gấc đỏ đồ xôi, rồi ép dẻo, xắt hạt lựu lại đem phơi khô, có màu vàng giống trứng con cáy nên bánh có tên gọi là bánh cáy. Vùng Thái Bình có nhiều nơi làm bánh cáy nhưng nổi tiếng hơn cả vẫn là loại bánh có xuất xứ từ làng Nguyễn. Món bánh quê tuy giản dị nhưng đòi hỏi quy trình chế biến tỉ mỉ, công phu, qua đôi bàn tay khéo léo của người làng Nguyễn, các nguyên liệu như gạo nếp, lạc, vừng, gấc, mỡ lợn, vỏ quýt hòa quyện với nhau tạo nên thứ bánh quê dân dã, vừa béo, vừa bùi. Hiện, toàn xã có khoảng 300 hộ làm bánh, cho sản lượng 120-150 tấn mỗi tháng, bánh cáy đã trở thành một thức quà quê bình dị của người dân Thái Bình.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html ({'source_type': 'web', 'chunk_index': 1, 'doc_name': 'article_test_1', 'source_id': 1})
+[2] https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html ({'doc_name': 'article_test_1', 'source_id': 1, 'chunk_index': 0, 'source_type': 'web'})

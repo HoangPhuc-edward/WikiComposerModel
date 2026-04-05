@@ -1,0 +1,69 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+Total Claims: 20
+
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Bánh cáy là đặc sản của làng Nguyễn, huyện Đông Hưng, tỉnh Thái Bình.
+3. * Bánh cáy là đặc sản của xã Đông Hưng, tỉnh Hưng Yên.
+4. * Bánh cáy có nhiều màu sắc.
+5. * Người ta chọn loại nếp ngon là nếp cái hoa vàng.
+6. * Người ta đem trộn gạo nếp đã ngâm cùng gấc để tạo màu đỏ.
+7. * Người ta đem trộn gạo nếp đã ngâm cùng quả dành dành để tạo màu vàng.
+8. * Người ta đem đồ xôi và giã thành bột dẻo như bột bánh dày.
+9. * Bột được cho ra khay đợi đến khi bột khô.
+10. * Bột khô được thái thành con cáy trong bánh cáy.
+11. * Cả nồi mạch nha được nhào trộn với những nguyên vật liệu trên.
+12. * Cả nồi mạch nha được nhào trộn với những hạt bỏng trắng tinh.
+13. * Mạch nha được đun vừa lửa đến độ dẻo cần thiết.
+14. * Bánh mềm khi được đun vừa lửa.
+15. * Bánh được lèn chặt trong những chiếc khuôn bằng gỗ hình chữ nhật.
+16. * Khuôn bằng gỗ được lót thêm vừng, lạc, mứt bí.
+17. * Bánh được để nguội trước khi dóc khuôn.
+18. * Bánh được cắt thành những thanh nhỏ sau khi dóc khuôn.
+19. * Bánh được đóng hộp sau khi cắt thành những thanh nhỏ.
+20. * Bánh cáy được xếp bên những bánh chưng, bánh dày, mâm ngũ quả trên ban thờ ngày xuân.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Bánh cáy là đặc sản của làng Nguyễn, huyện Đông Hưng, tỉnh Thái Bình.
+Result: PASS (Label: 1)
+Claim 3: * Bánh cáy là đặc sản của xã Đông Hưng, tỉnh Hưng Yên.
+Result: PASS (Label: 1)
+Claim 4: * Bánh cáy có nhiều màu sắc.
+Result: PASS (Label: 1)
+Claim 5: * Người ta chọn loại nếp ngon là nếp cái hoa vàng.
+Result: PASS (Label: 1)
+Claim 6: * Người ta đem trộn gạo nếp đã ngâm cùng gấc để tạo màu đỏ.
+Result: PASS (Label: 1)
+Claim 7: * Người ta đem trộn gạo nếp đã ngâm cùng quả dành dành để tạo màu vàng.
+Result: PASS (Label: 1)
+Claim 8: * Người ta đem đồ xôi và giã thành bột dẻo như bột bánh dày.
+Result: PASS (Label: 1)
+Claim 9: * Bột được cho ra khay đợi đến khi bột khô.
+Result: PASS (Label: 1)
+Claim 10: * Bột khô được thái thành con cáy trong bánh cáy.
+Result: PASS (Label: 1)
+Claim 11: * Cả nồi mạch nha được nhào trộn với những nguyên vật liệu trên.
+Result: PASS (Label: 1)
+Claim 12: * Cả nồi mạch nha được nhào trộn với những hạt bỏng trắng tinh.
+Result: PASS (Label: 1)
+Claim 13: * Mạch nha được đun vừa lửa đến độ dẻo cần thiết.
+Result: PASS (Label: 1)
+Claim 14: * Bánh mềm khi được đun vừa lửa.
+Result: PASS (Label: 1)
+Claim 15: * Bánh được lèn chặt trong những chiếc khuôn bằng gỗ hình chữ nhật.
+Result: PASS (Label: 1)
+Claim 16: * Khuôn bằng gỗ được lót thêm vừng, lạc, mứt bí.
+Result: PASS (Label: 1)
+Claim 17: * Bánh được để nguội trước khi dóc khuôn.
+Result: PASS (Label: 1)
+Claim 18: * Bánh được cắt thành những thanh nhỏ sau khi dóc khuôn.
+Result: PASS (Label: 1)
+Claim 19: * Bánh được đóng hộp sau khi cắt thành những thanh nhỏ.
+Result: PASS (Label: 1)
+Claim 20: * Bánh cáy được xếp bên những bánh chưng, bánh dày, mâm ngũ quả trên ban thờ ngày xuân.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 1.0000 (20/20)

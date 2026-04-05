@@ -1,0 +1,105 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+Total Claims: 32
+
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Bánh phu thê là một loại bánh ngọt cổ truyền của Việt Nam.
+3. * Đình Bảng là nơi gắn bó với phát tích của triều Lý.
+4. * Đình Bảng là nơi đầu tiên làm ra bánh phu thê.
+5. * Tên bánh phu thê được vua Lý Anh Tông đặt.
+6. * Gạo nếp cái hoa vàng thơm ngon được dùng để làm bánh phu thê.
+7. * Gạo phải được vo sạch và để ráo nước trước khi giã.
+8. * Gạo không được xay bằng máy.
+9. * Gạo được giã bằng cối.
+10. * Tinh bột gạo được lọc lấy sau khi giã.
+11. * Một cân gạo nếp cái hoa vàng chỉ lấy được 4 lạng tinh bột.
+12. * Bột lọc phải được xay cho thật nhuyễn.
+13. * Bột lọc phải được phơi hoặc sấy khô trong 15 ngày.
+14. * Nhân bánh là đỗ xanh ngâm kỹ đãi sạch vỏ.
+15. * Đỗ xanh được hấp chín và nghiền mịn.
+16. * Đỗ xanh được thắng với đường và trộn lẫn vài sợi dừa.
+17. * Bánh thường được cắt làm bốn khi ăn.
+18. * Trong nhân bánh có 4 hạt sen được đặt ở 4 góc.
+19. * Bánh có màu vàng ươm trong suốt.
+20. * Màu vàng của vỏ bánh được tạo thành từ hoa/quả dành dành.
+21. * Hoa dành dành được phơi khô trước khi sử dụng.
+22. * Hoa dành dành được ngâm vào nước sôi để chiết xuất nước có màu vàng.
+23. * Nước có màu vàng được trộn vào bột để tạo màu bánh.
+24. * Bánh được gói bằng hai thứ lá.
+25. * Bên trong là lớp lá chuối chống dính.
+26. * Ngoài cùng là lớp lá dừa.
+27. * Bánh có thể được đặt trong hộp giấy màu đỏ trên tráp ăn hỏi.
+28. * Luộc bánh tốt nhất là luộc bằng bếp củi đun vừa lửa.
+29. * Bánh được sử dụng như một lễ vật đựng trong các tráp ăn hỏi.
+30. * Bánh được dùng làm món tráng miệng trong đám cưới.
+31. * Mizubotan là loại bánh chứa nhân mứt đậu trắng trộn màu thực phẩm đỏ.
+32. * Lớp vỏ của Mizubotan làm từ tinh bột nếp hay bột sắn dây.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Bánh phu thê là một loại bánh ngọt cổ truyền của Việt Nam.
+Result: PASS (Label: 1)
+Claim 3: * Đình Bảng là nơi gắn bó với phát tích của triều Lý.
+Result: PASS (Label: 1)
+Claim 4: * Đình Bảng là nơi đầu tiên làm ra bánh phu thê.
+Result: PASS (Label: 1)
+Claim 5: * Tên bánh phu thê được vua Lý Anh Tông đặt.
+Result: PASS (Label: 1)
+Claim 6: * Gạo nếp cái hoa vàng thơm ngon được dùng để làm bánh phu thê.
+Result: PASS (Label: 1)
+Claim 7: * Gạo phải được vo sạch và để ráo nước trước khi giã.
+Result: PASS (Label: 1)
+Claim 8: * Gạo không được xay bằng máy.
+Result: PASS (Label: 1)
+Claim 9: * Gạo được giã bằng cối.
+Result: PASS (Label: 1)
+Claim 10: * Tinh bột gạo được lọc lấy sau khi giã.
+Result: PASS (Label: 1)
+Claim 11: * Một cân gạo nếp cái hoa vàng chỉ lấy được 4 lạng tinh bột.
+Result: PASS (Label: 1)
+Claim 12: * Bột lọc phải được xay cho thật nhuyễn.
+Result: PASS (Label: 1)
+Claim 13: * Bột lọc phải được phơi hoặc sấy khô trong 15 ngày.
+Result: PASS (Label: 1)
+Claim 14: * Nhân bánh là đỗ xanh ngâm kỹ đãi sạch vỏ.
+Result: PASS (Label: 1)
+Claim 15: * Đỗ xanh được hấp chín và nghiền mịn.
+Result: PASS (Label: 1)
+Claim 16: * Đỗ xanh được thắng với đường và trộn lẫn vài sợi dừa.
+Result: PASS (Label: 1)
+Claim 17: * Bánh thường được cắt làm bốn khi ăn.
+Result: PASS (Label: 1)
+Claim 18: * Trong nhân bánh có 4 hạt sen được đặt ở 4 góc.
+Result: PASS (Label: 1)
+Claim 19: * Bánh có màu vàng ươm trong suốt.
+Result: PASS (Label: 1)
+Claim 20: * Màu vàng của vỏ bánh được tạo thành từ hoa/quả dành dành.
+Result: PASS (Label: 1)
+Claim 21: * Hoa dành dành được phơi khô trước khi sử dụng.
+Result: PASS (Label: 1)
+Claim 22: * Hoa dành dành được ngâm vào nước sôi để chiết xuất nước có màu vàng.
+Result: PASS (Label: 1)
+Claim 23: * Nước có màu vàng được trộn vào bột để tạo màu bánh.
+Result: PASS (Label: 1)
+Claim 24: * Bánh được gói bằng hai thứ lá.
+Result: PASS (Label: 1)
+Claim 25: * Bên trong là lớp lá chuối chống dính.
+Result: PASS (Label: 1)
+Claim 26: * Ngoài cùng là lớp lá dừa.
+Result: PASS (Label: 1)
+Claim 27: * Bánh có thể được đặt trong hộp giấy màu đỏ trên tráp ăn hỏi.
+Result: PASS (Label: 1)
+Claim 28: * Luộc bánh tốt nhất là luộc bằng bếp củi đun vừa lửa.
+Result: PASS (Label: 1)
+Claim 29: * Bánh được sử dụng như một lễ vật đựng trong các tráp ăn hỏi.
+Result: PASS (Label: 1)
+Claim 30: * Bánh được dùng làm món tráng miệng trong đám cưới.
+Result: PASS (Label: 1)
+Claim 31: * Mizubotan là loại bánh chứa nhân mứt đậu trắng trộn màu thực phẩm đỏ.
+Result: PASS (Label: 1)
+Claim 32: * Lớp vỏ của Mizubotan làm từ tinh bột nếp hay bột sắn dây.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 1.0000 (32/32)

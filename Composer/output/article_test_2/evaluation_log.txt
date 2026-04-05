@@ -1,0 +1,19 @@
+--- BÀI VIẾT CỦA AI (SESSION: article_test_2) ---
+# Bánh đa cuaBánh đa cua là một món ăn phổ biến và đặc trưng trong ẩm thực Hải Phòng, được chế biến từ cua đồng, bánh đa đỏ và các nguyên liệu khác.
+
+Giới thiệu
+Bánh đa cua là một món ăn đặc trưng của ẩm thực Hải Phòng, được nhiều người ưa thích không chỉ ở địa phương mà còn ở các vùng khác. Món ăn này thể hiện được cả sự ngon mắt và ngon miệng, với thành phần chính là cua đồng, bánh đa, rau muống, rau nhút, tạo nên một hương vị thanh ngọt và mát lành. Người dân Hải Phòng đã khéo léo chế biến những nguyên liệu dân dã này thành một món ăn hấp dẫn, mang đến cho người ăn cảm giác ngon miệng và thỏa mãn. Bánh đa cua cũng là một trong những món ăn được nhiều người ưa thích ở Sài Gòn, không chỉ vì hương vị ngon mà còn vì sự bình dị và gần gũi của nó. Với nước dùng được nấu từ nước lọc cua, món ăn này có vị ngọt thanh và thoang thoảng mùi thơm nhẹ, tạo nên sự khác biệt và sức hấp dẫn cho bánh đa cua.
+
+Thành phần
+Thành phần của bánh đa cua bao gồm các nguyên liệu cơ bản như bánh đa, cua, rau muống, hành lá, chả cá, và các gia vị như me chua, muối mặn, nước mắm Cát Hải, cà chua, tóp mỡ phi vàng ruộm. Ngoài ra, để làm bánh đa cua, người ta cũng cần thêm một số nguyên liệu khác như hành khô, và các loại rau thơm khác. Tuy nhiên, cần lưu ý rằng thành phần cụ thể có thể thay đổi tùy thuộc vào loại bánh đa cua, chẳng hạn như bánh đa cua đồng hoặc bánh đa cua bể.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] http://suckhoe.vnexpress.net/tin-tuc/cac-benh/thuoc-va-thuc-pham/dam-da-banh-da-cua-hai-phong-2307154.html ({'source_type': 'web', 'doc_name': 'article_test_2', 'source_id': 4, 'chunk_index': 0})
+[2] http://suckhoe.vnexpress.net/tin-tuc/cac-benh/thuoc-va-thuc-pham/dam-da-banh-da-cua-hai-phong-2307154.html ({'source_id': 4, 'source_type': 'web', 'doc_name': 'article_test_2', 'chunk_index': 1})
+[3] https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html ({'source_id': 1, 'chunk_index': 2, 'source_type': 'web', 'doc_name': 'article_test_2'})
+[4] https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html ({'source_type': 'web', 'source_id': 1, 'chunk_index': 1, 'doc_name': 'article_test_2'})
+[5] https://vnexpress.net/du-lich/hai-mon-ngon-tu-cua-o-hai-phong-3363141.html ({'source_id': 3, 'doc_name': 'article_test_2', 'source_type': 'web', 'chunk_index': 2})
+
+--- KẾT QUẢ ĐÁNH GIÁ SẼ ĐƯỢC CẬP NHẬT DƯỚI ĐÂY ---
+Recall: 50.0 | Precision: 50.0 | Correctness: 0.9210526315789473

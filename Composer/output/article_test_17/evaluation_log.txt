@@ -1,0 +1,16 @@
+--- BÀI VIẾT CỦA AI (SESSION: article_test_17) ---
+# Bánh CốngBánh cống là một món ăn đặc sản của người Khmer Nam bộ ở tỉnh Sóc Trăng, Việt Nam.
+
+Giới thiệu
+Bánh cống là một món ăn đặc sản nổi tiếng ở Sóc Trăng, đặc biệt là ở xã Đại Tâm của huyện Mỹ Xuyên. Đây là một món ăn khoái khẩu của nhiều người, và khi nhắc đến Sóc Trăng, người ta thường nghĩ đến bánh cống và bánh bía. Bánh cống Sóc Trăng đã trở thành một biểu tượng của ẩm thực địa phương, với công thức và cách làm riêng biệt. Những người làm bánh cống ở đây đã gắn bó với nghề nhiều năm, và họ đã tạo ra những chiếc bánh cống ngon nhất, khiến du khách từ khắp nơi đến để thưởng thức. Với vị ngon đặc trưng và cách làm truyền thống, bánh cống Sóc Trăng đã trở thành một phần không thể thiếu của văn hóa ẩm thực miền Tây.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://www.youtube.com/watch?v=C7EagWTNi3s ({'source_type': 'youtube', 'doc_name': 'article_test_17', 'end_seconds': 300.56, 'source_id': 1, 'start_seconds': 295.24, 'chunk_index': 85})
+[2] https://www.youtube.com/watch?v=C7EagWTNi3s ({'start_seconds': 28.32, 'doc_name': 'article_test_17', 'end_seconds': 32.719, 'source_type': 'youtube', 'chunk_index': 5, 'source_id': 1})
+[3] https://www.youtube.com/watch?v=C7EagWTNi3s ({'chunk_index': 11, 'end_seconds': 46.239, 'doc_name': 'article_test_17', 'start_seconds': 41.44, 'source_id': 1, 'source_type': 'youtube'})
+[4] https://www.youtube.com/watch?v=C7EagWTNi3s ({'doc_name': 'article_test_17', 'start_seconds': 271.199, 'source_id': 1, 'source_type': 'youtube', 'chunk_index': 77, 'end_seconds': 278.199})
+[5] https://www.youtube.com/watch?v=C7EagWTNi3s ({'start_seconds': 99.28, 'end_seconds': 105.2, 'chunk_index': 25, 'doc_name': 'article_test_17', 'source_type': 'youtube', 'source_id': 1})
+
+--- KẾT QUẢ ĐÁNH GIÁ SẼ ĐƯỢC CẬP NHẬT DƯỚI ĐÂY ---
+Recall: 100.0 | Precision: 100.0 | Correctness: 0.9230769230769231

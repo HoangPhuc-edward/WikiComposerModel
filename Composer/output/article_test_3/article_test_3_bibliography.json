@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "http://tuoitre.vn/Ao-trang/334019/Banh-hoi-dat-vo.html",
+        "locator": {
+            "source_id": 1,
+            "doc_name": "article_test_3",
+            "chunk_index": 0,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 2,
+        "name": "http://tuoitre.vn/Ao-trang/334019/Banh-hoi-dat-vo.html",
+        "locator": {
+            "doc_name": "article_test_3",
+            "source_id": 1,
+            "source_type": "web",
+            "chunk_index": 2
+        }
+    },
+    {
+        "id": 3,
+        "name": "http://tuoitre.vn/Ao-trang/334019/Banh-hoi-dat-vo.html",
+        "locator": {
+            "source_type": "web",
+            "doc_name": "article_test_3",
+            "chunk_index": 1,
+            "source_id": 1
+        }
+    },
+    {
+        "id": 4,
+        "name": "http://tuoitre.vn/Ao-trang/334019/Banh-hoi-dat-vo.html",
+        "locator": {
+            "source_id": 1,
+            "chunk_index": 3,
+            "source_type": "web",
+            "doc_name": "article_test_3"
+        }
+    }
+]

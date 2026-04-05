@@ -1,0 +1,38 @@
+{
+    "session_id": "article_test_15",
+    "full_content_parsed": [
+        {
+            "content": "Bưởi Luận Văn là một giống bưởi quý, có hình bầu dục và đỉnh quả lồi, với đường kính quả từ 15cm đến 15,62 cm và chiều cao quả từ 15cm đến 15,82cm. Khi còn nhỏ, bưởi Luận Văn có màu xanh, nhưng khi chín, nó chuyển dần sang màu đỏ rất đẹp mắt, có mùi thơm đặc trưng, cùi màu phớt hồng, múi quả khá đều, tép màu đỏ tươi có vị ngọt nhẹ, chua dịu. Ưu thế nổi bật của bưởi Luận Văn là màu sắc vỏ hấp dẫn, có mùi thơm, bảo quản được lâu, và thời gian thu hoạch lại trùng vào đúng tết âm lịch, nên nhu cầu tiêu thụ rất cao. Danh tiếng, tính chất và chất lượng đặc thù của bưởi Luận Văn là do điều kiện thổ nhưỡng rất phù hợp với điều kiện sinh trưởng và phát triển của cây bưởi, với đất được hình thành từ sản phẩm phong hóa của các loại đá mẹ và mẫu chất tích tụ từ tác động của sông – biển, và được trồng trên 2 loại đất chính là đất đỏ vàng trên đá sét và đá biến chất hoặc đất phù sa có tầng loang lổ đỏ vàng, tầng đất mặt dày và tơi xốp.",
+            "source_ids": [
+                1,
+                2
+            ]
+        }
+    ],
+    "source_map_loaded": {
+        "1": "BẢO HỘ CHỈ DẪN ĐỊA LÝ “LUẬN VĂN” CHO SẢN PHẨM BƯỞI",
+        "2": "BẢO HỘ CHỈ DẪN ĐỊA LÝ “LUẬN VĂN” CHO SẢN PHẨM BƯỞI"
+    },
+    "bibliography_reference": [
+        {
+            "id": 1,
+            "name": "source/data6.txt",
+            "locator": {
+                "chunk_index": 6,
+                "doc_name": "article_test_15",
+                "source_id": 1,
+                "source_type": "txt"
+            }
+        },
+        {
+            "id": 2,
+            "name": "source/data6.txt",
+            "locator": {
+                "source_type": "txt",
+                "chunk_index": 9,
+                "doc_name": "article_test_15",
+                "source_id": 1
+            }
+        }
+    ]
+}

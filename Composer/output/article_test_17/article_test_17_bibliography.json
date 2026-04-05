@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "https://www.youtube.com/watch?v=C7EagWTNi3s",
+        "locator": {
+            "source_type": "youtube",
+            "doc_name": "article_test_17",
+            "end_seconds": 300.56,
+            "source_id": 1,
+            "start_seconds": 295.24,
+            "chunk_index": 85
+        }
+    },
+    {
+        "id": 2,
+        "name": "https://www.youtube.com/watch?v=C7EagWTNi3s",
+        "locator": {
+            "start_seconds": 28.32,
+            "doc_name": "article_test_17",
+            "end_seconds": 32.719,
+            "source_type": "youtube",
+            "chunk_index": 5,
+            "source_id": 1
+        }
+    },
+    {
+        "id": 3,
+        "name": "https://www.youtube.com/watch?v=C7EagWTNi3s",
+        "locator": {
+            "chunk_index": 11,
+            "end_seconds": 46.239,
+            "doc_name": "article_test_17",
+            "start_seconds": 41.44,
+            "source_id": 1,
+            "source_type": "youtube"
+        }
+    },
+    {
+        "id": 4,
+        "name": "https://www.youtube.com/watch?v=C7EagWTNi3s",
+        "locator": {
+            "doc_name": "article_test_17",
+            "start_seconds": 271.199,
+            "source_id": 1,
+            "source_type": "youtube",
+            "chunk_index": 77,
+            "end_seconds": 278.199
+        }
+    },
+    {
+        "id": 5,
+        "name": "https://www.youtube.com/watch?v=C7EagWTNi3s",
+        "locator": {
+            "start_seconds": 99.28,
+            "end_seconds": 105.2,
+            "chunk_index": 25,
+            "doc_name": "article_test_17",
+            "source_type": "youtube",
+            "source_id": 1
+        }
+    }
+]

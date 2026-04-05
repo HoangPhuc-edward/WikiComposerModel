@@ -1,0 +1,105 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+Total Claims: 32
+
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Trà sen là loại trà ướp hương sen.
+3. * Trà sen là một loại trà đại diện của văn hóa trà Việt Nam.
+4. * Trà sen đóng góp vào nền văn hóa trà thế giới.
+5. * Trà sen là tinh thần đặc trưng của văn hóa trà Việt Nam.
+6. * Trà sen mang nhiều triết lý, lịch sự và lòng kính trọng.
+7. * Nơi lý tưởng để thưởng thức trà sen cổ truyền là dưới mái hiên.
+8. * Người uống trà ngồi xếp bằng trên sập gỗ khi thưởng thức trà sen.
+9. * Cảnh quan lý tưởng để thưởng thức trà sen là trông ra hồ sen xanh ngát.
+10. * Người uống trà có thể ngắm cảnh, làm thơ, hàn huyên tâm sự hay trầm ngâm tự tại.
+11. * Để có trà ngon, chỉ hái những búp trà loại "một tôm hai lá".
+12. * Búp trà phải hái nhanh, nhẹ nhàng, không để búp bị nhàu nát.
+13. * Loại trà ngon là sau khi sao phải còn lại một lượng nước nhất định từ 5-7%.
+14. * Trà hái xong không ướp hương ngay mà phải để trong chum đất.
+15. * Trà phải ủ lá chuối, ướp từ 20-30 ngày để làm giảm độ chát.
+16. * Trà ướp hương sen cần có 1000-1400 bông sen.
+17. * Sen phải đúng loại sen ở đầm Đồng Trị, Thủy Sứ, làng Quảng Bá, Hồ Tây.
+18. * Sen ở đầm Đồng Trị, Thủy Sứ, làng Quảng Bá, Hồ Tây có trăm cánh và hương thơm đặc biệt.
+19. * Sen được hái khi trời vừa mới ửng sáng, lúc còn e ấp hơi sương.
+20. * Bông sen còn đẫm sương được tách lấy phần hạt gạo.
+21. * Hạt gạo sen được rải đều, cứ một lớp trà một lớp gạo sen.
+22. * Quá trình ướp trà sen cần 7-9 lần ướp.
+23. * Mỗi lần ướp xong lại sấy khô rồi mới ướp tiếp.
+24. * Một ấm trà sen có thể uống hàng chục tuần trà.
+25. * Nước trong rồi, hương sen còn ngan ngát.
+26. * Cách ướp trà sen là độc đáo có một không hai trên thế giới.
+27. * Khi hoàng hôn, các thiếu nữ chèo thuyền ra chọn những bông sen đang còn hé nụ.
+28. * Các thiếu nữ bỏ những bông sen vào một dúm trà nhỏ.
+29. * Sớm hôm sau, các thiếu nữ lại chèo thuyền ra lấy lại những dúm trà đó.
+30. * Trà rất thơm hương tự nhiên của đất trời trong suốt đêm dài.
+31. * Nước pha trà được hứng từ những lá sen còn đọng sương sớm.
+32. * Đây chính là thiên cổ đệ nhất trà.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Trà sen là loại trà ướp hương sen.
+Result: FAIL (Label: 0)
+Claim 3: * Trà sen là một loại trà đại diện của văn hóa trà Việt Nam.
+Result: FAIL (Label: 0)
+Claim 4: * Trà sen đóng góp vào nền văn hóa trà thế giới.
+Result: PASS (Label: 1)
+Claim 5: * Trà sen là tinh thần đặc trưng của văn hóa trà Việt Nam.
+Result: FAIL (Label: 0)
+Claim 6: * Trà sen mang nhiều triết lý, lịch sự và lòng kính trọng.
+Result: FAIL (Label: 0)
+Claim 7: * Nơi lý tưởng để thưởng thức trà sen cổ truyền là dưới mái hiên.
+Result: PASS (Label: 1)
+Claim 8: * Người uống trà ngồi xếp bằng trên sập gỗ khi thưởng thức trà sen.
+Result: PASS (Label: 1)
+Claim 9: * Cảnh quan lý tưởng để thưởng thức trà sen là trông ra hồ sen xanh ngát.
+Result: PASS (Label: 1)
+Claim 10: * Người uống trà có thể ngắm cảnh, làm thơ, hàn huyên tâm sự hay trầm ngâm tự tại.
+Result: PASS (Label: 1)
+Claim 11: * Để có trà ngon, chỉ hái những búp trà loại "một tôm hai lá".
+Result: PASS (Label: 1)
+Claim 12: * Búp trà phải hái nhanh, nhẹ nhàng, không để búp bị nhàu nát.
+Result: PASS (Label: 1)
+Claim 13: * Loại trà ngon là sau khi sao phải còn lại một lượng nước nhất định từ 5-7%.
+Result: PASS (Label: 1)
+Claim 14: * Trà hái xong không ướp hương ngay mà phải để trong chum đất.
+Result: PASS (Label: 1)
+Claim 15: * Trà phải ủ lá chuối, ướp từ 20-30 ngày để làm giảm độ chát.
+Result: PASS (Label: 1)
+Claim 16: * Trà ướp hương sen cần có 1000-1400 bông sen.
+Result: PASS (Label: 1)
+Claim 17: * Sen phải đúng loại sen ở đầm Đồng Trị, Thủy Sứ, làng Quảng Bá, Hồ Tây.
+Result: PASS (Label: 1)
+Claim 18: * Sen ở đầm Đồng Trị, Thủy Sứ, làng Quảng Bá, Hồ Tây có trăm cánh và hương thơm đặc biệt.
+Result: PASS (Label: 1)
+Claim 19: * Sen được hái khi trời vừa mới ửng sáng, lúc còn e ấp hơi sương.
+Result: PASS (Label: 1)
+Claim 20: * Bông sen còn đẫm sương được tách lấy phần hạt gạo.
+Result: PASS (Label: 1)
+Claim 21: * Hạt gạo sen được rải đều, cứ một lớp trà một lớp gạo sen.
+Result: FAIL (Label: 0)
+Claim 22: * Quá trình ướp trà sen cần 7-9 lần ướp.
+Result: PASS (Label: 1)
+Claim 23: * Mỗi lần ướp xong lại sấy khô rồi mới ướp tiếp.
+Result: PASS (Label: 1)
+Claim 24: * Một ấm trà sen có thể uống hàng chục tuần trà.
+Result: PASS (Label: 1)
+Claim 25: * Nước trong rồi, hương sen còn ngan ngát.
+Result: PASS (Label: 1)
+Claim 26: * Cách ướp trà sen là độc đáo có một không hai trên thế giới.
+Result: PASS (Label: 1)
+Claim 27: * Khi hoàng hôn, các thiếu nữ chèo thuyền ra chọn những bông sen đang còn hé nụ.
+Result: PASS (Label: 1)
+Claim 28: * Các thiếu nữ bỏ những bông sen vào một dúm trà nhỏ.
+Result: PASS (Label: 1)
+Claim 29: * Sớm hôm sau, các thiếu nữ lại chèo thuyền ra lấy lại những dúm trà đó.
+Result: PASS (Label: 1)
+Claim 30: * Trà rất thơm hương tự nhiên của đất trời trong suốt đêm dài.
+Result: PASS (Label: 1)
+Claim 31: * Nước pha trà được hứng từ những lá sen còn đọng sương sớm.
+Result: PASS (Label: 1)
+Claim 32: * Đây chính là thiên cổ đệ nhất trà.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 0.8438 (27/32)

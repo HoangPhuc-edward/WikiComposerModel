@@ -1,0 +1,96 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+Total Claims: 29
+
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Chè kho là một món ngọt phổ biến ở đồng bằng Bắc Bộ.
+3. * Chè kho thường được làm để cúng rằm.
+4. * Chè kho thường được làm để cúng mồng một.
+5. * Chè kho thường được làm để cúng giỗ chạp.
+6. * Chè kho thường được làm để cúng lễ Tết.
+7. * Chè kho được bày bán ở các chợ quê.
+8. * Chè kho đậu xanh làm từ đậu xanh và đường.
+9. * Chè kho đậu xanh có màu vàng đẹp.
+10. * Chè kho đậu xanh có thể thêm dầu chuối hoặc vani và vừng rang.
+11. * Đậu xanh ngon ngâm nước 6-8 tiếng rồi đãi vỏ.
+12. * Đậu xanh đem đồ chín và đánh tơi.
+13. * Chè kho đậu xanh cho đậu vào nước đường khuấy đều tay đến khi quánh lại.
+14. * Chè kho đậu xanh có thể bảo quản 3-4 ngày khi trời nóng.
+15. * Chè kho đậu xanh có thể bảo quản tới 10 ngày khi trời rét hoặc trong tủ lạnh.
+16. * Chè kho mật nếp còn gọi là chè con ong.
+17. * Chè kho mật nếp làm từ gạo nếp, mật mía, gừng, lạc và vừng rang.
+18. * Gạo nếp ngon đem ngâm 4-5 tiếng.
+19. * Gạo nếp cho vào chõ đồ thành xôi.
+20. * Gạo nếp có thể cho vào nồi cơm điện và nấu như nấu cơm.
+21. * Gừng giã nhỏ, cho vào đun cùng mật mía tạo ra màu nâu đẹp mắt.
+22. * Mật mía tạo ra màu nâu đẹp mắt.
+23. * Đường đỏ dùng để thay thế mật mía.
+24. * Chè kho mật nếp cho xôi vào hỗn hợp mật và đảo đều tay.
+25. * Chè kho mật nếp đun lửa vừa để không bị cháy.
+26. * Chè kho mật nếp có thể để được 2-3 ngày ở nhiệt độ phòng.
+27. * Sách giáo khoa Ngữ văn 11 có tác phẩm Vợ nhặt của nhà văn Kim Lân.
+28. * Tác phẩm Vợ nhặt có món Chè khoán của bà cụ Tứ.
+29. * Món Chè khoán của bà cụ Tứ được nấu từ cám lợn thay vì đậu xanh.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Chè kho là một món ngọt phổ biến ở đồng bằng Bắc Bộ.
+Result: PASS (Label: 1)
+Claim 3: * Chè kho thường được làm để cúng rằm.
+Result: PASS (Label: 1)
+Claim 4: * Chè kho thường được làm để cúng mồng một.
+Result: PASS (Label: 1)
+Claim 5: * Chè kho thường được làm để cúng giỗ chạp.
+Result: PASS (Label: 1)
+Claim 6: * Chè kho thường được làm để cúng lễ Tết.
+Result: PASS (Label: 1)
+Claim 7: * Chè kho được bày bán ở các chợ quê.
+Result: PASS (Label: 1)
+Claim 8: * Chè kho đậu xanh làm từ đậu xanh và đường.
+Result: PASS (Label: 1)
+Claim 9: * Chè kho đậu xanh có màu vàng đẹp.
+Result: PASS (Label: 1)
+Claim 10: * Chè kho đậu xanh có thể thêm dầu chuối hoặc vani và vừng rang.
+Result: PASS (Label: 1)
+Claim 11: * Đậu xanh ngon ngâm nước 6-8 tiếng rồi đãi vỏ.
+Result: PASS (Label: 1)
+Claim 12: * Đậu xanh đem đồ chín và đánh tơi.
+Result: PASS (Label: 1)
+Claim 13: * Chè kho đậu xanh cho đậu vào nước đường khuấy đều tay đến khi quánh lại.
+Result: PASS (Label: 1)
+Claim 14: * Chè kho đậu xanh có thể bảo quản 3-4 ngày khi trời nóng.
+Result: PASS (Label: 1)
+Claim 15: * Chè kho đậu xanh có thể bảo quản tới 10 ngày khi trời rét hoặc trong tủ lạnh.
+Result: PASS (Label: 1)
+Claim 16: * Chè kho mật nếp còn gọi là chè con ong.
+Result: PASS (Label: 1)
+Claim 17: * Chè kho mật nếp làm từ gạo nếp, mật mía, gừng, lạc và vừng rang.
+Result: PASS (Label: 1)
+Claim 18: * Gạo nếp ngon đem ngâm 4-5 tiếng.
+Result: PASS (Label: 1)
+Claim 19: * Gạo nếp cho vào chõ đồ thành xôi.
+Result: PASS (Label: 1)
+Claim 20: * Gạo nếp có thể cho vào nồi cơm điện và nấu như nấu cơm.
+Result: PASS (Label: 1)
+Claim 21: * Gừng giã nhỏ, cho vào đun cùng mật mía tạo ra màu nâu đẹp mắt.
+Result: PASS (Label: 1)
+Claim 22: * Mật mía tạo ra màu nâu đẹp mắt.
+Result: PASS (Label: 1)
+Claim 23: * Đường đỏ dùng để thay thế mật mía.
+Result: PASS (Label: 1)
+Claim 24: * Chè kho mật nếp cho xôi vào hỗn hợp mật và đảo đều tay.
+Result: PASS (Label: 1)
+Claim 25: * Chè kho mật nếp đun lửa vừa để không bị cháy.
+Result: PASS (Label: 1)
+Claim 26: * Chè kho mật nếp có thể để được 2-3 ngày ở nhiệt độ phòng.
+Result: PASS (Label: 1)
+Claim 27: * Sách giáo khoa Ngữ văn 11 có tác phẩm Vợ nhặt của nhà văn Kim Lân.
+Result: PASS (Label: 1)
+Claim 28: * Tác phẩm Vợ nhặt có món Chè khoán của bà cụ Tứ.
+Result: PASS (Label: 1)
+Claim 29: * Món Chè khoán của bà cụ Tứ được nấu từ cám lợn thay vì đậu xanh.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 1.0000 (29/29)

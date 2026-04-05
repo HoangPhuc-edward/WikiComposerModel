@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "https://daotaobeptruong.vn/cach-lam-banh-gio",
+        "locator": {
+            "source_id": 1,
+            "doc_name": "article_test_9",
+            "source_type": "web",
+            "chunk_index": 0
+        }
+    },
+    {
+        "id": 2,
+        "name": "https://daotaobeptruong.vn/cach-lam-banh-gio",
+        "locator": {
+            "source_id": 1,
+            "doc_name": "article_test_9",
+            "chunk_index": 6,
+            "source_type": "web"
+        }
+    },
+    {
+        "id": 3,
+        "name": "https://daotaobeptruong.vn/cach-lam-banh-gio",
+        "locator": {
+            "doc_name": "article_test_9",
+            "source_id": 1,
+            "chunk_index": 5,
+            "source_type": "web"
+        }
+    }
+]

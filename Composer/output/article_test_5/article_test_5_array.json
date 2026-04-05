@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Giới thiệu",
+        "type": "leaf",
+        "content": "Chả chìa là một món ăn dân dã và mộc mạc của Hội An và xứ Quảng, được làm từ nguyên liệu chính là thịt heo nạc. Người làm chả phải lấy được thịt từ heo vừa mới mổ, thịt còn nóng hổi, sau đó chọn thớ nạc, dùng giẻ vải sạch lau cho ráo và lọc bỏ hết phần gân, mỡ còn dính. Món chả chìa này rất được ưa chuộng trong các bữa tiệc liên hoan, hội hè, đình đám, và không chỉ được yêu thích ở địa phương mà còn được thực khách khắp mọi miền của đất nước và cả nước ngoài ưa chuộng. Đối với cánh mày râu, trong bữa tiệc nhậu với bạn bè, người thân, để thưởng thức hết vị thơm ngon, món chả chìa còn được kết hợp với vài xị rượu gạo hoặc chầu bia.",
+        "source": [
+            1,
+            2
+        ],
+        "children": []
+    },
+    {
+        "title": "Chế biến",
+        "type": "leaf",
+        "content": "Chế biến chả chìa là một quá trình đòi hỏi sự khéo léo và tài tình của người phố Hội. Đầu tiên, người làm chả phải lấy thịt heo nạc từ heo vừa mới mổ, thịt còn nóng hổi, sau đó chọn thớ nạc, dùng giẻ vải sạch lau cho ráo, lọc bỏ hết phần gân, mỡ còn dính. Tiếp theo, thịt được xắt và giã cho vừa nhuyễn vừa dai, điều chỉnh độ giã nhẹ, mạnh khác nhau để đạt được yêu cầu. Sau đó, cho thêm một ít tiêu hạt, riềng, nấm thái nhỏ, tôm vào và tiếp tục giã dăm ba phút nữa, rồi lấy ra đựng trong thau có lót lá chuối, trộn đều, bóp thuần thục hỗn hợp vừa được giã nhuyễn. Quá trình này đòi hỏi sự chính xác về liều lượng gia vị, nếu không sẽ mất ngon hoặc không thấm thía.",
+        "source": [
+            3,
+            4
+        ],
+        "children": []
+    },
+    {
+        "title": "Các biến thể",
+        "type": "leaf",
+        "content": "Các biến thể của chả chìa bao gồm chả chìa Hạ Lũng và chả chìa Hội An, mỗi biến thể có cách chế biến riêng và mang lại hương vị đặc trưng. Chả chìa Hạ Lũng được làm bằng sườn heo chặt khúc ngắn, tuốt thịt về một đầu, đầu còn lại để làm tay cầm, sau đó rán vàng và rang ngọt. Trong khi đó, chả chìa Hội An có cách chế biến riêng, với bí quyết cổ truyền được truyền tải qua nhiều thế hệ, tạo nên hương vị đậm đà và đặc trưng của món ăn này. Khi thưởng thức chả chìa tại Hội An, thực khách có thể cảm nhận được sự khác biệt so với các biến thể khác, và chỉ khi được thưởng thức món chả chìa do chính tay người dân nơi đây chế biến, mới có thể cảm nhận hết được hương vị đặc trưng của nó.",
+        "source": [
+            5,
+            6
+        ],
+        "children": []
+    },
+    {
+        "title": "Chả chìa Hạ Lũng",
+        "type": "leaf",
+        "content": "Chả chìa Hạ Lũng là một món ăn đặc sản của Hải Phòng, được làm từ nguyên liệu chính là thịt heo nạc. Người làm chả phải lấy được thịt từ heo vừa mới mổ, thịt còn nóng hổi. Thịt lấy về chọn thớ nạc, dùng giẻ vải sạch lau cho ráo, lọc bỏ hết phần gân, mỡ còn dính. Công đoạn tiếp theo là xắt thịt sao cho thật mỏng. Món chả chìa này đã góp phần giúp cho thực khách khắp mọi miền của đất nước và cả nước ngoài thấy yêu hơn, nhớ hơn vùng đất này.",
+        "source": [
+            7,
+            8
+        ],
+        "children": []
+    },
+    {
+        "title": "Chả chìa Hội An",
+        "type": "leaf",
+        "content": "Chả chìa Hội An là một món ăn rất được ưa chuộng trong các bữa tiệc liên hoan, hội hè, đình đám tại Hội An và xứ Quảng. Món ăn dân dã, mộc mạc này đã góp phần giúp cho thực khách khắp mọi miền của đất nước và cả nước ngoài thấy yêu hơn, nhớ hơn vùng đất vốn \"chưa mưa đã thấm\" này. Chả chìa được làm từ nguyên liệu chính là thịt heo nạc, người làm chả phải lấy được thịt từ heo vừa mới mổ, thịt còn nóng hổi. Thịt lấy về chọn thớ nạc, dùng giẻ vải sạch lau cho ráo, lọc bỏ hết phần gân, mỡ còn dính. Công đoạn tiếp theo là xắt thịt sao cho thật mỏng.",
+        "source": [
+            7,
+            8
+        ],
+        "children": []
+    }
+]

@@ -1,0 +1,25 @@
+--- BÀI VIẾT CỦA AI (SESSION: article_test_4) ---
+# Trà SenTrà sen là một loại trà đại diện của văn hóa trà Việt Nam, được ướp hương sen và có nhiều triết lý, lịch sự và lòng kính trọng.
+
+Giới thiệu
+Trà sen là một thức uống quý giá và được coi như hương sắc của Hà Nội, với lịch sử lâu đời và vị trí đặc biệt trong văn hóa trà Việt Nam. Từ xưa, người dân các làng cổ Quảng Bá, Tây Hồ và Nghi Tàm đã ướp trà sen để dâng tiến vua quan và những bậc quyền quý, thể hiện sự tôn trọng và trang trọng. Quá trình ướp trà sen đòi hỏi sự công phu và kỳ công, khi người ta phải cho một nhúm trà vào trong hoa sen mới hé nở, buộc kín lại và để qua đêm, sau đó hái vào sáng sớm để đảm bảo hương vị đậm đà và tinh khiết. Với sự kết hợp giữa trà và hoa sen, trà sen Tây Hồ đã trở thành một biểu tượng của văn hóa trà Việt Nam, với hương vị đặc trưng và giá trị tinh thần sâu sắc.
+
+Ướp sen
+Để tạo ra trà sen ngon và đặc trưng, quá trình ướp sen là một bước quan trọng. Trà sen được ướp bằng cách cho trà vào bên trong bông hoa sen, sau đó dùng lá sen buộc chặt bên ngoài. Tuy nhiên, có hai cách ướp sen khác nhau, bao gồm cách ướp truyền thống và cách ướp "xổi". Cách ướp truyền thống đòi hỏi sự tỉ mẩn và công phu hơn, khi nghệ nhân phải thả bông hoa sen về vị trí cũ sau khi ướp trà, và phải buộc cuống hoa vào thân lá bên cạnh để giữ cho bông hoa không ngả xuống mặt hồ. Sau đó, trà được ủ trong bông hoa qua đêm tại đầm, và quy trình ướp, sấy lặp đi lặp lại 5-7 lần để hương thơm của sen quyện vào vị trà. Cách ướp "xổi" đơn giản hơn, khi người ta cho một nắm nhỏ trà vào bên trong bông hoa rồi dùng lá sen buộc chặt bên ngoài, và sau đó cắm bông hoa vào nước qua một đêm để hương sen thấm vào trà. Để đảm bảo chất lượng của trà, nghệ nhân chỉ thực hiện ướp trà vào buổi sáng khi hoa sen tươi rói, và phải mất 1-2 tuần để hoàn thành 1kg trà. Loại sen dùng để ướp trà phải là những bông sen mọc tại đầm làng Quảng Bá có cánh phớt hồng, nụ vừa hé miệng sáo cho hương đậm đà, và một kg trà ướp sen theo cách truyền thống cần tới 1.000-1.400 bông sen.
+
+Sen sớm
+Sen sớm là một phần quan trọng trong quá trình ướp trà sen truyền thống. Để có được trà sen thượng hạng, người làm phải rất công phu, đặc biệt là trong việc lựa chọn và sử dụng sen sớm. Sen sớm được hái vào sáng sớm, khi những bông hoa sen mới hé nở, và phải là những bông sen mọc tại đầm làng Quảng Bá có cánh phớt hồng, nụ vừa hé miệng sáo cho hương đậm đà. Sau khi hái, sen sớm được đem về bóc cánh, tách gạo sen, rồi đem ướp với trà. Việc lấy gạo sen là công đoạn khó nhất, người làm phải nhanh tay, khéo léo sao cho gạo sen không bị vỡ nát, bay mất hương thơm. Một kg trà ướp sen theo cách truyền thống cần tới 1.000-1.400 bông sen, cứ một lượt trà lại rắc một lượt gạo sen. Quá trình ướp trà sen độc đáo và đặc biệt này đòi hỏi sự kiên nhẫn và tỉ mẩn, nhưng kết quả là một loại trà sen có hương vị đặc trưng và tinh khiết.
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/ ({'source_type': 'web', 'doc_name': 'article_test_4', 'chunk_index': 0, 'source_id': 1})
+[2] https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/ ({'chunk_index': 11, 'doc_name': 'article_test_4', 'source_type': 'web', 'source_id': 1})
+[3] https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/ ({'source_type': 'web', 'chunk_index': 4, 'doc_name': 'article_test_4', 'source_id': 1})
+[4] https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/ ({'doc_name': 'article_test_4', 'chunk_index': 8, 'source_id': 1, 'source_type': 'web'})
+[5] https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/ ({'doc_name': 'article_test_4', 'source_type': 'web', 'source_id': 1, 'chunk_index': 7})
+[6] https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/ ({'source_id': 1, 'source_type': 'web', 'doc_name': 'article_test_4', 'chunk_index': 3})
+[7] https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/ ({'source_id': 1, 'source_type': 'web', 'doc_name': 'article_test_4', 'chunk_index': 9})
+[8] https://cand.com.vn/doi-song/ky-cong-nghe-uop-tra-sen-qua-dem-tren-dam-i735111/ ({'chunk_index': 5, 'source_id': 1, 'source_type': 'web', 'doc_name': 'article_test_4'})
+
+--- KẾT QUẢ ĐÁNH GIÁ SẼ ĐƯỢC CẬP NHẬT DƯỚI ĐÂY ---
+Recall: 100.0 | Precision: 100.0 | Correctness: 0.84375

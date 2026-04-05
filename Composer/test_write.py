@@ -49,13 +49,13 @@ my_llm = LLMManager(provider=cfg.get("Provider"), base_url=cfg.get("Base URL"), 
 my_composer = WikiComposer(session_id="1223_24022025", name="Lúa ST25", template=my_template, llm=my_llm)
 
 # Preprocess the input
-# my_preproccessor = Preprocessor(session_id="1223_24022025")
-# try:
-#     my_preproccessor.execute("lua_st25/Lúa ST25.docx", input_type="docx")
-#     my_preproccessor.execute("https://www.youtube.com/watch?v=YgZNTqDDr4U", input_type="youtube")
-#     print("Preprocessing completed successfully.")
-# except Exception as e:
-#     print(f"Error during preprocessing: {e}")
+my_preproccessor = Preprocessor(session_id="1223_24022025")
+try:
+    my_preproccessor.execute("lua_st25/Lúa ST25.docx", input_type="docx")
+    my_preproccessor.execute("https://www.youtube.com/watch?v=YgZNTqDDr4U", input_type="youtube")
+    print("Preprocessing completed successfully.")
+except Exception as e:
+    print(f"Error during preprocessing: {e}")
 
 # Write the wiki
 try:

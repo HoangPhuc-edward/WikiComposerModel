@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "https://daylambanh.edu.vn/banh-it-tran",
+        "locator": {
+            "source_type": "web",
+            "source_id": 1,
+            "chunk_index": 0,
+            "doc_name": "article_test_12"
+        }
+    },
+    {
+        "id": 2,
+        "name": "https://daylambanh.edu.vn/banh-it-tran",
+        "locator": {
+            "doc_name": "article_test_12",
+            "chunk_index": 1,
+            "source_type": "web",
+            "source_id": 1
+        }
+    },
+    {
+        "id": 3,
+        "name": "https://daylambanh.edu.vn/banh-it-tran",
+        "locator": {
+            "chunk_index": 5,
+            "source_type": "web",
+            "doc_name": "article_test_12",
+            "source_id": 1
+        }
+    },
+    {
+        "id": 4,
+        "name": "https://daylambanh.edu.vn/banh-it-tran",
+        "locator": {
+            "source_id": 1,
+            "chunk_index": 2,
+            "source_type": "web",
+            "doc_name": "article_test_12"
+        }
+    },
+    {
+        "id": 5,
+        "name": "https://daylambanh.edu.vn/banh-it-tran",
+        "locator": {
+            "chunk_index": 4,
+            "source_id": 1,
+            "source_type": "web",
+            "doc_name": "article_test_12"
+        }
+    }
+]

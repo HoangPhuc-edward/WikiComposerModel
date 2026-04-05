@@ -1,0 +1,75 @@
+=== ATOMIC CLAIMS EXTRACTED FROM ARTICLE B ===
+Total Claims: 22
+
+1. Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+2. * Bánh đậu xanh trái cây là một loại bánh đặc sản có nguồn gốc từ ẩm thực cung đình Huế.
+3. * Bánh đậu xanh trái cây còn được gọi là "bánh quý tộc".
+4. * Món bánh này chỉ được phục vụ tại các yến tiệc của vua chúa ở Hoàng cung.
+5. * Món bánh này xuất hiện trong mâm cỗ gia đình quan lại và quý tộc vào các dịp lễ đặc biệt.
+6. * Nguyên liệu chính để làm nên món bánh này là đậu xanh.
+7. * Bột rau câu được sử dụng để tạo màu trang trí.
+8. * Công đoạn làm bánh đòi hỏi sự tỉ mỉ và tính sáng tạo của mỗi nghệ nhân.
+9. * Mỗi nghệ nhân tạo nên những chiếc bánh mang phong cách riêng.
+10. * Nguyên liệu chính của bánh gồm đậu xanh đãi vỏ, đường cát trắng và nước cốt dừa.
+11. * Lớp vỏ ngoài của bánh được tráng bằng bột rau câu (agar) để tạo độ bóng và bảo quản bánh.
+12. * Bánh được nặn thủ công thành hình các loại trái cây thu nhỏ.
+13. * Bánh có màu sắc rực rỡ và bắt mắt.
+14. * Bánh thường được dùng trong các mâm ngũ quả.
+15. * Bánh thường được dùng trong lễ cưới hỏi.
+16. * Bánh thường được dùng trong dịp Tết.
+17. * Bánh tượng trưng cho sự sung túc và tinh hoa nghệ thuật.
+18. * Sơ chế bánh bao gồm ngâm đậu xanh cho mềm, nấu chín rồi xay nhuyễn cùng nước cốt dừa và đường.
+19. * Sên nhân bánh bao gồm nấu hỗn hợp đậu xanh trên lửa nhỏ cho đến khi dẻo mịn và không dính tay.
+20. * Tạo hình bánh bao gồm nặn khối đậu thành hình các loại quả theo ý thích.
+21. * Tô màu bánh bao gồm dùng màu thực phẩm để vẽ lên bánh.
+22. * Nhúng bánh vào nước rau câu đun nóng để tạo lớp vỏ bóng loáng.
+
+==================================================
+
+=== NLI VERIFICATION RESULTS (A covers B?) ===
+Claim 1: Dưới đây là danh sách các 'Atomic Claims' (câu khẳng định đơn cực ngắn) được tách từ đoạn văn bản:
+Result: PASS (Label: 1)
+Claim 2: * Bánh đậu xanh trái cây là một loại bánh đặc sản có nguồn gốc từ ẩm thực cung đình Huế.
+Result: PASS (Label: 1)
+Claim 3: * Bánh đậu xanh trái cây còn được gọi là "bánh quý tộc".
+Result: FAIL (Label: 0)
+Claim 4: * Món bánh này chỉ được phục vụ tại các yến tiệc của vua chúa ở Hoàng cung.
+Result: FAIL (Label: 0)
+Claim 5: * Món bánh này xuất hiện trong mâm cỗ gia đình quan lại và quý tộc vào các dịp lễ đặc biệt.
+Result: FAIL (Label: 0)
+Claim 6: * Nguyên liệu chính để làm nên món bánh này là đậu xanh.
+Result: PASS (Label: 1)
+Claim 7: * Bột rau câu được sử dụng để tạo màu trang trí.
+Result: PASS (Label: 1)
+Claim 8: * Công đoạn làm bánh đòi hỏi sự tỉ mỉ và tính sáng tạo của mỗi nghệ nhân.
+Result: PASS (Label: 1)
+Claim 9: * Mỗi nghệ nhân tạo nên những chiếc bánh mang phong cách riêng.
+Result: PASS (Label: 1)
+Claim 10: * Nguyên liệu chính của bánh gồm đậu xanh đãi vỏ, đường cát trắng và nước cốt dừa.
+Result: PASS (Label: 1)
+Claim 11: * Lớp vỏ ngoài của bánh được tráng bằng bột rau câu (agar) để tạo độ bóng và bảo quản bánh.
+Result: PASS (Label: 1)
+Claim 12: * Bánh được nặn thủ công thành hình các loại trái cây thu nhỏ.
+Result: PASS (Label: 1)
+Claim 13: * Bánh có màu sắc rực rỡ và bắt mắt.
+Result: PASS (Label: 1)
+Claim 14: * Bánh thường được dùng trong các mâm ngũ quả.
+Result: PASS (Label: 1)
+Claim 15: * Bánh thường được dùng trong lễ cưới hỏi.
+Result: PASS (Label: 1)
+Claim 16: * Bánh thường được dùng trong dịp Tết.
+Result: PASS (Label: 1)
+Claim 17: * Bánh tượng trưng cho sự sung túc và tinh hoa nghệ thuật.
+Result: PASS (Label: 1)
+Claim 18: * Sơ chế bánh bao gồm ngâm đậu xanh cho mềm, nấu chín rồi xay nhuyễn cùng nước cốt dừa và đường.
+Result: PASS (Label: 1)
+Claim 19: * Sên nhân bánh bao gồm nấu hỗn hợp đậu xanh trên lửa nhỏ cho đến khi dẻo mịn và không dính tay.
+Result: PASS (Label: 1)
+Claim 20: * Tạo hình bánh bao gồm nặn khối đậu thành hình các loại quả theo ý thích.
+Result: PASS (Label: 1)
+Claim 21: * Tô màu bánh bao gồm dùng màu thực phẩm để vẽ lên bánh.
+Result: PASS (Label: 1)
+Claim 22: * Nhúng bánh vào nước rau câu đun nóng để tạo lớp vỏ bóng loáng.
+Result: PASS (Label: 1)
+
+FINAL CLAIM RECALL SCORE: 0.8636 (19/22)

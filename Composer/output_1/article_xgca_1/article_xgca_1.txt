@@ -1,0 +1,12 @@
+# Bánh cáyBánh cáy là đặc sản của làng Nguyễn, huyện Đông Hưng, tỉnh Thái Bình, được làm từ gạo nếp, mạch nha và các nguyên liệu khác.
+
+Giới thiệu
+Lỗi API OpenAI: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org01k0f0faq6fqqvp1dvz9enm7wm` service tier `ondemand` on tokens per minute (TPM): Limit 6000, Requested 16316, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'ratelimitexceeded'}}
+
+
+## TÀI LIỆU THAM KHẢO
+[1] https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html ({'doc_name': 'article_xgca_1', 'source_type': 'web', 'chunk_index': 1, 'source_id': 1})
+[2] https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html ({'doc_name': 'article_xgca_1', 'source_id': 1, 'source_type': 'web', 'chunk_index': 0})
+[3] https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html ({'source_id': 1, 'chunk_index': 3, 'doc_name': 'article_xgca_1', 'source_type': 'web'})
+[4] https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html ({'source_type': 'web', 'chunk_index': 4, 'doc_name': 'article_xgca_1', 'source_id': 1})
+[5] https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html ({'chunk_index': 2, 'source_type': 'web', 'doc_name': 'article_xgca_1', 'source_id': 1})

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "source/data6.txt",
+        "locator": {
+            "chunk_index": 6,
+            "doc_name": "article_test_15",
+            "source_id": 1,
+            "source_type": "txt"
+        }
+    },
+    {
+        "id": 2,
+        "name": "source/data6.txt",
+        "locator": {
+            "source_type": "txt",
+            "chunk_index": 9,
+            "doc_name": "article_test_15",
+            "source_id": 1
+        }
+    }
+]
