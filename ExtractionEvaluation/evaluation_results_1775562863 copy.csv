@@ -1,0 +1,96 @@
+METHOD,IDENTIFIER,RESULT,DURATION_SECONDS,SCORE,THRESHOLD
+AUDIO,full_1,ĐÚNG,36.467,87,85
+AUDIO,full_2,ĐÚNG,26.347,90,85
+AUDIO,full_3,ĐÚNG,43.866,89,85
+AUDIO,full_4,ĐÚNG,29.766,89,85
+AUDIO,full_5,ĐÚNG,17.289,93,85
+AUDIO,full_6,ĐÚNG,36.355,89,85
+AUDIO,full_7,ĐÚNG,44.199,90,85
+AUDIO,full_8,ĐÚNG,25.571,88,85
+AUDIO,full_9,ĐÚNG,51.859,91,85
+AUDIO,full_10,ĐÚNG,31.588,92,85
+AUDIO,full_11,ĐÚNG,10.903,89,85
+AUDIO,full_12,ĐÚNG,26.733,87,85
+AUDIO,full_13,ĐÚNG,30.908,91,85
+AUDIO,full_14,ĐÚNG,26.318,92,85
+AUDIO,full_15,ĐÚNG,27.376,90,85
+AUDIO,full_16,ĐÚNG,73.235,88,85
+AUDIO,full_17,ĐÚNG,28.399,93,85
+AUDIO,full_18,ĐÚNG,30.853,91,85
+AUDIO,full_19,ĐÚNG,13.329,92,85
+AUDIO,full_20,ĐÚNG,22.809,88,85
+AUDIO,full_21,ĐÚNG,32.204,89,85
+AUDIO,full_22,ĐÚNG,13.936,88,85
+AUDIO,full_23,ĐÚNG,32.032,87,85
+AUDIO,full_24,ĐÚNG,27.198,93,85
+AUDIO,full_25,ĐÚNG,36.65,92,85
+AUDIO,full_26,ĐÚNG,12.135,89,85
+AUDIO,full_27,ĐÚNG,18.155,89,85
+AUDIO,full_28,ĐÚNG,20.928,89,85
+AUDIO,full_29,ĐÚNG,12.405,90,85
+AUDIO,full_30,ĐÚNG,15.821,92,85
+AUDIO,full_31,ĐÚNG,31.112,88,85
+NEWSPAPER,https://nongnghiepmoitruong.vn/bon-phan-dung-la-chia-khoa-canh-tac-lua-chat-luong-cao-phat-thai-thap-d790187.html,ĐÚNG,4.429,99,85
+NEWSPAPER,https://nongnghiepmoitruong.vn/bien-khoai-mo-thanh-nguyen-lieu-da-ung-dung-d789231.html,ĐÚNG,0.106,96,85
+NEWSPAPER,https://nongnghiepmoitruong.vn/thanh-long-lam-dong-huong-toi-giam-phat-thai-d786522.html,ĐÚNG,0.118,98,85
+NEWSPAPER,https://nongnghiepmoitruong.vn/mien-dong-ngay-cang-noi-tieng-giup-binh-lieu-xoa-so-ho-ngheo-d789598.html,ĐÚNG,0.107,99,85
+NEWSPAPER,https://nongnghiepmoitruong.vn/san-xuat-trai-cay-vietgap-giam-tu-20--30-chi-phi-vat-tu-dau-vao-d788438.html,ĐÚNG,0.087,99,85
+NEWSPAPER,https://nongnghiepmoitruong.vn/dak-lak-danh-gia-mo-hinh-san-xuat-giong-khoai-lang-cay-mo-d788007.html,ĐÚNG,0.102,100,85
+NEWSPAPER,https://vnexpress.net/cam-17-5-cua-tap-doan-nongfu-spring-ra-mat-tai-viet-nam-4993820.html,ĐÚNG,5.698,100,85
+NEWSPAPER,https://vnexpress.net/nha-khoa-hoc-ban-giai-phap-cho-nong-nghiep-va-chan-nuoi-ben-vung-4986994.html,ĐÚNG,1.036,98,85
+NEWSPAPER,https://vnexpress.net/vi-sao-nguoi-tre-khong-muon-gan-bo-nong-nghiep-4935532.html,ĐÚNG,0.063,95,85
+NEWSPAPER,https://vnexpress.net/tong-bi-thu-can-khoi-day-khat-khao-cong-hien-cua-moi-tang-lop-nhan-dan-4995871.html,ĐÚNG,0.076,100,85
+NEWSPAPER,https://vnexpress.net/cay-lua-chiem-12-tong-phat-thai-khi-metan-toan-the-gioi-4989486.html,ĐÚNG,0.992,100,85
+NEWSPAPER,https://dantri.com.vn/noi-vu/lai-chau-uu-tien-phat-trien-nong-nghiep-cong-nghe-cao-20251209183744723.htm,ĐÚNG,6.087,100,85
+NEWSPAPER,https://dantri.com.vn/bat-dong-san/xay-nha-tren-dat-nong-nghiep-bi-thu-hoi-so-do-phai-lam-the-nao-20251212120454536.htm,ĐÚNG,0.053,100,85
+NEWSPAPER,https://dantri.com.vn/lao-dong-viec-lam/nong-dan-thu-loi-kep-tu-viec-bat-loai-oc-pha-hoai-mua-mang-20251215081853531.htm,ĐÚNG,0.064,100,85
+NEWSPAPER,https://dantri.com.vn/lao-dong-viec-lam/nguoi-dan-vung-kho-kiem-bon-tien-nho-thuc-an-cho-ca-sau-va-tom-hum-20220306002644781.htm,ĐÚNG,0.034,100,85
+NEWSPAPER,https://dantri.com.vn/kinh-doanh/nong-dan-do-xo-di-bat-oc-buou-vang-hai-lua-thu-loi-hang-trieu-dong-20191111095939532.htm,ĐÚNG,0.049,95,85
+NEWSPAPER,https://dantri.com.vn/lao-dong-viec-lam/dan-ngheo-khoc-meu-khi-bi-xanh-duoc-mua-lai-bi-dau-ra-20220916162103411.htm,ĐÚNG,0.052,100,85
+NEWSPAPER,https://baodongnai.com.vn/kinh-te/202512/cam-my-voi-muc-tieu-hinh-thanh-trung-tam-che-bien-nong-san-81272e0/,ĐÚNG,5.398,93,85
+NEWSPAPER,https://baodongnai.com.vn/kinh-te/202512/dong-nai-quyet-tam-giu-vung-top-dau-tang-truong-da671db/,ĐÚNG,0.134,93,85
+NEWSPAPER,https://vietnamnet.vn/dac-san-chi-co-mot-thang-o-ninh-binh-cho-thu-nhap-gap-3-4-lan-trong-lua-2463031.html,ĐÚNG,2.312,100,85
+NEWSPAPER,https://vietnamnet.vn/mot-ruong-hai-loi-xa-ngheo-doi-doi-nho-trong-lua-nuoi-tom-hum-2471243.html,ĐÚNG,0.083,100,85
+NEWSPAPER,https://vietnamnet.vn/bi-che-dai-khi-bo-lua-trong-oi-hong-lao-nong-can-tho-nay-thu-400-trieu-moi-nam-2458634.html,ĐÚNG,0.097,100,85
+NEWSPAPER,https://dantri.com.vn/thoi-su/bo-nong-nghiep-va-moi-truong-ket-noi-12-co-so-du-lieu-voi-he-thong-quoc-gia-20260406210547439.htm,SAI,0.055,80,85
+NEWSPAPER,https://dantri.com.vn/kinh-doanh/doanh-nghiep-hiep-hoi-chung-tay-giu-nhip-san-xuat-nong-nghiep-20260330190955299.htm,SAI,0.073,84,85
+NEWSPAPER,https://dantri.com.vn/kinh-doanh/doanh-nghiep-viet-rot-hang-nghin-ty-dong-vao-nong-nghiep-lao-va-campuchia-20260330064020722.htm,ĐÚNG,0.425,100,85
+NEWSPAPER,https://dantri.com.vn/khoa-hoc/dau-an-cua-hoc-vien-nong-nghiep-viet-nam-tai-techfest-2025-cong-nghe-nong-nghiep-len-ngoi-20251218144635580.htm,ĐÚNG,0.112,100,85
+NEWSPAPER,https://dantri.com.vn/kinh-doanh/ky-nguyen-moi-cua-nong-nghiep-viet-xuat-khau-cong-nghe-va-di-san-20260306111213154.htm,ĐÚNG,0.388,96,85
+NEWSPAPER,https://dantri.com.vn/lao-dong-viec-lam/tuyen-lao-dong-di-han-quoc-lam-nong-nghiep-20260202141909161.htm,ĐÚNG,0.516,91,85
+NEWSPAPER,https://dantri.com.vn/lao-dong-viec-lam/ky-su-nong-nghiep-bo-viec-luong-cao-on-dinh-ve-que-trong-oi-thu-tien-ty-20260330095131004.htm,ĐÚNG,0.488,100,85
+NEWSPAPER,https://vnexpress.net/tp-hcm-muon-thuc-day-he-sinh-thai-nong-nghiep-cong-nghe-cao-5058211.html,ĐÚNG,0.11,100,85
+NEWSPAPER,https://vnexpress.net/cuu-thu-truong-nong-nghiep-ra-toa-trong-vu-nhan-qua-4-5-ty-dong-5056178.html,ĐÚNG,1.066,100,85
+NEWSPAPER,https://vnexpress.net/nong-nghiep-chiu-ap-luc-the-nao-truoc-xung-dot-trung-dong-5055176.html,ĐÚNG,0.933,100,85
+NEWSPAPER,https://vnexpress.net/cuu-thu-truong-nong-nghiep-bi-de-nghi-4-5-nam-tu-vi-nhan-4-5-ty-dong-5057008.html,ĐÚNG,1.064,99,85
+TEXT FILES,Bưởi da xanh,ĐÚNG,0.095,100,85
+TEXT FILES,Bưởi Luận Văn,ĐÚNG,0.029,100,85
+TEXT FILES,Bưởi Lông Cổ cò,ĐÚNG,0.016,100,85
+TEXT FILES,Bưởi Năm Roi,ĐÚNG,0.023,100,85
+TEXT FILES,Bưởi,ĐÚNG,0.024,99,85
+TEXT FILES,Chôm chôm Dona,ĐÚNG,0.018,100,85
+TEXT FILES,Chôm chôm Java,ĐÚNG,0.002,100,85
+TEXT FILES,Chôm chôm nhãn,ĐÚNG,0.009,100,85
+TEXT FILES,Chôm chôm đường,ĐÚNG,0.005,100,85
+TEXT FILES,Danh sách giống bưởi,ĐÚNG,0.005,100,85
+TEXT FILES,Danh sách giống mít,ĐÚNG,0.007,100,85
+TEXT FILES,Danh sách giống đậu tương,ĐÚNG,0.006,100,85
+TEXT FILES,Kỹ thuật trồng và chăm sóc mít,ĐÚNG,0.024,99,85
+TEXT FILES,Kỹ thuật trồng và chăm sóc bưởi,ĐÚNG,0.049,100,85
+TEXT FILES,Kỹ thuật trồng và chăm sóc mía,ĐÚNG,0.022,96,85
+TEXT FILES,Kỹ thuật trồng và chăm sóc đậu tương,ĐÚNG,0.019,100,85
+TEXT FILES,Mía F156 (F141 x CP34-79),ĐÚNG,0.0,100,85
+TEXT FILES,Mía ROC10 (ROC5 X F152),ĐÚNG,0.004,100,85
+TEXT FILES,Mía,ĐÚNG,0.022,100,85
+TEXT FILES,Mít,ĐÚNG,0.021,99,85
+TEXT FILES,Đậu tương - Copy,ĐÚNG,0.018,100,85
+TEXT FILES,Đậu tương Đ11,ĐÚNG,0.0,100,85
+TEXT FILES,Đậu tương Đ2101,ĐÚNG,0.011,100,85
+TEXT FILES,Đậu tương Đ8,ĐÚNG,0.008,100,85
+TEXT FILES,Đậu tương Đ9,ĐÚNG,0.009,100,85
+TEXT FILES,Đậu tương Đ9804,ĐÚNG,0.007,100,85
+TEXT FILES,Đậu tương ĐT12,ĐÚNG,0.008,100,85
+TEXT FILES,Đậu tương ĐT22,ĐÚNG,0.007,100,85
+TEXT FILES,Đậu tương ĐT26,ĐÚNG,0.005,100,85
+TEXT FILES,Đậu tương ĐT32,ĐÚNG,0.005,100,85
+TEXT FILES,Đậu tương,ĐÚNG,0.008,100,85

@@ -10,7 +10,8 @@ from thefuzz import fuzz
 class Evaluator:
     def __init__(self, model_size="base"):
         self.extractor = Extractor(model_size=model_size)
-        self.log_file = os.path.join(os.path.dirname(__file__), "evaluation_results.csv")
+        
+        self.log_file = os.path.join(os.path.dirname(__file__), f"evaluation_results_1775562863.csv")
         if not os.path.exists(self.log_file):
             try:
                 with open(self.log_file, "w", newline='', encoding="utf-8") as f:
@@ -132,7 +133,6 @@ class Evaluator:
                 possible_paths = [
                     os.path.join(file_dir, f"{file_name}.pdf"),
                     os.path.join(file_dir, f"{file_name}.docx"),
-                    os.path.join(file_dir, file_name)
                 ]
                 
                 target_path = next((p for p in possible_paths if os.path.exists(p)), None)
@@ -216,7 +216,13 @@ class Evaluator:
         try:
             with open(srt_path, 'r', encoding='utf-8') as f:
                 content = f.read()
-            content = re.sub(r'\d{2}:\d{2}:\d{2},\d{3} --> \d{2}:\d{2}:\d{2},\d{3}', '', content)
+
+            if srt_path.endswith('.srt'):
+                content = re.sub(r'\d{2}:\d{2}:\d{2},\d{3} --> \d{2}:\d{2}:\d{2},\d{3}', '', content)
+            elif srt_path.endswith('.vtt'):
+                content = re.sub(r'\d{2}:\d{2}:\d{2}\.\d{3} --> \d{2}:\d{2}:\d{2}\.\d{3}', '', content)
+            else:
+                print(f"Không hỗ trợ định dạng phụ đề: {srt_path}")
             content = re.sub(r'^\d+$', '', content, flags=re.MULTILINE)
             content = re.sub(r'<[^>]+>', '', content)
             lines = [line.strip() for line in content.splitlines() if line.strip()]
@@ -230,7 +236,7 @@ class Evaluator:
         print("\n>>> Đang chạy đánh giá: LOCAL VIDEO (MP4)")
         csv_path = "datasets/video/train.csv"
         video_dir = "datasets/video/mp4"
-        srt_dir = "datasets/video/subtitle"
+        srt_dir = "datasets/video/subtitles"
         
         try:
             df = pd.read_csv(csv_path)
@@ -242,6 +248,7 @@ class Evaluator:
                 video_path = os.path.join(video_dir, f"{name}.mp4")
                 srt_path = os.path.join(srt_dir, f"{name}.srt")
                 
+
                 print(f"Đang kiểm tra Video Local: {name}")
                 
                 start = time.time()
@@ -249,7 +256,11 @@ class Evaluator:
                     ground_truth = ""
                     if os.path.exists(srt_path):
                         ground_truth = self.clean_srt(srt_path)
-                    
+                    else:
+                        vtt_path = os.path.join(srt_dir, f"{name}.vtt")
+                        if os.path.exists(vtt_path):
+                            ground_truth = self.clean_srt(vtt_path)
+
                     if not ground_truth:
                         print(f"Bỏ qua {name}: Không tìm thấy hoặc lỗi file SRT")
                         continue
@@ -280,7 +291,7 @@ class Evaluator:
     def run_youtube_eval(self):
         print("\n>>> Đang chạy đánh giá: YOUTUBE EXTRACTOR")
         csv_path = "datasets/video/train.csv"
-        srt_dir = "datasets/video/subtitle"
+        srt_dir = "datasets/video/subtitles"
         
         try:
             df = pd.read_csv(csv_path)
@@ -299,6 +310,10 @@ class Evaluator:
                     ground_truth = ""
                     if os.path.exists(srt_path):
                         ground_truth = self.clean_srt(srt_path)
+                    else:
+                        vtt_path = os.path.join(srt_dir, f"{name}.vtt")
+                        if os.path.exists(vtt_path):
+                            ground_truth = self.clean_srt(vtt_path)
                     
                     if not ground_truth:
                         print(f"Bỏ qua {name}: Cần file SRT local để đối chiếu kết quả Youtube")
@@ -327,10 +342,10 @@ class Evaluator:
             print(f"Lỗi file CSV Video: {e}")
 
 if __name__ == "__main__":
-    evaluator = Evaluator(model_size="large-v3-turbo")
-    # evaluator.run_audio_eval()
-    # evaluator.run_newspaper_eval()
-    # evaluator.run_text_files_eval()
+    evaluator = Evaluator(model_size="base")
+    #evaluator.run_audio_eval()
+    #evaluator.run_newspaper_eval()
+    #evaluator.run_text_files_eval()
     # evaluator.run_video_eval()
-    # evaluator.run_local_video_eval()
+    evaluator.run_local_video_eval()
     evaluator.run_youtube_eval()

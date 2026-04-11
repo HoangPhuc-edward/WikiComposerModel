@@ -1,0 +1,33 @@
+METHOD,IDENTIFIER,RESULT,DURATION_SECONDS,SCORE,THRESHOLD
+TEXT FILES,Bưởi da xanh,ĐÚNG,0.095,100,85
+TEXT FILES,Bưởi Luận Văn,ĐÚNG,0.029,100,85
+TEXT FILES,Bưởi Lông Cổ cò,ĐÚNG,0.016,100,85
+TEXT FILES,Bưởi Năm Roi,ĐÚNG,0.023,100,85
+TEXT FILES,Bưởi,ĐÚNG,0.024,99,85
+TEXT FILES,Chôm chôm Dona,ĐÚNG,0.018,100,85
+TEXT FILES,Chôm chôm Java,ĐÚNG,0.002,100,85
+TEXT FILES,Chôm chôm nhãn,ĐÚNG,0.009,100,85
+TEXT FILES,Chôm chôm đường,ĐÚNG,0.005,100,85
+TEXT FILES,Danh sách giống bưởi,ĐÚNG,0.005,100,85
+TEXT FILES,Danh sách giống mít,ĐÚNG,0.007,100,85
+TEXT FILES,Danh sách giống đậu tương,ĐÚNG,0.006,100,85
+TEXT FILES,Kỹ thuật trồng và chăm sóc mít,ĐÚNG,0.024,99,85
+TEXT FILES,Kỹ thuật trồng và chăm sóc bưởi,ĐÚNG,0.049,100,85
+TEXT FILES,Kỹ thuật trồng và chăm sóc mía,ĐÚNG,0.022,96,85
+TEXT FILES,Kỹ thuật trồng và chăm sóc đậu tương,ĐÚNG,0.019,100,85
+TEXT FILES,Mía F156 (F141 x CP34-79),ĐÚNG,0,100,85
+TEXT FILES,Mía ROC10 (ROC5 X F152),ĐÚNG,0.004,100,85
+TEXT FILES,Mía,ĐÚNG,0.022,100,85
+TEXT FILES,Mít,ĐÚNG,0.021,99,85
+TEXT FILES,Đậu tương - Copy,ĐÚNG,0.018,100,85
+TEXT FILES,Đậu tương Đ11,ĐÚNG,0,100,85
+TEXT FILES,Đậu tương Đ2101,ĐÚNG,0.011,100,85
+TEXT FILES,Đậu tương Đ8,ĐÚNG,0.008,100,85
+TEXT FILES,Đậu tương Đ9,ĐÚNG,0.009,100,85
+TEXT FILES,Đậu tương Đ9804,ĐÚNG,0.007,100,85
+TEXT FILES,Đậu tương ĐT12,ĐÚNG,0.008,100,85
+TEXT FILES,Đậu tương ĐT22,ĐÚNG,0.007,100,85
+TEXT FILES,Đậu tương ĐT26,ĐÚNG,0.005,100,85
+TEXT FILES,Đậu tương ĐT32,ĐÚNG,0.005,100,85
+TEXT FILES,Đậu tương,ĐÚNG,0.008,100,85
+,,,,99.77419355,85

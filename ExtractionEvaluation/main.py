@@ -1,4 +1,4 @@
-from extractor import Extractor
+from ExtractionEvaluation.extractor1 import Extractor
 import json
 
 
